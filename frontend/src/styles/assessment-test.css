@@ -1,0 +1,174 @@
+/* ===== PAGE BACKGROUND ===== */
+body {
+  background-color: #f2f2f2;
+}
+
+/* =================================================
+   LAYOUT UTAMA
+   ================================================= */
+.assessment-layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* =================================================
+   SIDEBAR / SIDE-MENU (FULL SAMPAI BAWAH)
+   ================================================= */
+.side-menu {
+  min-height: 100vh;
+  padding-top: 24px;
+}
+
+/* =================================================
+   KONTEN KANAN
+   👉 diturunin dikit dari atas layar
+   ================================================= */
+.assessment-layout .content {
+  flex: 1;
+  padding-top: 10px;      /* 🔥 INI KUNCI: bikin konten turun */
+  padding-bottom: 40px;
+}
+
+/* =================================================
+   PANEL / CARD ASSESSMENT
+   ================================================= */
+.assessment-test-panel {
+  background: #ffffff;
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(31, 41, 55, 0.08);
+  min-height: 420px;
+}
+
+
+/* ===== TITLE ===== */
+.assessment-test-panel h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 14px;
+  color: #ff0000;
+}
+
+/* ===== DESCRIPTION ===== */
+.assessment-desc {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 14px;
+}
+
+/* ===== LABEL ===== */
+.select-label {
+  display: block;
+  margin-top: 24px;
+  margin-bottom: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #333;
+}
+
+/* ===== SELECT ===== */
+#lp-select {
+  width: 100%;
+  height: 42px;
+  padding: 0 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+#lp-select:focus {
+  outline: none;
+  border-color: #2c3e50;
+}
+
+/* ===== BUTTON AREA ===== */
+.assessment-action {
+  margin-top: 28px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* ===== BUTTON ===== */
+.button-primary {
+  height: 42px;
+  padding: 0 22px;
+  border: none;
+  border-radius: 6px;
+  background-color: #2c3e50;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.button-primary:hover {
+  background-color: #1f2d3a;
+}
+
+/* ===== WARNING BOX ===== */
+.assessment-warning {
+  margin-bottom: 20px;
+  padding: 14px 16px;
+  background-color: #dbeef7;
+  border: 1px solid #badaff;
+  border-radius: 6px;
+  font-size: 14px;
+  color: #1f2937;
+}
+
+.assessment-desc {
+  font-size: 15px;
+  
+}
+
+.assessment-warning button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: none;
+  background: #1f2937;
+  color: white;
+  cursor: pointer;
+}
+
+/* ===== UTIL ===== */
+.hidden {
+  display: none;
+}
+
+/* =================================================
+   TITLE BOX (SAMA DENGAN ASSESSMENT RESULT)
+   ================================================= */
+.assessment-title-box {
+  background: #1f2937;
+  color: #ffffff;
+  padding: 17px 28px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.assessment-title-box h3 {
+  margin: 0 0 8px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.assessment-title-box p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #e5e7eb;
+}
+
+/* =================================================
+   HINT TEXT
+   ================================================= */
+.assessment-hint {
+  margin-top: 16px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #6b7280;
+}

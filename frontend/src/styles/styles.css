@@ -1,0 +1,248 @@
+/* =====================
+   RESET & BASE
+===================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #f8fafc;
+  color: #111827;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+/* =====================
+   HEADER / NAVBAR
+===================== */
+header {
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.main-header {
+  display: flex;
+  align-items: center;
+  height: 64px;
+}
+
+/* LOGO */
+.brand-name {
+  display: flex;
+  align-items: center;
+}
+
+.brand-logo {
+  height: 36px;
+  object-fit: contain;
+}
+
+/* NAV DESKTOP */
+.navigation-drawer {
+  margin-left: auto; /* 🔥 KUNCI: dorong ke kanan */
+}
+
+.nav-list {
+  display: flex;
+  gap: 24px;
+  list-style: none;
+}
+
+.nav-list li a {
+  font-weight: 500;
+  color: #374151;
+  padding: 6px 10px;
+  border-radius: 8px;
+  transition: all .2s ease;
+}
+
+.nav-list li a:hover {
+  background: #eff6ff;
+  color: #2563eb;
+}
+
+.nav-list a.active {
+  background: #eff6ff;
+  color: #2563eb;
+  font-weight: 600;
+}
+
+/* DRAWER BUTTON */
+.drawer-button {
+  display: none;
+  margin-left: 16px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #151f33;
+}
+
+.drawer-button:focus,
+.drawer-button:active,
+.drawer-button:hover {
+  outline: none;
+  color: #151f33; /* tetap biru tua */
+  background: rgba(0, 0, 0, 0.12);
+}
+
+
+/* =====================
+   NAV OVERLAY
+===================== */
+.nav-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.4);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .3s ease;
+  z-index: 90;
+}
+
+.nav-overlay.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* =====================
+   MAIN CONTENT
+===================== */
+.main-content {
+  padding: 24px 0;
+}
+
+/* =====================
+   BUTTON
+===================== */
+button,
+.button-primary {
+  background: #2563eb;
+  color: #ffffff;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 10px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background .2s ease;
+}
+
+button:hover,
+.button-primary:hover {
+  background: #1e40af;
+}
+
+.button-outline {
+  background: transparent;
+  border: 1px solid #2563eb;
+  color: #2563eb;
+}
+
+.button-outline:hover {
+  background: #eff6ff;
+}
+
+/* =====================
+   CARD
+===================== */
+.card,
+.panel {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.04);
+}
+
+/* =====================
+   PROGRESS BAR
+===================== */
+.progress {
+  width: 100%;
+  height: 12px;
+  background: #e5e7eb;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+/* =====================
+   MOBILE NAVIGATION
+===================== */
+@media (max-width: 768px) {
+
+  /* SHOW DRAWER BUTTON */
+  .drawer-button {
+    display: block;
+    margin-left: auto;
+    z-index: 110;
+    position: relative;
+  }
+
+  /* MOBILE DRAWER */
+  .navigation-drawer {
+    display: flex;              /* 🔥 PENTING */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 260px;
+    height: 100vh;
+    background: #ffffff;
+    padding: 24px;
+    transform: translateX(-100%);
+    transition: transform .3s ease;
+    z-index: 100;
+    margin-left: 0;
+    flex-direction: column;
+  }
+
+  .navigation-drawer.active {
+    transform: translateX(0);
+  }
+
+  .nav-list {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .nav-list li a {
+    font-size: 16px;
+    padding: 10px 12px;
+  }
+
+  .nav-list li a:hover {
+    background: #eff6ff;
+    color: #2563eb;
+  }
+}
+
+/* =====================
+   AUTH PAGE OVERRIDE
+===================== */
+body.page-auth header {
+  position: absolute;
+  background: transparent;
+  border-bottom: none;
+}
+
+body.page-auth .main-content {
+  padding: 0;
+}

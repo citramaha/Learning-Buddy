@@ -1,0 +1,155 @@
+/* ===============================
+   ROADMAP CONTAINER
+================================ */
+.roadmap {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* ===============================
+   ROADMAP ITEM
+================================ */
+.roadmap-item {
+  display: flex;
+  gap: 20px;
+}
+
+/* ===============================
+   LEFT COLUMN (ANGKA + GARIS)
+================================ */
+.roadmap-left {
+  width: 44px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ===============================
+   INDICATOR
+================================ */
+.roadmap-indicator {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: #e5e7eb;
+  color: #374151;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+
+/* status */
+.roadmap-item.completed .roadmap-indicator {
+  background: #22c55e;
+  color: #fff;
+}
+
+.roadmap-item.active .roadmap-indicator {
+  background: #1f2937;
+  color: #fff;
+}
+
+.roadmap-item.locked .roadmap-indicator {
+  background: #d1d5db;
+  color: #9ca3af;
+}
+
+/* ===============================
+   GARIS PENGHUBUNG
+================================ */
+.roadmap-connector {
+  flex: 1;
+  width: 2px;
+  background: #e5e7eb;
+  margin-top: 6px;
+}
+
+/* hide last */
+.roadmap-item:last-child .roadmap-connector {
+  display: none;
+}
+
+/* ===============================
+   CARD
+================================ */
+.roadmap-card {
+  flex: 1;
+  background: #ffffff;
+  padding: 22px 26px;
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(31, 41, 55, 0.08);
+}
+
+.roadmap-card h4 {
+  margin: 0 0 8px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #1f2937;
+}
+
+/* ===============================
+   META
+================================ */
+.meta {
+  display: flex;
+  gap: 16px;
+  font-size: 13px;
+  color: #6b7280;
+  margin-bottom: 8px;
+}
+
+/* ===============================
+   STATUS
+================================ */
+.status {
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.roadmap-item.completed .status {
+  color: #16a34a;
+}
+
+.roadmap-item.active .status {
+  color: #1f2937;
+}
+
+.roadmap-item.locked .status {
+  color: #9ca3af;
+}
+
+/* ===============================
+   BUTTON
+================================ */
+.btn-start {
+  background: #1f2937;
+  color: #ffffff;
+  border: none;
+  padding: 8px 18px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-start:hover {
+  background: #111827;
+}
+
+.btn-start:disabled {
+  background: #d1d5db;
+  color: #9ca3af;
+  cursor: not-allowed;
+}
+
+.roadmap-title {
+  background: #1f2937;
+  color: #ffffff;
+  padding: 20px 28px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}

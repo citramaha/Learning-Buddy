@@ -1,0 +1,272 @@
+name,email,course_name,active_tutorials,completed_tutorials,is_graduated,already_generated_certificate,final_submission_id,submission_rating,final_exam_id,exam_score
+Dina Wijaya,dina.wijaya1@example.com,Belajar Membangun Aplikasi Android Native Bagian I,4,0,0,0,4,,,
+Irfan Halim,irfan.halim2@example.com,Belajar Membangun Aplikasi dengan Universal Windows Platform,10,0,0,0,76,,,
+Hana Pratama,hana.pratama3@example.com,Belajar Fundamental Aplikasi Android,107,1,0,0,"1,099",,163,
+Dina Utama,dina.utama4@example.com,Belajar Fundamental Aplikasi Android,107,0,0,0,"1,099",,163,
+Rafi Santoso,rafi.santoso5@example.com,Belajar Fundamental Aplikasi Android,107,55,0,0,"1,099",,163,
+Sari Kusuma,sari.kusuma6@example.com,Belajar Fundamental Aplikasi Android,107,214,1,0,"1,099",5,163,100
+Bima Wijaya,bima.wijaya7@example.com,Belajar Fundamental Aplikasi Android,107,1,0,0,"1,099",,163,
+Citra Halim,citra.halim8@example.com,Belajar Fundamental Aplikasi Android,107,18,0,0,"1,099",,163,
+Hana Saputra,hana.saputra9@example.com,Belajar Fundamental Aplikasi Android,107,96,1,0,"1,099",3,163,
+Tono Wijaya,tono.wijaya10@example.com,Belajar Fundamental Aplikasi Android,107,19,0,0,"1,099",,163,
+Rafi Halim,rafi.halim11@example.com,Belajar Fundamental Aplikasi Android,107,103,0,0,"1,099",,163,
+Rafi Kusuma,rafi.kusuma12@example.com,Belajar Fundamental Aplikasi Android,107,0,0,0,"1,099",,163,
+Hana Ramadhan,hana.ramadhan13@example.com,Belajar Fundamental Aplikasi Android,107,2,0,0,"1,099",,163,
+Sari Siregar,sari.siregar14@example.com,Belajar Fundamental Aplikasi Android,107,5,0,0,"1,099",,163,
+Ari Agustina,ari.agustina15@example.com,Belajar Fundamental Aplikasi Android,107,3,0,0,"1,099",,163,
+Fira Hartono,fira.hartono16@example.com,Belajar Fundamental Aplikasi Android,107,0,0,0,"1,099",,163,
+Nando Putri,nando.putri17@example.com,Belajar Fundamental Aplikasi Android,107,1,0,0,"1,099",,163,
+Irfan Pratama,irfan.pratama18@example.com,Belajar Membangun LINE Chatbot,26,0,0,0,773,,,
+Gilang Agustina,gilang.agustina19@example.com,Belajar Membangun LINE Chatbot,26,44,1,0,773,5,,
+Kiki Santoso,kiki.santoso20@example.com,Belajar Membangun LINE Chatbot,26,18,0,0,773,,,
+Citra Kusuma,citra.kusuma21@example.com,Belajar Membuat Aplikasi Android untuk Pemula,49,0,0,0,"1,247",,"29,350",
+Dina Putri,dina.putri22@example.com,Belajar Membuat Aplikasi Android untuk Pemula,49,50,1,0,"1,247",3,"29,350",
+Lestari Gunawan,lestari.gunawan23@example.com,Belajar Membuat Aplikasi Android untuk Pemula,49,147,1,0,"1,247",5,"29,350",100
+Irfan Agustina,irfan.agustina24@example.com,Belajar Membuat Aplikasi Android untuk Pemula,49,24,0,0,"1,247",,"29,350",
+Bima Hartono,bima.hartono25@example.com,Belajar Membuat Aplikasi Android untuk Pemula,49,25,1,0,"1,247",4,"29,350",
+Oka Saputra,oka.saputra26@example.com,Belajar Membuat Aplikasi Android untuk Pemula,49,48,0,0,"1,247",,"29,350",90
+Dina Prasetyo,dina.prasetyo27@example.com,Belajar Membuat Aplikasi Android untuk Pemula,49,29,1,0,"1,247",5,"29,350",
+Maya Santoso,maya.santoso28@example.com,Kotlin Android Developer Expert,57,0,0,0,"1,761",,,
+Rafi Siregar,rafi.siregar29@example.com,Memulai Pemrograman Dengan Java,42,39,0,0,,,"2,585",
+Tono Prasetyo,tono.prasetyo30@example.com,Memulai Pemrograman Dengan Java,42,84,1,0,,,"2,585",95
+Lestari Gunawan,lestari.gunawan31@example.com,Memulai Pemrograman Dengan Java,42,15,0,0,,,"2,585",
+Gilang Hartono,gilang.hartono32@example.com,Memulai Pemrograman Dengan Java,42,39,0,0,,,"2,585",
+Citra Wijaya,citra.wijaya33@example.com,Memulai Pemrograman Dengan Java,42,15,0,0,,,"2,585",
+Hana Agustina,hana.agustina34@example.com,Belajar Membuat Aplikasi Kognitif,24,10,0,0,,,"6,535",
+Juno Santoso,juno.santoso35@example.com,Memulai Pemrograman dengan Kotlin,97,56,1,0,"4,377",3,"45,284",
+Hana Wibowo,hana.wibowo36@example.com,Memulai Pemrograman dengan Kotlin,97,136,1,0,"4,377",4,"45,284",
+Dina Kusuma,dina.kusuma37@example.com,Memulai Pemrograman dengan Kotlin,97,27,0,0,"4,377",,"45,284",
+Irfan Ramadhan,irfan.ramadhan38@example.com,Memulai Pemrograman dengan Kotlin,97,56,1,0,"4,377",5,"45,284",
+Lestari Pratama,lestari.pratama39@example.com,Memulai Pemrograman dengan Kotlin,97,6,0,0,"4,377",,"45,284",
+Lestari Putri,lestari.putri40@example.com,Memulai Pemrograman dengan Kotlin,97,68,1,0,"4,377",5,"45,284",
+Gilang Utama,gilang.utama41@example.com,Menjadi Azure Cloud Developer,85,78,0,0,"3,670",,,
+Irfan Hartono,irfan.hartono42@example.com,Memulai Pemrograman dengan Python,91,62,0,0,,,"33,368",
+Citra Gunawan,citra.gunawan43@example.com,Memulai Pemrograman dengan Python,91,0,0,0,,,"33,368",
+Fira Saputra,fira.saputra44@example.com,Memulai Pemrograman dengan Python,91,273,1,0,,,"33,368",90
+Hana Pratama,hana.pratama45@example.com,Memulai Pemrograman dengan Python,91,91,1,0,,,"33,368",85
+Oka Kusuma,oka.kusuma46@example.com,Memulai Pemrograman dengan Python,91,5,0,0,,,"33,368",
+Irfan Prasetyo,irfan.prasetyo47@example.com,Memulai Pemrograman dengan Python,91,54,1,0,,,"33,368",
+Rafi Halim,rafi.halim48@example.com,Memulai Pemrograman dengan Python,91,43,1,0,,,"33,368",
+Kiki Wibowo,kiki.wibowo49@example.com,Menjadi AWS Solutions Architect Associate,73,0,0,0,"3,560",,,
+Bima Halim,bima.halim50@example.com,Source Code Management untuk Pemula,19,19,0,0,,,,
+Bima Agustina,bima.agustina51@example.com,Source Code Management untuk Pemula,19,19,0,0,,,,
+Kiki Kusuma,kiki.kusuma52@example.com,Memulai Pemrograman Dengan C,48,48,1,0,,,"4,803",90
+Irfan Santoso,irfan.santoso53@example.com,Memulai Pemrograman Dengan C,48,13,0,0,,,"4,803",
+Gilang Prasetyo,gilang.prasetyo54@example.com,Belajar Dasar Pemrograman Web,131,452,1,0,"4,350",4,"12,237",86
+Sari Prasetyo,sari.prasetyo55@example.com,Belajar Dasar Pemrograman Web,131,131,1,0,"4,350",4,"12,237",73
+Kiki Halim,kiki.halim56@example.com,Belajar Dasar Pemrograman Web,131,113,1,0,"4,350",4,"12,237",73
+Putu Kusuma,putu.kusuma57@example.com,Belajar Dasar Pemrograman Web,131,130,0,0,"4,350",,"12,237",80
+Oka Pratama,oka.pratama58@example.com,Belajar Dasar Pemrograman Web,131,0,0,0,"4,350",,"12,237",
+Irfan Pratama,irfan.pratama59@example.com,Belajar Dasar Pemrograman Web,131,111,1,0,"4,350",5,"12,237",93
+Hana Hartono,hana.hartono60@example.com,Belajar Dasar Pemrograman Web,131,393,1,0,"4,350",5,"12,237",93
+Rafi Saputra,rafi.saputra61@example.com,Belajar Dasar Pemrograman Web,131,114,1,0,"4,350",4,"12,237",93
+Irfan Hartono,irfan.hartono62@example.com,Belajar Dasar Pemrograman Web,131,121,1,0,"4,350",4,"12,237",100
+Sari Kusuma,sari.kusuma63@example.com,Belajar Android Jetpack Pro,61,59,0,0,"4,498",,"4,519",100
+Sari Kusuma,sari.kusuma64@example.com,Belajar Android Jetpack Pro,61,61,1,0,"4,498",4,"4,519",100
+Lestari Halim,lestari.halim65@example.com,Menjadi Google Cloud Engineer,85,85,1,0,"4,698",5,"22,027",95
+Eko Saputra,eko.saputra66@example.com,Belajar Membuat Augmented Reality,42,84,1,0,"5,032",3,,
+Putu Santoso,putu.santoso67@example.com,Belajar Dasar-Dasar Azure Cloud,94,184,1,0,,,"8,307",
+Bima Wibowo,bima.wibowo68@example.com,Memulai Pemrograman Dengan Swift,95,5,0,0,,,"7,444",
+Dina Pratama,dina.pratama69@example.com,Memulai Pemrograman Dengan Swift,95,88,1,0,,,"7,444",84
+Fira Agustina,fira.agustina70@example.com,Belajar Membangun LINE Front-end Framework (LIFF),28,56,1,0,"5,635",2,,
+Nando Gunawan,nando.gunawan71@example.com,Belajar Membangun LINE Front-end Framework (LIFF),28,6,0,0,"5,635",,,
+Citra Kusuma,citra.kusuma72@example.com,Belajar Membuat Mixed Reality,20,20,0,0,,,,
+Maya Gunawan,maya.gunawan73@example.com,Belajar Membuat Aplikasi Flutter untuk Pemula,51,51,1,0,"8,625",2,"16,887",100
+Oka Saputra,oka.saputra74@example.com,Belajar Membuat Aplikasi Flutter untuk Pemula,51,21,0,0,"8,625",,"16,887",
+Irfan Saputra,irfan.saputra75@example.com,Belajar Membuat Aplikasi Flutter untuk Pemula,51,50,0,0,"8,625",,"16,887",100
+Ari Utama,ari.utama76@example.com,Belajar Fundamental Front-End Web Development,116,160,1,0,"36,398",,"37,238",
+Dina Utama,dina.utama77@example.com,Belajar Fundamental Front-End Web Development,116,80,1,0,"36,398",,"37,238",
+Rafi Agustina,rafi.agustina78@example.com,Belajar Fundamental Front-End Web Development,116,79,1,0,"36,398",,"37,238",
+Irfan Agustina,irfan.agustina79@example.com,Menjadi Android Developer Expert,86,86,1,0,"10,539",3,"10,444",100
+Kiki Santoso,kiki.santoso80@example.com,Belajar Prinsip Pemrograman SOLID,41,27,1,0,,,"7,852",96
+Juno Kusuma,juno.kusuma81@example.com,Belajar Prinsip Pemrograman SOLID,41,82,1,0,,,"7,852",100
+Fira Ramadhan,fira.ramadhan82@example.com,Belajar Prinsip Pemrograman SOLID,41,36,1,0,,,"7,852",92
+Ari Hartono,ari.hartono83@example.com,Belajar Prinsip Pemrograman SOLID,41,27,1,0,,,"7,852",92
+Irfan Saputra,irfan.saputra84@example.com,Belajar Dasar Visualisasi Data,50,150,1,0,,,"8,302",100
+Fira Saputra,fira.saputra85@example.com,Belajar Dasar Visualisasi Data,50,50,1,0,,,"8,302",80
+Dina Wibowo,dina.wibowo86@example.com,Belajar Dasar Visualisasi Data,50,33,1,0,,,"8,302",86
+Juno Wibowo,juno.wibowo87@example.com,Belajar Dasar Visualisasi Data,50,50,1,0,,,"8,302",80
+Qori Gunawan,qori.gunawan88@example.com,Belajar Machine Learning untuk Pemula,117,0,0,0,"39,038",,"39,033",
+Gilang Pratama,gilang.pratama89@example.com,Belajar Machine Learning untuk Pemula,117,0,0,0,"39,038",,"39,033",
+Lestari Agustina,lestari.agustina90@example.com,Belajar Machine Learning untuk Pemula,117,102,1,0,"39,038",,"39,033",
+Fira Saputra,fira.saputra91@example.com,Belajar Machine Learning untuk Pemula,117,34,0,0,"39,038",,"39,033",
+Qori Prasetyo,qori.prasetyo92@example.com,Belajar Machine Learning untuk Pemula,117,34,1,0,"39,038",,"39,033",
+Ari Gunawan,ari.gunawan93@example.com,Belajar Machine Learning untuk Pemula,117,50,1,0,"39,038",,"39,033",
+Kiki Ramadhan,kiki.ramadhan94@example.com,Belajar Machine Learning untuk Pemula,117,34,1,0,"39,038",,"39,033",
+Ari Santoso,ari.santoso95@example.com,Belajar Fundamental Deep Learning,131,67,1,0,"37,663",,"37,673",
+Lestari Prasetyo,lestari.prasetyo96@example.com,Belajar Fundamental Deep Learning,131,67,1,0,"37,663",,"37,673",
+Juno Halim,juno.halim97@example.com,Memulai Pemrograman dengan Dart,86,81,1,0,"40,858",,"7,751",82
+Bima Halim,bima.halim98@example.com,Memulai Pemrograman dengan Dart,86,81,1,0,"40,858",,"7,751",88
+Sari Santoso,sari.santoso99@example.com,Belajar Pengembangan Web Intermediate,129,30,1,0,"40,937",,"40,873",
+Citra Hartono,citra.hartono100@example.com,Belajar Pengembangan Web Intermediate,129,42,1,0,"40,937",,"40,873",
+Putu Wibowo,putu.wibowo101@example.com,Belajar Pengembangan Web Intermediate,129,34,1,0,"40,937",,"40,873",
+Citra Agustina,citra.agustina102@example.com,Memulai Dasar Pemrograman untuk Menjadi Pengembang Software,73,225,1,0,,,"17,907",95
+Rafi Agustina,rafi.agustina103@example.com,Memulai Dasar Pemrograman untuk Menjadi Pengembang Software,73,73,1,0,,,"17,907",100
+Eko Pratama,eko.pratama104@example.com,Memulai Dasar Pemrograman untuk Menjadi Pengembang Software,73,48,0,0,,,"17,907",
+Putu Saputra,putu.saputra105@example.com,Memulai Dasar Pemrograman untuk Menjadi Pengembang Software,73,146,1,0,,,"17,907",95
+Fira Siregar,fira.siregar106@example.com,Memulai Dasar Pemrograman untuk Menjadi Pengembang Software,73,20,0,0,,,"17,907",
+Qori Wibowo,qori.wibowo107@example.com,Memulai Dasar Pemrograman untuk Menjadi Pengembang Software,73,73,1,0,,,"17,907",100
+Tono Kusuma,tono.kusuma108@example.com,Bangkit Application Screening 2021,9,5,0,0,,,"11,935",
+Gilang Prasetyo,gilang.prasetyo109@example.com,Bangkit Application Screening 2021,9,9,0,0,,,"11,935",10
+Rafi Agustina,rafi.agustina110@example.com,Bangkit Application Screening 2021,9,9,0,0,,,"11,935",30
+Gilang Hartono,gilang.hartono111@example.com,Belajar Dasar Cloud dan Gen AI di AWS,99,86,0,0,,,"15,505",
+Juno Kusuma,juno.kusuma112@example.com,Belajar Dasar Cloud dan Gen AI di AWS,99,75,1,0,,,"15,505",86
+Lestari Ramadhan,lestari.ramadhan113@example.com,Belajar Dasar Cloud dan Gen AI di AWS,99,0,0,0,,,"15,505",
+Qori Ramadhan,qori.ramadhan114@example.com,Belajar Dasar Cloud dan Gen AI di AWS,99,87,1,0,,,"15,505",93
+Dina Halim,dina.halim115@example.com,Belajar Dasar Cloud dan Gen AI di AWS,99,87,1,0,,,"15,505",80
+Hana Santoso,hana.santoso116@example.com,Belajar Dasar Cloud dan Gen AI di AWS,99,87,1,0,,,"15,505",93
+Kiki Wijaya,kiki.wijaya117@example.com,Belajar Dasar Cloud dan Gen AI di AWS,99,15,0,0,,,"15,505",
+Sari Saputra,sari.saputra118@example.com,Belajar Dasar Cloud dan Gen AI di AWS,99,21,0,0,,,"15,505",
+Hana Gunawan,hana.gunawan119@example.com,Belajar Dasar Cloud dan Gen AI di AWS,99,7,0,0,,,"15,505",
+Hana Wijaya,hana.wijaya120@example.com,Belajar Dasar Cloud dan Gen AI di AWS,99,87,1,0,,,"15,505",93
+Citra Hartono,citra.hartono121@example.com,Belajar Dasar Cloud dan Gen AI di AWS,99,87,1,0,,,"15,505",80
+Bima Halim,bima.halim122@example.com,Belajar Dasar Pemrograman JavaScript,111,0,0,0,"38,223",,"14,097",
+Citra Prasetyo,citra.prasetyo123@example.com,Belajar Dasar Pemrograman JavaScript,111,67,1,0,"38,223",,"14,097",93
+Bima Wibowo,bima.wibowo124@example.com,Belajar Dasar Pemrograman JavaScript,111,27,0,0,"38,223",,"14,097",
+Kiki Santoso,kiki.santoso125@example.com,Belajar Dasar Pemrograman JavaScript,111,42,0,0,"38,223",,"14,097",
+Qori Halim,qori.halim126@example.com,Belajar Dasar Pemrograman JavaScript,111,74,1,0,"38,223",,"14,097",90
+Irfan Utama,irfan.utama127@example.com,Belajar Dasar Pemrograman JavaScript,111,73,1,0,"38,223",,"14,097",86
+Putu Halim,putu.halim128@example.com,Belajar Dasar Pemrograman JavaScript,111,62,0,0,"38,223",,"14,097",
+Rafi Pratama,rafi.pratama129@example.com,Belajar Dasar Pemrograman JavaScript,111,74,1,0,"38,223",,"14,097",90
+Sari Gunawan,sari.gunawan130@example.com,Belajar Dasar Pemrograman JavaScript,111,74,1,0,"38,223",,"14,097",86
+Putu Halim,putu.halim131@example.com,Belajar Dasar Pemrograman JavaScript,111,222,1,0,"38,223",,"14,097",96
+Putu Agustina,putu.agustina132@example.com,Belajar Dasar Pemrograman JavaScript,111,74,1,0,"38,223",,"14,097",80
+Nando Halim,nando.halim133@example.com,Belajar Dasar Pemrograman JavaScript,111,74,1,0,"38,223",,"14,097",80
+Dina Santoso,dina.santoso134@example.com,Belajar Back-End Pemula dengan JavaScript,127,0,0,0,"14,967",,"34,813",
+Nando Putri,nando.putri135@example.com,Belajar Back-End Pemula dengan JavaScript,127,100,1,0,"14,967",5,"34,813",
+Nando Kusuma,nando.kusuma136@example.com,Belajar Back-End Pemula dengan JavaScript,127,100,1,0,"14,967",5,"34,813",
+Oka Wibowo,oka.wibowo137@example.com,Belajar Back-End Pemula dengan JavaScript,127,100,1,0,"14,967",5,"34,813",
+Bima Utama,bima.utama138@example.com,Belajar Back-End Pemula dengan JavaScript,127,27,0,0,"14,967",,"34,813",
+Dina Wijaya,dina.wijaya139@example.com,Belajar Back-End Pemula dengan JavaScript,127,22,0,0,"14,967",,"34,813",
+Maya Hartono,maya.hartono140@example.com,Belajar Back-End Pemula dengan JavaScript,127,100,0,0,"14,967",,"34,813",
+Kiki Agustina,kiki.agustina141@example.com,Belajar Back-End Pemula dengan JavaScript,127,200,1,0,"14,967",4,"34,813",
+Dina Halim,dina.halim142@example.com,Belajar Back-End Pemula dengan JavaScript,127,100,1,0,"14,967",4,"34,813",
+Gilang Halim,gilang.halim143@example.com,Architecting on AWS (Membangun Arsitektur Cloud di AWS),170,169,1,0,,,"13,827",100
+Rafi Ramadhan,rafi.ramadhan144@example.com,Architecting on AWS (Membangun Arsitektur Cloud di AWS),170,169,1,0,,,"13,827",100
+Eko Kusuma,eko.kusuma145@example.com,Architecting on AWS (Membangun Arsitektur Cloud di AWS),170,169,1,0,,,"13,827",80
+Fira Siregar,fira.siregar146@example.com,Architecting on AWS (Membangun Arsitektur Cloud di AWS),170,169,1,0,,,"13,827",86
+Oka Halim,oka.halim147@example.com,Architecting on AWS (Membangun Arsitektur Cloud di AWS),170,18,0,0,,,"13,827",
+Citra Ramadhan,citra.ramadhan148@example.com,Belajar Fundamental Back-End dengan JavaScript,189,13,0,0,"17,800",,"36,293",
+Rafi Santoso,rafi.santoso149@example.com,Belajar Fundamental Back-End dengan JavaScript,189,53,0,0,"17,800",,"36,293",
+Bima Utama,bima.utama150@example.com,Belajar Fundamental Back-End dengan JavaScript,189,175,1,0,"17,800",3,"36,293",
+Rafi Wibowo,rafi.wibowo151@example.com,Menjadi Back-End Developer Expert dengan JavaScript,116,29,0,0,"19,247",,"19,217",
+Ari Santoso,ari.santoso152@example.com,Simulasi Ujian Associate Cloud Engineer,5,5,0,0,,,"12,542",92
+Hana Pratama,hana.pratama153@example.com,Simulasi Ujian Associate Android Developer,15,15,0,0,"12,577",3,,
+Nando Ramadhan,nando.ramadhan154@example.com,Simulasi Ujian Associate Android Developer,15,15,0,0,"12,577",5,,
+Putu Halim,putu.halim155@example.com,Meniti Karier sebagai Software Developer,53,106,1,0,,,"12,442",100
+Maya Prasetyo,maya.prasetyo156@example.com,Meniti Karier sebagai Software Developer,53,53,1,0,,,"12,442",93
+Bima Pratama,bima.pratama157@example.com,Meniti Karier sebagai Software Developer,53,53,1,0,,,"12,442",100
+Maya Wijaya,maya.wijaya158@example.com,Pengenalan Data pada Pemrograman (Data 101),39,39,1,0,,,"12,862",100
+Maya Siregar,maya.siregar159@example.com,Pengenalan ke Logika Pemrograman (Programming Logic 101),37,111,1,0,,,"12,687",100
+Oka Siregar,oka.siregar160@example.com,Pengenalan ke Logika Pemrograman (Programming Logic 101),37,37,1,0,,,"12,687",86
+Nando Hartono,nando.hartono161@example.com,Pengenalan ke Logika Pemrograman (Programming Logic 101),37,37,1,0,,,"12,687",100
+Rafi Utama,rafi.utama162@example.com,Pengenalan ke Logika Pemrograman (Programming Logic 101),37,0,0,0,,,"12,687",
+Putu Pratama,putu.pratama163@example.com,Pengenalan ke Logika Pemrograman (Programming Logic 101),37,37,1,0,,,"12,687",100
+Gilang Siregar,gilang.siregar164@example.com,Simulasi Ujian TensorFlow Developer Certificate,6,6,0,0,"14,532",5,,
+Gilang Wijaya,gilang.wijaya165@example.com,Belajar Membuat Augmented Reality dengan Lens Studio,56,57,1,0,"16,215",3,"16,213",100
+Sari Hartono,sari.hartono166@example.com,Belajar Membuat Augmented Reality dengan Lens Studio,56,56,1,0,"16,215",4,"16,213",100
+Rafi Wijaya,rafi.wijaya167@example.com,Belajar Membuat Augmented Reality dengan Lens Studio,56,0,0,0,"16,215",,"16,213",
+Kiki Wijaya,kiki.wijaya168@example.com,Belajar Membuat Front-End Web untuk Pemula,69,134,1,0,"16,849",4,"24,730",95
+Bima Gunawan,bima.gunawan169@example.com,Belajar Membuat Front-End Web untuk Pemula,69,0,0,0,"16,849",,"24,730",
+Putu Saputra,putu.saputra170@example.com,Belajar Membuat Front-End Web untuk Pemula,69,63,1,0,"16,849",4,"24,730",
+Qori Pratama,qori.pratama171@example.com,Belajar Membuat Front-End Web untuk Pemula,69,67,1,0,"16,849",4,"24,730",100
+Bima Saputra,bima.saputra172@example.com,Belajar Membuat Front-End Web untuk Pemula,69,68,0,0,"16,849",,"24,730",90
+Citra Wibowo,citra.wibowo173@example.com,Belajar Membuat Front-End Web untuk Pemula,69,0,0,0,"16,849",,"24,730",
+Fira Santoso,fira.santoso174@example.com,Belajar Membuat Front-End Web untuk Pemula,69,68,1,0,"16,849",3,"24,730",75
+Tono Santoso,tono.santoso175@example.com,Belajar Membuat Front-End Web untuk Pemula,69,207,1,0,"16,849",5,"24,730",95
+Hana Kusuma,hana.kusuma176@example.com,Belajar Membuat Front-End Web untuk Pemula,69,63,1,0,"16,849",4,"24,730",
+Dina Prasetyo,dina.prasetyo177@example.com,Belajar Dasar Git dengan GitHub,78,234,1,0,,,"17,227",100
+Sari Halim,sari.halim178@example.com,Belajar Dasar Git dengan GitHub,78,78,1,0,,,"17,227",93
+Sari Gunawan,sari.gunawan179@example.com,Belajar Dasar Git dengan GitHub,78,78,1,0,,,"17,227",80
+Bima Gunawan,bima.gunawan180@example.com,Belajar Dasar Git dengan GitHub,78,78,1,0,,,"17,227",100
+Citra Kusuma,citra.kusuma181@example.com,Belajar Dasar Git dengan GitHub,78,78,1,0,,,"17,227",86
+Sari Gunawan,sari.gunawan182@example.com,Belajar Dasar Git dengan GitHub,78,0,0,0,,,"17,227",
+Qori Putri,qori.putri183@example.com,Belajar Dasar Git dengan GitHub,78,78,1,0,,,"17,227",93
+Irfan Halim,irfan.halim184@example.com,Machine Learning Terapan,109,109,1,0,"17,064",5,"19,687",90
+Kiki Halim,kiki.halim185@example.com,Tes Seleksi Offline Training - AI Connect Academy,3,0,0,0,,,"44,792",
+Irfan Kusuma,irfan.kusuma186@example.com,Tes Seleksi Offline Training - AI Connect Academy,3,0,0,0,,,"44,792",
+Eko Utama,eko.utama187@example.com,Tes Seleksi Offline Training - AI Connect Academy,3,0,0,0,,,"44,792",
+Juno Ramadhan,juno.ramadhan188@example.com,Tes Seleksi Offline Training - AI Connect Academy,3,0,0,0,,,"44,792",
+Kiki Prasetyo,kiki.prasetyo189@example.com,Evaluasi Penguasaan Machine Learning,15,15,1,0,,,"18,565",86
+Citra Wijaya,citra.wijaya190@example.com,Menjadi Google Cloud Architect,75,14,0,0,"18,465",,"18,450",
+Oka Gunawan,oka.gunawan191@example.com,Belajar Dasar UX Design,94,94,1,0,"20,522",5,"20,507",100
+Sari Santoso,sari.santoso192@example.com,Belajar Dasar UX Design,94,0,0,0,"20,522",,"20,507",
+Citra Saputra,citra.saputra193@example.com,Belajar Dasar UX Design,94,21,0,0,"20,522",,"20,507",
+Gilang Saputra,gilang.saputra194@example.com,Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud,108,108,1,0,"21,392",4,"21,057",75
+Irfan Pratama,irfan.pratama195@example.com,Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud,108,110,1,0,"21,392",5,"21,057",90
+Lestari Prasetyo,lestari.prasetyo196@example.com,Belajar Pengembangan Aplikasi Android Intermediate,115,115,1,0,"22,848",4,"22,879",100
+Citra Prasetyo,citra.prasetyo197@example.com,Bangkit General Assessment 2022,4,4,0,0,,,"21,572",17
+Hana Putri,hana.putri198@example.com,Bangkit Machine Learning Assessment 2024 Batch 2,6,6,0,0,,,"34,898",66
+Juno Pratama,juno.pratama199@example.com,Bangkit Machine Learning Assessment 2024 Batch 2,6,0,0,0,,,"34,898",
+Oka Wibowo,oka.wibowo200@example.com,Bangkit Machine Learning Assessment 2024 Batch 2,6,0,0,0,,,"34,898",
+Rafi Hartono,rafi.hartono201@example.com,Belajar Dasar-Dasar DevOps,38,76,1,0,,,"24,223",100
+Juno Gunawan,juno.gunawan202@example.com,Belajar Dasar-Dasar DevOps,38,38,1,0,,,"24,223",100
+Qori Wijaya,qori.wijaya203@example.com,Belajar Dasar-Dasar DevOps,38,38,1,0,,,"24,223",85
+Rafi Siregar,rafi.siregar204@example.com,Belajar Jaringan Komputer untuk Pemula,62,124,1,0,"23,178",5,"23,163",100
+Dina Prasetyo,dina.prasetyo205@example.com,Belajar Jaringan Komputer untuk Pemula,62,62,1,0,"23,178",4,"23,163",85
+Eko Siregar,eko.siregar206@example.com,Belajar Jaringan Komputer untuk Pemula,62,62,1,0,"23,178",4,"23,163",90
+Dina Prasetyo,dina.prasetyo207@example.com,Bangkit 2024 ILT Quiz - Machine Learning,7,0,0,0,,,"39,713",
+Dina Hartono,dina.hartono208@example.com,Bangkit 2024 ILT Quiz - Mobile Development,7,0,0,0,,,"38,443",
+Rafi Pratama,rafi.pratama209@example.com,Bangkit 2024 ILT Quiz - Cloud Computing,7,0,0,0,,,"38,578",
+Irfan Siregar,irfan.siregar210@example.com,Belajar Membuat Aplikasi Web dengan React,56,0,0,0,"23,448",,"23,438",
+Tono Halim,tono.halim211@example.com,Belajar Membuat Aplikasi Web dengan React,56,0,0,0,"23,448",,"23,438",
+Kiki Halim,kiki.halim212@example.com,Belajar Membuat Aplikasi Web dengan React,56,112,1,0,"23,448",5,"23,438",75
+Irfan Saputra,irfan.saputra213@example.com,Belajar Fundamental Aplikasi Web dengan React,70,65,0,0,"24,473",,"24,468",80
+Putu Siregar,putu.siregar214@example.com,Belajar Membuat Aplikasi Android dengan Jetpack Compose,80,80,1,0,"28,265",5,"28,260",100
+Bima Santoso,bima.santoso215@example.com,Asah 2025 - Kuis ILT FEBE AI,7,0,0,0,,,"45,179",
+Nando Wibowo,nando.wibowo216@example.com,SIB 3 ILT Quiz Machine Learning - Front End,6,6,0,0,,,"28,635",100
+Irfan Wijaya,irfan.wijaya217@example.com,Asah 2025 - Kuis ILT Soft Skill,7,0,0,0,,,"43,730",
+Ari Putri,ari.putri218@example.com,Asah 2025 - Kuis ILT Soft Skill,7,0,0,0,,,"43,730",
+Eko Utama,eko.utama219@example.com,BDT 2022 (Tahap 2) Pre-Test Android Developer Dasar,2,2,0,0,,,"25,490",92
+Irfan Pratama,irfan.pratama220@example.com,BDT 2022 (Tahap 2) Pre-Test Android Developer Dasar,2,2,0,0,,,"25,490",81
+Oka Saputra,oka.saputra221@example.com,BDT 2022 (Tahap 2) Pre-Test Android Developer Dasar,2,2,0,0,,,"25,490",86
+Nando Saputra,nando.saputra222@example.com,BDT 2022 (Tahap 2) Pre-Test Machine Learning Dasar,2,2,0,0,,,"25,495",96
+Ari Santoso,ari.santoso223@example.com,BDT 2022 (Tahap 2) Pre-Test Machine Learning Dasar,2,1,0,0,,,"25,495",
+Citra Prasetyo,citra.prasetyo224@example.com,BDT 2022 (Tahap 2) Pre-Test Machine Learning Dasar,2,2,0,0,,,"25,495",83
+Eko Saputra,eko.saputra225@example.com,BDT 2022 (Tahap 2) Pre-Test IT Support,2,2,0,0,,,"25,485",100
+Bima Wibowo,bima.wibowo226@example.com,BDT 2022 (Tahap 2) Pre-Test IT Support,2,2,0,0,,,"25,485",97
+Lestari Gunawan,lestari.gunawan227@example.com,BDT 2022 (Tahap 2) Pre-Test IT Support,2,2,0,0,,,"25,485",94
+Rafi Pratama,rafi.pratama228@example.com,BDT 2022 (Tahap 2) Pre-Test Analisis Data,2,2,0,0,,,"25,500",93
+Nando Pratama,nando.pratama229@example.com,BDT 2022 (Tahap 2) Pre-Test Analisis Data,2,2,0,0,,,"25,500",88
+Bima Siregar,bima.siregar230@example.com,BDT 2022 (Tahap 2) Pre-Test Analisis Data,2,2,0,0,,,"25,500",91
+Lestari Prasetyo,lestari.prasetyo231@example.com,Simulasi Ujian Pendidik Level 1 (Google Certified Educator Level 1 - Indonesian),8,2,0,0,,,"26,135",
+Bima Prasetyo,bima.prasetyo232@example.com,Bangkit General Assessment 2023,5,5,0,0,,,"27,525",2
+Lestari Halim,lestari.halim233@example.com,Tes Seleksi Asah 2025 – FEBE AI dan REBE AI,5,0,0,0,,,"29,085",
+Hana Utama,hana.utama234@example.com,Tes Seleksi Asah 2025 – FEBE AI dan REBE AI,5,0,0,0,,,"29,085",
+Dina Putri,dina.putri235@example.com,Belajar Analisis Data dengan Python,61,0,0,0,"31,230",,"31,225",
+Rafi Prasetyo,rafi.prasetyo236@example.com,Belajar Analisis Data dengan Python,61,61,1,0,"31,230",4,"31,225",95
+Nando Gunawan,nando.gunawan237@example.com,Belajar Analisis Data dengan Python,61,60,0,0,"31,230",,"31,225",85
+Eko Prasetyo,eko.prasetyo238@example.com,Belajar Analisis Data dengan Python,61,61,1,0,"31,230",4,"31,225",85
+Hana Wibowo,hana.wibowo239@example.com,Belajar Dasar Manajemen Proyek,38,38,1,0,,,"30,780",85
+Fira Agustina,fira.agustina240@example.com,Bangkit 2024 ILT Quiz - Soft Skill,6,0,0,0,,,"37,913",
+Fira Prasetyo,fira.prasetyo241@example.com,Bangkit 2024 ILT Quiz - Soft Skill,6,0,0,0,,,"37,913",
+Nando Wijaya,nando.wijaya242@example.com,Bangkit 2024 ILT Quiz - Soft Skill,6,0,0,0,,,"37,913",
+Fira Hartono,fira.hartono243@example.com,Exam Challenge Campaign Hari Pendidikan,3,2,0,0,,,"31,635",86
+Kiki Agustina,kiki.agustina244@example.com,Exam Challenge Campaign Hari Pendidikan,3,1,0,0,,,"31,635",
+Nando Agustina,nando.agustina245@example.com,Belajar Dasar Structured Query Language (SQL),44,0,0,0,,,"31,870",
+Hana Siregar,hana.siregar246@example.com,Belajar Dasar Structured Query Language (SQL),44,44,1,0,,,"31,870",90
+Fira Agustina,fira.agustina247@example.com,Belajar Dasar Structured Query Language (SQL),44,44,1,0,,,"31,870",95
+Dina Kusuma,dina.kusuma248@example.com,Belajar Dasar Structured Query Language (SQL),44,44,1,0,,,"31,870",80
+Bima Wibowo,bima.wibowo249@example.com,Belajar Dasar Structured Query Language (SQL),44,44,1,0,,,"31,870",100
+Putu Halim,putu.halim250@example.com,Belajar Dasar Structured Query Language (SQL),44,44,1,0,,,"31,870",85
+Gilang Wibowo,gilang.wibowo251@example.com,Memulai Pemrograman dengan Haskell,61,0,0,0,,,"32,335",
+Oka Putri,oka.putri252@example.com,Memulai Pemrograman dengan Haskell,61,61,1,0,,,"32,335",85
+Juno Wibowo,juno.wibowo253@example.com,Belajar Dasar Data Science,50,9,0,0,,,"33,253",
+Hana Halim,hana.halim254@example.com,Belajar Dasar Data Science,50,50,1,0,,,"33,253",95
+Ari Utama,ari.utama255@example.com,Belajar Dasar Data Science,50,50,1,0,,,"33,253",75
+Gilang Kusuma,gilang.kusuma256@example.com,Pre-Test Dicoding Bootcamp,4,4,0,0,,,"32,125",22
+Kiki Siregar,kiki.siregar257@example.com,Belajar Dasar AI,39,39,1,39,,,"35,513",90
+Citra Agustina,citra.agustina258@example.com,Belajar Dasar AI,39,8,0,0,,,"35,513",
+Irfan Putri,irfan.putri259@example.com,Belajar Dasar AI,39,7,0,0,,,"35,513",
+Qori Kusuma,qori.kusuma260@example.com,Belajar Dasar AI,39,39,1,0,,,"35,513",80
+Rafi Putri,rafi.putri261@example.com,Belajar Dasar AI,39,0,0,0,,,"35,513",
+Ari Santoso,ari.santoso262@example.com,Belajar Dasar AI,39,39,1,0,,,"35,513",75
+Irfan Pratama,irfan.pratama263@example.com,Tes Seleksi Laskar AI,5,0,0,0,,,"39,688",
+Sari Siregar,sari.siregar264@example.com,Financial Literacy 101,11,7,0,0,,,"42,522",
+Bima Santoso,bima.santoso265@example.com,Financial Literacy 101,11,0,0,0,,,"42,522",
+Tono Kusuma,tono.kusuma266@example.com,Financial Literacy 101,11,6,0,0,,,"42,522",
+Lestari Hartono,lestari.hartono267@example.com,Financial Literacy 101,11,0,0,0,,,"42,522",
+Kiki Kusuma,kiki.kusuma268@example.com,AI Praktis untuk Produktivitas,48,47,1,47,,,"41,717",100
+Tono Saputra,tono.saputra269@example.com,Belajar Penggunaan Generative AI,76,75,1,75,,,"42,087",97
+Dina Kusuma,dina.kusuma270@example.com,Membangun Aplikasi Gen AI dengan Microsoft Azure,74,0,0,0,,,"45,653",
+Sari Halim,sari.halim271@example.com,Belajar Penerapan Data Science dengan Microsoft Fabric,55,10,0,0,,,"45,722",

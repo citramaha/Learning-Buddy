@@ -1,0 +1,5554 @@
+id,keyword
+4,JavaScript
+9,Java
+14,Python
+19,Kotlin
+24,PHP
+29,C++
+34,C-Sharp
+39,C
+44,Jetpack
+49,Unity
+54,Construct 2
+59,Progressive Web Apps
+64,Swift
+69,Augmented Reality
+74,Virtual Reality
+79,Microsoft Azure
+84,Google Cloud
+89,Amazon Web Services
+94,Source Code Management
+99,Flutter
+104,IBM Watson
+109,HTML
+114,CSS
+119,Internet of Things
+123,Unity 3D
+128,Android
+137,Python
+141,MySQL
+146,TCP/IP
+151,UI/UX Research
+159,Photoshop
+164,CorelDRAW
+169,Service PC
+179,Linux
+184,Laravel
+189,Sistem Operasi
+191,Visual Basic
+199,C-Sharp
+204,pw
+205,3D Modeller
+210,Autodesk Maya
+215,Blender
+217,Networking
+222,System Administration
+227,SQL
+232,JSON
+234,Pemrograman
+236,Camtasia
+240,Microsoft Office
+245,Team Work
+260,Web
+265,Game
+269,MySQL Database
+270,Delphi
+272,Cloud Computing
+275,ReactJS
+280,Node.js
+282,C-Sharp
+285,AJAX
+290,CodeIgniter
+295,Construct
+299,HTML
+304,Photoshop
+309,Photoshop
+314,core
+316,Adobe XD
+318,Vue.js
+338,Video Editor
+343,Fotografi
+346,PHP
+349,C dan C++
+354,Corel
+361,Vegas
+363,Bootstrap
+365,Minitab
+370,SPSS
+374,PostgreSQL
+376,Illustrator
+377,Pascal
+387,Database
+389,Dart
+394,Inkscape
+401,Adobe XD
+414,Word
+419,Excel
+424,PowerPoint
+429,UI
+434,UX
+439,Frontend
+442,XML
+445,Technical Support
+447,C#
+452,ASP.NET
+454,FoxPro
+459,Bahasa C
+466,Editing Video
+471,Fotographer
+472,Premiere Pro
+477,Editing Video
+482,Videographer
+487,Microcontroller
+492,Arduino
+497,Raspberry
+502,C#
+506,Visual Studio
+515,Server
+518,JavaScript
+522,Statistik
+534,Adobe Illustrator
+535,MATLAB
+536,MATLAB
+541,Visual Basic
+545,jQuery
+550,Animasi
+555,Jaringan
+557,Praktisi IT
+559,Adobe Premiere
+562,Machine Learning
+567,Deep Learning
+572,Natural Language Processing
+575,Software Engineering
+580,Database Design
+585,Go
+589,Image Processing
+592,Premiere
+594,React Native
+599,Firebase
+600,Network
+605,VB6
+610,3ds Max
+615,Computer Vision
+617,Vegas Pro
+622,After Effect
+627,HTML CSS
+632,Fruity Loop
+634,Azure
+639,GCP
+644,DevOps Tools
+657,Adobe Illustrator
+658,HTML5
+664,Blender 3D
+668,SQLite Database
+673,Social Media
+676,Menulis
+681,Power BI
+686,Excel
+691,Data Analytics
+696,Data Visualization
+701,Tableau
+703,R
+708,Octave
+713,Maxima
+718,LaTeX
+719,ArcGIS
+724,ENVI
+729,QGIS
+730,Elektronika
+734,User Interface
+739,User Experience
+744,Illustration
+749,Java
+752,ASP
+757,Oracle
+762,SQL Server
+767,VB
+768,Bash
+773,JMeter
+777,Juniper
+782,Cisco
+787,Ruckus Wireless
+790,Flutter
+793,Windows Form
+795,VB.NET
+798,Dasar QBASIC
+803,Dasar HTML
+806,UI/UX Design
+811,Figma
+816,Adobe XD
+821,UXPin
+826,Adobe Photoshop
+831,Adobe Illustrator
+836,Sony Vegas
+841,Adobe Premiere
+842,Go
+845,Microsoft Office
+847,Microsoft Office
+852,Office
+857,Swift 4
+862,SQLite
+867,iOS
+874,AutoCAD
+879,3D Modeling
+884,Design
+889,Animator
+894,Construct
+896,Git
+901,GitHub
+905,Photoscape
+907,Dasar Pemrograman PH
+909,Microsoft Excel
+916,Docker
+921,Technical Computer
+922,Music Editor Servis
+924,HTML 5
+932,Minimum Viable Product
+934,SketchUp
+939,Microsoft Office
+940,Polymer
+942,Animate
+947,Figma Design
+952,Fortigate
+957,Cisco Mikrotik
+959,Web Designer
+960,Android Studio
+962,React
+967,React Native
+972,Adobe Premiere Pro
+977,Adobe Photoshop
+984,Mikrotik
+989,Programming Arduino
+994,Django
+999,Basic Programming
+1003,Vue.js
+1007,ETAP
+1012,Proteus
+1017,Linux
+1019,SAP
+1022,VBA
+1025,Design Grafis
+1027,UI/UX Design
+1030,Ruby
+1035,Ruby on Rails
+1038,Backend
+1043,RESTful API
+1049,REST
+1051,HTML Dasar
+1054,Cybersecurity
+1058,Desain Grafis
+1063,Video Editing
+1067,Dasar Pemrograman Web
+1072,LAN Network
+1076,UI Design
+1078,React.js
+1083,Node.js
+1085,VB.NET
+1087,3D Modeling
+1102,dagang
+1109,Data Science
+1114,.NET Core
+1119,Vue.js
+1124,AngularJS
+1129,After Effect
+1130,Shell
+1132,UI/UX
+1134,Adobe Illustrator
+1135,NoSQL
+1140,MongoDB
+1144,Android Objek
+1153,Bootstrap
+1156,Analisis Statistik
+1161,CodeIgniter
+1164,ActionScript 2
+1169,C++
+1170,Search Engine Optimization
+1175,Facebook Ads
+1180,Front End
+1185,Java NetBeans
+1190,CodeIgniter 3
+1191,Dart
+1196,Kotlin
+1201,React.js
+1206,Node.js
+1211,Express.js
+1213,Web Development
+1215,Mission Planner
+1220,Cisco Packet Tracer
+1224,Gaming
+1227,Filmora
+1229,Web Developer
+1234,Thunkable
+1237,Android
+1241,programme
+1245,Yii2
+1247,ExpressJS
+1252,Android
+1257,Webix
+1259,Visual Studio Code
+1261,Geographic Information System
+1262,Big Data
+1265,Responsive Web
+1272,Spring
+1277,Struts
+1282,Eclipse
+1287,Menggambar
+1292,Kerajinan
+1293,Python
+1297,IT Support
+1302,Bash Php Networking
+1307,Coding Dasar
+1312,Hadoop
+1317,Kubernetes
+1322,Rocket
+1327,Autocad Atoll Rps Pr
+1330,Leadership
+1344,Redis
+1349,Elasticsearch
+1353,Basic Pemograman
+1356,Photoshop
+1361,Jaringan Komputer
+1363,Unity Engine
+1365,Adobe Audition
+1370,Otomotif
+1375,Pendidikan
+1379,Data Analysis
+1384,RStudio
+1388,WebGIS
+1393,Surveying
+1398,Mapping
+1403,Adobe Flash
+1408,Java Beginner
+1413,JavaFX Java Swing
+1418,InDesign
+1420,sq
+1423,Debian Server
+1424,Adobe Premiere
+1429,vMix
+1434,Microsoft Office
+1439,Illustrator
+1444,Premiere Pro
+1449,Office
+1450,Routing
+1455,Switching
+1460,Border Gateway Protocol
+1465,Metro Ethernet
+1470,RStudio
+1473,Editing
+1478,Strategi Bisnis
+1483,Marketing
+1488,VPN
+1493,Firewall
+1494,Graph 6
+1499,Programmable Logic Controller
+1504,LabVIEW
+1509,Basic Photoshop Knowledge
+1514,Knowledge Html Css
+1518,PHP Native
+1519,Microsoft Office Word
+1524,Microsoft Office PowerPoint
+1525,Materialize CSS
+1529,System Administrator
+1534,KineMaster
+1537,Hardware
+1542,without
+1547,Programmer
+1552,Design
+1555,Jaringan Dasar
+1557,Internet of Things
+1562,MS Office
+1567,Electro
+1572,Electronika
+1574,Teknik
+1579,IT Essential
+1580,WordPress
+1583,Retrofit2
+1584,Computer Hardware
+1587,Website
+1592,Desktop
+1597,Augmented Reality
+1602,Virtual Reality
+1604,Ionic
+1605,Adobe Illustrator
+1610,Adobe After Effect
+1615,Javascript Basic
+1620,Basic Node.js
+1625,Web Developer
+1626,Basic Python
+1631,Basic C++
+1636,Basic Java
+1639,CSS
+1644,Fotografi
+1649,bpmn
+1654,Analisa Bisnis
+1657,Polymer.js
+1660,Masih Tahap Belajar
+1665,JavaScript
+1669,Adobe Premiere
+1671,Ansible
+1676,GitLab CI
+1681,CentOS
+1686,Ubuntu
+1691,Virtualization
+1696,QBasic
+1703,Photography
+1704,JavaScript
+1709,CorelDRAW
+1714,Sony Vegas Pro
+1715,Software Development Kit
+1720,Dagger
+1725,Koin
+1728,Videografi
+1733,Digital Imaging
+1738,User Interface User Experience
+1739,PRTG
+1744,MRTG
+1745,Android Native
+1749,MySQLi
+1753,Adobe Photoshop
+1754,Web Services
+1758,Visual Basic
+1763,Video
+1768,Photographer
+1773,Adobe After Effect
+1774,Mikrotik VirtualBox
+1775,JDev
+1779,Adobe Animate
+1780,Data Definition Language
+1785,Oracle Database
+1790,Flash
+1791,Analyzing Data
+1795,SCSS
+1796,.NET
+1799,Xamarin Android
+1803,PostgreSQL
+1804,Graphic Design
+1809,GIMP
+1810,SolidWorks
+1812,REST API
+1815,FortiGate
+1820,Windows Server
+1825,Linux Server
+1830,VMware ESXi
+1831,HTML
+1834,Bootstrap 4
+1835,Adobe Premiere Pro
+1840,Lightroom
+1845,Visual Studio
+1846,Rails
+1848,Fullstack Programmer
+1853,Mobile Developer
+1855,PHP Native
+1860,PHP Laravel
+1869,Statistics
+1874,Data Mining
+1875,Spriter
+1880,Game Developer
+1882,Socket
+1884,Teknisi Laptop
+1889,Desain Grafis
+1890,Visual Basic .NET
+1892,WooCommerce
+1897,Google Analytics
+1902,Google Tag Manager
+1905,Wondershare Filmora
+1910,Computer Repair
+1915,System Installation
+1920,Software Installation
+1924,Writing
+1928,Web Design
+1929,Copywriting
+1934,Content Strategy
+1936,Webmethods
+1941,Integration Server
+1946,Middleware
+1951,esb
+1954,Mathematics Teacher
+1959,ActionScript
+1963,Angular
+1964,Odoo
+1969,Java Beginner
+1974,Adobe After Effect
+1975,Komputer Grafis
+1980,3D Design
+1985,2D Design
+1990,Bahasa Jepang
+1995,Artwork
+2000,Mic
+2002,Cinematic
+2004,Network Engineer
+2009,Server Administrator
+2018,Macromedia Flash
+2023,Android Java
+2028,PHP Codigniter
+2033,Lumen API
+2037,TensorFlow
+2039,LAN Jaringan
+2040,SDLC DFD Balsamiq Mo
+2045,Adobe XD
+2046,Cloud
+2047,Visual Basic 6
+2052,ASP.NET
+2053,C#
+2055,"Unity, Photoshop, Java"
+2060,After Effects
+2068,Visual Basic .NET
+2073,SAP Data Services
+2074,Content Management System
+2083,Computer Systems
+2086,Advanced Business Application Programming
+2091,Enterprise Resource Planning
+2096,Customer Relationship Management
+2100,"Node.js, Express.js"
+2102,Rekayasa Perangkat Lunak
+2105,Project Management
+2110,Security
+2114,TypeScript
+2121,belajar
+2123,Graphic Designer
+2128,Analisis Komunikasi
+2133,Desain Komunikasi
+2138,Public Speaking
+2143,Reciting Quran
+2153,Basic Android
+2156,Desain Graphic
+2159,Infrastructure
+2160,ColdFusion
+2165,HTML
+2170,CSS
+2175,Javascript
+2180,Ajax
+2185,CodeIgniter
+2188,Administration
+2192,Pemrograman Web
+2197,Cloud Infrastructure
+2201,REST API
+2203,IT Essentials
+2204,Academy
+2208,Web Design
+2209,Audacity
+2216,Typing
+2225,MySQL HTML Bootstrap
+2226,Troubleshooting Komputer
+2230,Premiere Pro
+2236,Bisnis
+2237,Yii Framework
+2241,Vegas Pro
+2245,WordPress Development
+2250,Macromedia Flash
+2255,Node.js
+2260,Excel
+2265,PowerPoint
+2275,Traffic Manajemen
+2280,Editor
+2285,Content Creator
+2290,Aplikasi Dekstop
+2295,Dasar Java
+2298,Konfigurasi Jaringan
+2299,Windows
+2304,Routing and Switching
+2305,Angular 8
+2307,MVVM Architecture
+2312,Unit Test
+2313,CAD
+2317,Framework
+2318,Keras
+2323,TensorFlow
+2326,SAP2000
+2331,Revit Structure
+2336,Microsoft Project
+2344,Web Mobile Programming
+2349,PHP Java XML
+2350,HTML CSS JavaScript
+2354,Assembly
+2359,BASIC
+2366,Karnaugh Map
+2371,DOSBox
+2373,Adobe After Effects
+2378,Multimedia
+2379,Memahami Basic HTML
+2383,Network Security
+2389,Komputer
+2391,Google Suite
+2395,Dasar Dasar HTML dan
+2398,HTML
+2402,CorelDRAW
+2405,Editing
+2410,computer-literacy
+2411,English
+2414,Premiere Pro
+2417,Telekomunikasi
+2422,Fiber Optic
+2427,Management
+2430,ReactJS
+2435,PHPMySQL
+2439,Sketchbook
+2440,Adobe Illustration
+2443,Data Analyst
+2445,Data Visualisation
+2450,Data Analyst
+2454,Adobe Premiere
+2455,Network Administrator
+2459,Rekayasa Kebutuhan
+2464,Amazon Web Services
+2466,Unified Modeling Language
+2470,GameMaker Language
+2471,Scilab
+2475,Katalon Studio
+2480,Robot Framework
+2485,Automation Testing
+2490,API Testing
+2495,Test Case
+2500,Jira
+2504,Eagle
+2510,C++
+2515,Penetration Testing
+2519,UI Design
+2524,Adobe After Effects
+2526,Linux
+2534,Continuous Integration
+2536,Web Framework
+2541,3D Blender
+2543,"Web, SQL, JavaScript, PHP"
+2547,Object-Oriented Programming
+2550,Greenfoot
+2555,CODU
+2560,Code::Blocks
+2565,RAPTOR
+2570,"HTML, PHP"
+2574,"PHP, Pascal, JavaScript"
+2577,Cucumber Framework
+2579,SAP BW
+2584,Talend
+2585,"Basic HTML, CSS"
+2590,PostgreSQL
+2593,Wireshark
+2594,Bootstrap 4
+2596,CodeIgniter
+2597,CSS3
+2602,Research
+2607,Analysis
+2612,Renewable Energy
+2617,FMCG
+2622,GMP
+2623,Designer
+2625,Back End
+2630,Maintenance Electric
+2635,Maintenance Mechanic
+2640,Enterprise Architect
+2645,Axure
+2650,Agile Scrum
+2655,Pencil Project
+2660,Activity Diagram
+2665,Use Case
+2669,MATLAB
+2674,C++
+2679,Mission Planner
+2682,draw.io
+2687,Airtable
+2692,Trello
+2693,Routing Switching
+2698,Fiber Optic
+2703,Express
+2706,Adobe Premiere Pro CC
+2708,Kubernetes Docker
+2720,Filmmaker
+2724,Analisa Keuangan
+2729,Maintenance
+2734,Repair
+2739,Troubleshooting
+2744,Blender 3D
+2754,MySQLi Database
+2758,Manajemen
+2760,C++
+2768,"HTML, CSS, PHP, MySQL"
+2769,Fiber
+2774,Nirkabel
+2779,Wireless
+2780,Xamarin
+2784,Fortran
+2785,"HTML, CSS, JavaScript"
+2790,Materialize
+2794,Desktop Programming
+2796,Experience Design
+2798,Postman
+2803,Software Testing
+2804,Networking Sysadmin
+2808,ProtoPie
+2813,UML Diagram
+2814,Fusion 360
+2819,InduSoft SCADA
+2820,Yii2 Framework
+2824,Python
+2829,UX Design
+2834,UI Design
+2841,Premiere Pro
+2848,Bootstrap
+2855,Frontend Web
+2861,Premiere Pro
+2867,Debian
+2877,"PHP, HTML, CSS, jQuery"
+2880,Content Creator
+2886,Entrepreneur
+2892,Penetration Test
+2895,Sublime Text 3
+2896,Begadang
+2902,QA Analytic
+2916,Interaction Design
+2923,UIUX Design
+2930,User Interface Design
+2936,Business Intelligence
+2941,Web Coding
+2948,Basic R
+2954,Microservice
+2959,amxmodx
+2966,pawn
+2976,Android (Java)
+2983,Desain Web
+2990,Desain Web
+2997,Jointingcore
+3001,MTCNA
+3008,Linux Ubuntu
+3014,Slim Framework
+3024,Product Management
+3025,GlobalMapper
+3031,Photoshop Dasar
+3038,Pemrograman Web Dasar
+3045,Java Dasar
+3052,Power Designer
+3057,Sound Recording
+3064,After Effect
+3071,Finalcut
+3074,Junior Network Admin
+3081,Junior Web Developer
+3087,Airflow
+3094,Metabase
+3095,Photoshop
+3102,Adobe Premiere Pro
+3108,Adobe Photoshop
+3115,Zeplin
+3122,AutoCAD 2D 3D
+3135,Swarm Intelligence
+3138,Photoshop
+3145,Permesinan
+3149,Bot
+3152,MuleSoft
+3159,Hardware Maintainer
+3166,OS Modifier
+3173,MediBang Paint Pro
+3180,FL Studio
+3187,Sentiment Analysis
+3188,R Script
+3195,Unity 2D
+3198,Electrical
+3205,Mechanical
+3209,Microsoft Word
+3216,Microsoft PowerPoint
+3222,Clip Studio Paint
+3229,macOS
+3236,WordPress Design
+3243,Django
+3250,Java Desktop
+3251,Android Studio
+3258,Videography
+3265,PHP Dasar
+3271,Troubleshoot
+3278,Design Graphic
+3279,BLoC
+3282,Autodesk Inventor
+3289,Service-Oriented Architecture
+3296,Oracle Service Bus
+3303,Open Applications Group
+3310,Business Process Execution Language
+3317,JDeveloper
+3324,WebLogic
+3327,Unity 3D
+3334,Adobe Animation
+3341,Premiere Pro
+3342,Web Apps Developer
+3349,Mobile Apps Developer
+3356,Desktop Apps Developer
+3363,Bahasa Inggris
+3370,Public Relation
+3376,Editor Video
+3383,Microsoft Office
+3387,Windows
+3391,phpMyAdmin
+3394,Adobe Illustrator
+3397,Measurement Tool
+3404,Adobe Premiere Pro
+3411,Xcode
+3415,IT Support
+3422,Programming Android
+3429,Java Web
+3433,Algoritma
+3439,Full Office
+3446,Computing
+3453,Codeigniter
+3460,SCM VMI Analyst Bizm
+3461,Haskell
+3464,Pemrogramman
+3467,Software
+3474,Security
+3481,Voice
+3482,Mechatronics
+3489,Electronics
+3496,Autodesk Eagle
+3506,Instalasi OS
+3510,WebAPI
+3516,Front End Web
+3517,Design Network
+3523,Cordova
+3524,Operating System
+3527,Automation Test
+3534,QAOps
+3541,Performance Test
+3548,Selenium
+3555,Chef
+3566,Software Aplikasi
+3580,Software Development
+3587,Jaringan Lan
+3594,Merakit Komputer
+3600,Live2D
+3607,Business
+3613,Bootstrap Javascript
+3614,CodeIgniter
+3618,Bash Scripting
+3621,JavaScript
+3628,CorelDRAW
+3630,Automate BPA
+3634,DevOps
+3637,Illustrator
+3644,Data Studio
+3650,Descriptive Analytic
+3651,C/C++
+3658,Linux Administrator
+3665,Database
+3672,Microsoft SQL Server
+3679,Visual Studio
+3684,Nuxt
+3690,NodeMCU
+3697,Robot
+3699,Next.js
+3706,Data
+3711,ANSYS
+3718,Inventor
+3734,Soft Skill
+3737,Adobe Photoshop
+3752,ElectronJS
+3757,After Effect
+3764,Mikrotik Router
+3768,Adobe After Effects
+3773,Basic R Programming
+3777,JavaScript NodeJS
+3782,Digital Marketing
+3790,SQL Server
+3798,Switching ATM
+3807,Operational Bank
+3814,Android Studio
+3817,Java Programming
+3822,Micros
+3823,OpenCV
+3827,Menulis Artikel
+3832,CorelDRAW
+3837,IDL
+3845,Balsamiq
+3850,Java Dasar HTML dan CSS
+3853,Delphi 7
+3862,Web Programming
+3863,EViews
+3868,ArcView
+3872,Basket
+3877,Design
+3881,CSS HTML PHP Photoshop
+3887,Bisa Instalasi Aplikasi
+3897,Data Management
+3902,Word
+3907,Lumion
+3912,Komunikasi
+3917,Kerjasama
+3922,Marketing
+3927,Eviews
+3932,QM for Windows v5
+3937,Visual Studio Code
+3942,Mengajar
+3947,Zend Framework
+3952,Menginstal
+3957,Filmora
+3962,Access Point
+3967,Pemrograman C
+3972,Picsart
+3977,Coding Matlab
+3982,Coding Fortran
+3987,Pemula
+3997,Pentaho
+4002,Big Data Systems
+4003,Augmented Reality
+4007,Photos
+4012,Branding Designer
+4017,Game Development
+4022,Web Development
+4027,3D Modelling
+4032,Virtual Reality
+4037,Adobe Premiere Pro
+4042,Angular 8
+4047,Wireless
+4052,Microsoft
+4057,Optical
+4062,Telecommunication
+4072,Retrofit
+4077,Model View ViewModel
+4082,Construct2
+4087,Scrum
+4092,ProModel
+4097,AutoCAD 2D
+4102,Microsoft Visual
+4107,Microkontroller
+4112,Project Manajemen
+4117,Analisis
+4127,Pramuka
+4132,Lazarus
+4137,Cypress
+4142,COBIT
+4147,Android Basic
+4152,Linux User
+4157,Computer Technician
+4162,Computer Repairer
+4167,Frontend Web
+4172,WordPress
+4177,Audit TI
+4182,SEO Content Creator
+4187,nginx
+4192,Varnish
+4197,FreeBSD
+4202,GitLab CI/CD
+4207,Unreal Engine
+4212,Switching
+4217,Logo Design
+4222,Web Designer
+4227,Web Programmer
+4232,Graphic Designer
+4237,Sony Vegas Pro
+4242,UI Designer
+4252,Canva
+4257,CodeIgniter
+4262,Photoshop
+4267,CorelDraw
+4268,Room
+4272,Solaris 10
+4273,Programming
+4277,sass
+4282,DCS Control
+4287,db2
+4292,rdbms
+4297,Basic Android Development
+4302,Java Basic
+4307,Python Basic
+4312,Illustrator
+4317,Illustrator
+4327,Flutter
+4332,Cubase
+4337,Audition
+4342,Facilitator
+4347,Video Editor
+4352,Local Area Network
+4357,Wide Area Network
+4362,Voice over Internet Protocol
+4367,Closed Circuit Television
+4372,Private Automatic Branch Exchange
+4377,Sequelize
+4382,Apollo GraphQL
+4387,Corel Draw
+4392,Adobe XD
+4397,Photography
+4402,DIY Electro
+4407,Basic HTML
+4412,Basic CSS
+4417,VSCO
+4422,Objective-C
+4427,Storage
+4432,Server
+4433,Coding PHP
+4438,Manajemen Keuangan
+4442,Kemampuan Memimpin
+4447,Memecahkan Masalah
+4452,Microsoft Word
+4457,User Interface
+4462,Elektronika Industri
+4467,Mesin EFI
+4472,Software Elektronika
+4477,Otomasi Industri
+4482,Computer
+4487,Software Elektronika
+4492,Statistika
+4502,Matematika
+4507,Quick Basic
+4512,Embedded System
+4517,PHP
+4522,Bootstrap Jquery PHP
+4523,Coding
+4527,ReactJ
+4532,NodeJ
+4537,Thymeleaf
+4542,Pemrograman PHP
+4547,Analisa Sistem
+4552,Linux Administrator
+4562,ASIS Mobile
+4567,Blogger
+4572,Adobe Dasar
+4577,Azure Cloud
+4582,AdonisJS
+4587,swimming
+4592,running
+4597,HTML CSS PHP
+4602,Fullstack Developer
+4607,FreePascal
+4612,Editing
+4613,Bootstrap
+4617,Framework7
+4622,Adobe Ilustrator
+4627,Computer Science
+4632,SolidWorks
+4637,SketchUp
+4642,CI/CD
+4647,Java Android
+4652,Subnetting
+4657,Sparkol
+4662,VideoScribe
+4667,Lectora
+4672,Continuous Integration Framework
+4677,Turbo Pascal
+4682,MikroTik OS
+4687,Linux Debian
+4692,Dasar Komputer Stand
+4702,SEO Expert
+4707,Search Engine Marketing
+4712,Learn JavaScript
+4717,Learn Java
+4722,Learn PHP
+4727,Ando
+4732,Kode Bloks
+4737,Visual C
+4742,STM32Cube
+4747,Electronic Workbench
+4752,PSIM
+4757,Arabic
+4762,Content Writing
+4772,Xilinx
+4777,.NET
+4782,Debugging
+4787,Smali Language
+4792,Pemrograman Electric
+4797,Jaringan Komputer
+4802,MS Word
+4807,MS Excel
+4812,MS Power Point
+4822,Mengelola Keuangan
+4832,Mandarin
+4837,Android Development
+4842,Website Development
+4847,Analytical Skill
+4852,Problem Solving
+4857,Pemrograman
+4862,Modul Ekspor Impor
+4867,CyberOps
+4877,GPS Geodetic
+4882,ArcGIS
+4887,WAN
+4892,VoIP
+4897,PABX
+4902,MySQL
+4907,BIM
+4912,Akuntansi
+4917,Program Management
+4922,Technology
+4927,Inventory
+4932,User Research
+4937,Bekerjasama
+4942,KineMaster
+4947,dedikasi-loyalitas-m
+4952,CodeIgniter 3
+4957,"Express.js, RDBMS, NoSQL"
+4962,Adobe Premiere
+4967,Finance Accounting
+4972,Native PHP
+4977,Business Process
+4982,Game Developer
+4987,Rust
+4992,"HTML, Python"
+4997,RPG Maker MV
+5002,Mikrotik
+5007,React Redux
+5012,ASP.NET Core
+5017,Microservices
+5022,DJP Online
+5027,G Soft
+5032,Power System Analysis
+5037,Electrical Engineering
+5042,JavaScript
+5047,System Analysis
+5052,Visual Basic 10
+5057,PHP Framework
+5062,Database SQL
+5067,Android Kotlin
+5087,Design
+5092,DipTrace
+5097,InShot
+5102,Photoshop
+5107,GPS
+5112,Video Visual
+5117,Teknisi Komputer
+5122,Full Stack Designer
+5127,UX UX Designer
+5132,Network Fundamental
+5137,Hardware Dan Sofware
+5142,Teknik Elektro
+5147,Blogging
+5152,Article Writing
+5157,Angular 8
+5162,System Administrasi
+5167,IT Infrastruktur
+5177,Algoritm
+5182,Pseudocode
+5187,Basic C
+5192,Basic C++
+5197,Corporate Finance
+5202,Editing Creatorvideo
+5207,IT Helpdesk
+5212,Dasar HTML
+5217,Dasar Python
+5222,VB Visual Studio
+5227,Cisco Certified Network Associate Routing and Switching
+5232,Cisco Certified Network Associate Security
+5237,Broadcast Engineer
+5242,Mekanik
+5247,Akuntansi
+5252,Copy Writing
+5257,Script Kiddie
+5262,Illustration
+5267,Sony Vegas
+5272,Premiere
+5277,Amateur Laravel
+5282,Gravit Designer
+5287,Google Data Studio
+5292,Video Editing
+5298,Design Grafis Photogr
+5302,Algorithm
+5306,Data Structure
+5312,Google Earth
+5317,Atoll
+5322,Pathloss
+5327,MapInfo
+5332,MariaDB
+5334,Tracing
+5337,Aerodinamika
+5342,Robot Terbang
+5347,Mikroik
+5357,Microcontroller Programming
+5362,pandas
+5367,Photoshop
+5377,G.site
+5382,Spreadsheet
+5392,Financing
+5397,Accurate
+5402,InVision
+5407,dBASE
+5412,WiFi
+5417,Memasak
+5427,Installasi Laptop
+5432,Digital Art
+5437,Elektronika Komunika
+5442,System Leader
+5452,Vue 2
+5457,Robotic
+5462,Internetworking
+5467,Governance
+5472,Adobe XD
+5477,Solid
+5482,User Experience
+5487,Basic Of Java
+5497,Front End Web Design
+5506,Global Mapper
+5511,ArcMap
+5516,Dreamweaver
+5521,Adobe Premiere
+5526,Ads Tokopedia
+5531,Ads Instagram
+5536,Subnetting
+5541,Stata
+5546,Archicad
+5551,V-Ray
+5556,Electrical Control
+5561,CADCAM
+5566,Arduino Code
+5571,Eagle Schematic
+5576,Robotic Design
+5581,SynfigStudio
+5586,PivotAnimator
+5591,Videographer
+5594,B4A
+5596,Mikrokontroller
+5606,Angular
+5611,RESTful API
+5616,Entity Framework
+5621,GraphQL
+5626,ImageJ
+5631,Basic Python 3
+5636,Selenium WebDriver
+5641,Manual Tester
+5646,Accounting
+5651,Moodle
+5661,Public Speaking
+5666,Mikrokontroller AVR
+5671,Painting
+5686,Analisa
+5691,Edukasi
+5696,Kemasyarakatan
+5701,InVision Studio
+5706,Illustrator
+5711,UX Research
+5716,UI Design
+5721,Tax
+5726,Front-End Web
+5729,Adobe Lightroom
+5731,Unreal Engine 4
+5736,Daz3D
+5741,Ren'Py
+5746,Computer Aided Manufacturing
+5751,Computer Numerical Control
+5766,Pemrograman Internet
+5771,Data Entry
+5776,Adobe Premiere
+5781,CBuilder
+5786,Notepad
+5791,Filmora Go
+5796,Sublime
+5801,Photoshop CorelDraw
+5806,Java Editing Premiere
+5811,REST API Laravel
+5816,SQL Query
+5821,Instagram Ads
+5826,Konten Writing
+5831,Apache Spark
+5836,Apache Kafka
+5841,Apache Cassandra
+5846,Communication
+5851,Negotiation
+5856,English Language
+5861,Arabic Language
+5866,Diving
+5871,Miraldi
+5876,Maintenance Software Hardware
+5881,Troubleshoot PC
+5886,Elektro
+5891,Edit Video Dan Foto
+5896,AutoCAD Map
+5901,GeoServer
+5906,Drone UAV
+5909,GPS Geodetic
+5911,Marvel
+5916,WebPageMaker
+5921,Hot Potatoes
+5926,Instalasi Kelistrika
+5931,Basic Web
+5936,CodeIgniter Framework
+5946,Power Tools
+5951,Office 365
+5961,Jaringan Local Area
+5966,Merakit Komputer
+5971,Instal Laptop
+5976,Spark AR
+5981,Penerjemah
+5986,Programmer
+5991,Administrasi
+6006,XAMPP
+6011,CCS
+6021,Communication Skill
+6026,Collaboration Skill
+6031,VB 6
+6036,VB .NET
+6041,SQL Server
+6046,Cisco Networking
+6051,Web Dasar
+6056,Springboot
+6061,Computer Networking
+6066,Fontlab
+6071,Structured Programming
+6081,Montir
+6086,Solder
+6096,Deco
+6101,3D Modelling
+6106,Animation
+6111,Blog
+6116,Internet Marketing
+6121,Cloud Operation
+6126,Cloud Development
+6131,Service Komputer
+6136,IBM AS400
+6141,WPF
+6146,Spreadsheet
+6151,GDScript
+6156,Javascript Dasar
+6161,Codeigniter Dasar
+6166,CATIA
+6171,Computational Fluid Dynamics
+6181,Adobe Lightroom
+6186,Network Troubleshoot
+6191,Data Mining
+6196,Maxon C4D
+6201,Substance Designer
+6206,Performance Marketing
+6211,Microsoft Excel
+6216,Wondershare Filmora
+6221,Graphic Design
+6226,Hotel Management System
+6231,Channel Manager
+6236,E-Commerce
+6241,System Reservasi
+6246,Framework CI
+6251,Deface
+6261,Carding
+6271,VideoScribe
+6276,PicsArt
+6281,Go Lang
+6286,SLiMS
+6291,AutoCAD
+6296,Cinematography
+6301,Web Designer
+6306,Editing Foto
+6316,Editing Foto
+6321,MERN Stack
+6326,Tata Boga
+6331,Guru
+6336,CodeIgniter
+6341,Python
+6346,Jaringan Internet
+6351,MS Word Excel
+6356,DIgSILENT
+6361,Mathematical Logic
+6366,ProSource
+6371,Front Office
+6376,Affinity Designer
+6381,Microsoft
+6386,Adobe Premiere CC
+6391,DaVinci Resolve
+6396,Logic Pro
+6401,Ableton
+6411,Dutch
+6416,Java
+6421,Photographer
+6426,Remote Sensing
+6431,Quality
+6436,Verilog
+6441,VHDL
+6446,VMware
+6451,Filmora9
+6456,PhotoGrid
+6461,Pixlr
+6466,Adobe Photoshop
+6471,Visual Basic
+6476,FreeHand
+6481,Video Editing
+6496,Bahasa Inggris
+6501,Computer Hardware
+6506,Prototyping
+6511,Ladder
+6516,CodeIgniter
+6521,3D CAD Design
+6526,JavaFX
+6528,Vector
+6531,Surfer
+6536,MarvelApp
+6541,Administration
+6542,React Native
+6546,Redux
+6551,Produksi Sendal
+6556,Adobe InDesign
+6561,CSS Fundamental
+6566,HTML Fundamental
+6571,Kotlin
+6576,Website Developer
+6581,Adobe Photoshop
+6586,Delphi
+6591,SPSS
+6596,Adobe Photoshop
+6601,Graphic Design
+6606,iOS Development
+6611,Django Python
+6616,Java Desktop
+6626,PowerPoint
+6631,Tems Probe Nemo Easy
+6636,Networking
+6641,Joomla
+6646,Blogspot
+6651,Content Writing
+6656,FB IG Google Ads
+6661,Website Builder
+6666,iMacros UiPath
+6671,OpenCSV
+6676,Matplotlib
+6681,Procreate
+6686,Powerpoint
+6691,Spark
+6696,Apache
+6701,Spring Boot
+6706,Clip Studio Paint
+6711,React Native
+6712,Code Block
+6716,Motion Graphic
+6721,Arduino IDE
+6726,Matplotlib
+6731,NumPy
+6732,Data Science
+6737,Data Analyst
+6741,MaterializeCSS
+6746,Adobe Flash
+6756,AS3
+6758,Flamingo
+6761,Programming Language
+6766,Cisco IOS
+6771,3ds Max
+6776,Sketch
+6781,Overflow
+6786,Framer
+6791,Nemooutdor
+6796,Temsinvestigation
+6801,Google Maps API
+6803,Content Writer
+6808,MS Office
+6811,UI UX Design
+6816,Technical Writing
+6821,Blackbox Testing
+6826,Microsoft Visio
+6831,VB.NET 2010
+6836,Spring Framework
+6841,AutoCAD 3ds Max Sketch
+6846,Photography
+6851,Tehnisi
+6856,Operator
+6861,Photo Paint
+6866,Python Basic
+6871,Nano Shell
+6881,Web Design (CMS WordPress)
+6886,Studio One
+6891,Audition
+6896,ASP.NET
+6901,.NET Framework
+6906,Microsoft SQL Server
+6911,Komputer Hardware
+6916,Assembly Language
+6921,Microsoft Office
+6926,Blender
+6931,Turbo Basic
+6936,Pinnacle Studio
+6941,Adobe After Effect
+6946,ArcGIS
+6951,Office
+6956,Movie Maker
+6961,AVS Video
+6966,Translation
+6969,Illustrator
+6971,Borland C
+6976,Web Design Frontend
+6981,Public Speaking
+6986,Jurnalistik
+6991,Hub Internasional
+6996,Jerman
+7000,Petrophysic
+7005,Geo Electric
+7011,Katalon
+7016,Adobe CC
+7021,Hive
+7026,SAP ABAP
+7031,.NET Programming
+7034,Flask
+7036,Management Office
+7041,Management Project
+7046,Flutter
+7051,Playing Games
+7061,Basic Java
+7066,Basic ReactJS
+7069,Desain Grafis
+7074,Video Grafis
+7079,Angular CLI
+7081,RapidMiner
+7085,Oracle DB
+7090,Microsoft SQL Server
+7095,PHP CI
+7096,Garmin Mapping
+7101,SolidWorks 2018
+7106,Leap
+7110,Hardware Engineer
+7115,Pemograman Web
+7120,Active Directory
+7125,Microsoft Exchange
+7126,Statistix 8
+7131,Frontend Development
+7136,Maya
+7141,Houdini
+7145,Design Corel
+7150,Blogsite
+7155,Bimbel Les Anak Anak
+7156,Robot Operating System
+7161,Computer Aided Engineering
+7165,UI UX Designer
+7169,Videografer
+7174,Photografer
+7176,Programming
+7180,Filmora
+7185,Delphi Pascal
+7186,Articulate Storyline
+7191,Entry Data
+7196,IT Troubleshooting
+7201,Coding Photoshop Edit
+7206,Eletro
+7211,Art Enthusiast
+7216,Affinity Design
+7221,SCADA
+7226,Adobe Illustrator
+7236,Photosho
+7241,Affinity Designer
+7244,UX Design
+7246,Bisa Photo Shop
+7251,Office
+7256,Belajar Dari Youtube
+7261,Microcontroller
+7266,Fullstack
+7271,Adobe Dreamweaver
+7276,Gitar
+7281,Rubik
+7286,Critical Thinking
+7291,Javascript
+7296,Vuetify
+7301,VBA Macro
+7311,Visual Basic 6
+7316,Microsoft Access
+7321,SolidWorks
+7326,Google Ads Marketing
+7331,Business Intelligence
+7336,Fintech Addict
+7341,3D CAD
+7346,Ilustrator
+7351,Spring Framework
+7356,Iluustrator
+7361,VirtualBox
+7366,Motion Grafis
+7371,Desktop Programming
+7376,CNC TU 2A
+7386,Mesin Frais
+7396,Las
+7401,Google Spreadsheet
+7404,Web Scraping
+7409,scikit-learn
+7411,Visualisasi Data
+7416,vb.net
+7421,Auditing
+7426,Cooking
+7431,EViews
+7434,CSS Framework
+7436,Digital Image Processing
+7441,Adobe Illustrator
+7446,Kotlin
+7451,Windows Movie Maker
+7456,Mechanic
+7461,Design
+7466,Content
+7471,Creator
+7476,Dasar Programming
+7480,Video Production
+7484,SAS
+7486,Manual Testing
+7491,Automation Testing
+7496,English And Arabic Skills
+7501,Maintenance Internet
+7506,Maintenance Komputer
+7511,Android Developer
+7516,Digital Marketer
+7521,PLC Omron
+7526,Web Programmer
+7531,Kotlin
+7536,Home Automation
+7541,Electronic
+7546,Engineering
+7551,Event Management
+7556,User Experience and User Interface
+7561,HPE
+7566,Aruba
+7571,UI Android
+7576,Animate
+7579,Frontend Web
+7581,Photoshop
+7586,Komputerisasi
+7591,Mekanik
+7596,Dev-C
+7601,NetBeans
+7606,UX Designer
+7611,SPSS Statistics
+7615,Industrial Internet of Things
+7616,"VB6, Pascal, Java, SQL"
+7621,Game Maker Studio
+7626,Manga Studio
+7631,Comic Life
+7636,Microsoft Visual Basic
+7641,Web
+7646,Nursing
+7651,Spark AR
+7656,OracleDB
+7661,Final Cut Pro
+7666,Fotografi
+7671,MERN
+7676,Octane Render
+7681,Cinema4D
+7686,DaVinci Resolve
+7691,ZBrush
+7696,Dimension
+7701,Artificial Intelligence
+7705,Internet Marketing
+7706,Adobe Premiere Pro
+7711,Query
+7716,Affinity Designer
+7721,AS400
+7726,HTML dan PHP
+7731,Game Development
+7736,Premiere Pro
+7741,Proteus PCB Designer
+7746,Altium Designer
+7751,PyQt5
+7755,Zahir Accounting
+7756,Data Scientist
+7761,Statistics
+7764,Analisa dan Perancan
+7776,Analisis Data
+7781,Tekla Structures
+7786,Autodesk Revit
+7791,Twinmotion
+7795,Basic Networking
+7796,Nuxt.js
+7801,Tailwind CSS
+7807,Mathematics
+7810,Ibis Paint
+7812,Drafter Mesin
+7817,"HTML, CSS, CodeIgniter"
+7822,"Bootstrap, PHP, JavaScript"
+7827,"Laravel, MySQL, Oracle"
+7832,"Android Studio, Java, N"
+7837,"Photoshop, Adobe XD, Fi"
+7842,Operator Mesin
+7847,Drater Mesin
+7852,"Editor, Beginner"
+7859,HTML5
+7861,Front End Web Development
+7863,"CSS, HTML"
+7867,Lumen
+7874,OSI Layer
+7879,Test-Driven Development
+7884,Video Editing
+7889,Map
+7894,Bootstrap 4
+7899,CorelDRAW
+7904,Keynote
+7909,Presentation
+7914,Teamwork
+7919,Kreatif
+7924,SketchBook Pro
+7929,ES6 JavaScript
+7934,ECMAScript 6
+7939,Writer
+7944,MERN Stack
+7949,Java Android
+7954,Server Linux Administration
+7959,Database Administration
+7964,Design UI UX
+7969,Fusion
+7973,mcnp
+7979,Mobile
+7984,MS Access
+7989,LibreOffice
+7994,MySQL Delphi
+8004,Photo Editing
+8009,Godot
+8014,Video Editing
+8019,Maxsurf
+8024,ShipConstructor
+8029,AutoCAD Plant 3D
+8034,Photoshop Java Kotlin
+8044,Copywriting
+8049,Hardware Support
+8054,Software Support
+8059,Internet Troubleshoot
+8064,c#
+8069,Teknisi Komputer
+8074,Aplikasi Office
+8084,Machine Learning
+8094,MS Office
+8099,My
+8104,Dasar C++
+8109,MIT App Inventor
+8114,sap-insani-hris
+8119,Finest
+8124,Jaringan Komputer Junior
+8129,Bootstrap CSS HTML
+8134,Mikrotik Networking
+8139,Adobe Premiere
+8144,Linux Administration
+8149,Raspberry Pi
+8154,PyTorch
+8159,Autodesk 3ds Max
+8164,AWS Cloud
+8169,Motion Graphic
+8174,webpack
+8179,WebSocket
+8184,Extract Transform Load
+8189,Adobe Illustrator
+8194,Lightroom
+8199,.NET Core
+8204,Yii
+8209,AWS Cloud Practitioner
+8214,AWS Cloud Practitioner
+8219,Electro Audio Video
+8228,Pemrograman Android
+8229,Basic Photoshop
+8234,Basic Illustrator
+8239,Basic Microsoft Word
+8244,Basic MS PowerPoint
+8249,Basic Excel
+8254,Basic Frontend
+8260,Teknisi Hardware Kom
+8264,Concept
+8274,LM Pengembangan Apli
+8279,Desain Stiker
+8284,Language English
+8289,Language Japanese
+8294,Machine Learning
+8299,Swing
+8304,Programming Dasar
+8309,React Hooks Redux
+8314,Dasar Pemrograman
+8319,Jaring
+8324,Troubel PC
+8329,Dolphin
+8334,Protheus
+8339,Basic Network Admin
+8344,Node-RED
+8349,PostgreSQL
+8354,NativeScript
+8359,CodeIgniter4
+8364,Agile
+8368,Basic PHP
+8369,PLC Programming
+8374,SAP ABAP
+8379,IT
+8384,Digital
+8389,Adobe Illustrator
+8394,Cyber Security
+8399,Karate
+8404,Appium
+8409,App Development
+8414,Python Data Science
+8419,Creatio Platform
+8424,Desain Gris
+8429,Cyber Ops Security
+8434,Photoshop Adobe Illustrator
+8439,Paint Tool SAI
+8444,Google Cloud Platform
+8449,Dialogflow
+8454,Processing
+8459,AVR
+8464,Deep Learning
+8469,Bootstrap
+8474,Coaching
+8479,RStudio
+8484,UX Writing
+8489,DOS
+8494,DCS SCADA
+8495,Filmmaking
+8500,Communicative
+8504,PostgreSQL
+8509,Qlik Sense
+8514,Basic Blogger
+8524,Game Tester
+8529,MEVN
+8534,Lumen
+8539,Web PHP Java Android
+8544,Illustrator Construct
+8549,Java
+8554,Linux Shell
+8559,Ekspor Impor
+8563,Ethical Hacker
+8564,Julia
+8569,Structural Design
+8574,WordPress Blog
+8579,Teknologi
+8584,Maintenance PC
+8589,Paint Tool SAI
+8594,Blockchain
+8598,Instalasi CCTV
+8599,Mobile Service
+8604,SketchUp
+8608,Minescape
+8613,WellCAD
+8614,Hardware Engineering
+8619,Strategic Planner
+8624,Montir Mobil
+8629,Adobe After Effects
+8634,Cubase 10
+8639,SAP MM Module
+8644,Desain Grafis
+8649,Web Security Analysis
+8659,Driver
+8664,English
+8669,Swimming
+8674,Teaching
+8679,Teknisi Perangkat Komputer
+8684,MQL4
+8689,Clipper
+8694,Excel
+8699,MikroTik
+8703,Drupal
+8708,Blogspot
+8709,Slim
+8714,Autodesk
+8718,3Ds Max
+8723,Logo
+8728,Font
+8733,Custom Font
+8734,JavaScript
+8739,Flutter
+8744,Android Developer
+8749,Android Developer
+8754,Basic Python
+8759,Basic Machine Learning
+8764,Basic Kotlin
+8769,PLC Programming
+8774,C Programming
+8779,Troubleshooting Computer
+8784,Adobe
+8785,Vegas Pro
+8790,Basic JavaScript
+8795,Basic Machine Learning
+8804,Merakit PC
+8809,AdMob
+8818,Troubleshoot Laptop
+8820,Pemetaan
+8824,Networking Administr
+8828,xl
+8829,Jurnalis
+8834,CMS WordPress
+8838,Negotiators
+8843,Social Studies
+8849,Premiere Pro
+8850,Material Design
+8853,Python
+8854,FL Studio
+8859,Lua
+8869,Desain Grafis
+8874,Civil 3D
+8879,Filmora 9
+8883,HAProxy
+8884,Emailing
+8889,aplikasi-komputer
+8894,Unreal
+8899,Blander
+8903,Oracle APEX
+8908,PL/SQL Developer
+8910,Vegas Pro Ms Office
+8915,Google Docs
+8918,Photography
+8923,Videography
+8924,Power BI
+8929,Symfony
+8934,Microcontroller
+8938,Computer Repair
+8943,Web Development
+8948,dns
+8949,Macromedia Dreamweaver
+8950,Quality System
+8955,Java Android Studio
+8958,UI/UX Designer
+8959,HTML PHP CSS Database
+8964,CSS
+8969,Lecturer
+8974,Internet Marketing
+8979,Admin Media Social
+8984,Personal Trainer
+8985,GNU/Linux
+8989,LabView Program
+8994,Basic Of HTML
+8999,Basic Of CSS
+9004,Basic Of PHP
+9009,Basic Of Photoshop
+9014,Basic Of Illustrator
+9019,Materialize
+9024,Mikrotik
+9029,Web Dasar
+9034,sleep
+9039,Build Website
+9044,Kafka
+9049,TOGAF
+9054,System Analyst
+9059,imovie
+9060,Photoshop Basic
+9064,Farming
+9069,Loader Operator
+9073,C++
+9074,JMeter
+9084,manual-software-test
+9089,IBM AIX
+9094,san
+9098,Javascript
+9099,Troubleshooting PC
+9104,Teaching
+9109,Unity C#
+9113,C Basic
+9114,Angular 1
+9119,Basic DBase
+9124,SVN
+9129,API
+9134,Room DB
+9139,Python
+9143,Cisco Certified Network Associate
+9148,Firewall Fortigate
+9153,Management Bandwidth
+9158,access-point
+9163,Google Analytics
+9164,Wondershare
+9169,Phalcon
+9174,Vuesax
+9179,Tailwind
+9185,Knime
+9189,elektro-microsoft-pr
+9194,Basic Python
+9199,Google Cloud
+9204,Data Analysis
+9209,aspx
+9213,.Net Programming
+9214,Audio Engineering
+9219,Logic Pro X
+9224,Kontakt
+9229,administrasi-perkant
+9234,Illustrator Logo
+9235,Multimedia
+9239,R
+9243,Clean Architecture
+9248,Matematika Dasar
+9253,Medium English
+9259,Microsoft Power BI
+9260,Hardware PC
+9264,Electric
+9269,Functional Test
+9274,API Test
+9279,Visual Test
+9284,pemrograman-dasar-we
+9289,Codevision AVR
+9294,Hardware
+9296,MS Word
+9300,MS Excel
+9304,Google Sheet
+9307,MS Excel
+9312,Spring MVC
+9317,multisim
+9322,Manajemen Server
+9331,WordPress Developer
+9336,Google Ads
+9344,Dasar JavaScript
+9350,CSS Dasar
+9356,Business Analyst
+9362,Hardware
+9368,Jaringan Word Excel
+9374,owerpoint-corel-vide
+9380,microsoft-excel-phot
+9386,gnu-linux
+9392,Proxmox
+9398,Virtualmin
+9407,Engineering Drawing
+9414,Production Planning and Inventory Control
+9422,packet-treacer
+9424,Mengoperasikan Microsoft Word & Excel
+9431,Mengoperasikan Microsoft Word
+9440,Membaca Alquran
+9446,Photoshop
+9451,Adobe Premiere
+9452,Design Infografis
+9456,Master of Ceremony
+9461,Web Design
+9466,JavaScript
+9471,Illustrator
+9476,Service Handphone
+9481,Electrical Engineering
+9486,SDL Trados
+9491,Memsource
+9496,Robotics
+9501,Vision
+9506,Network Engineering
+9511,Microsoft Dynamics Cna
+9515,Construction Drawing
+9517,Editing Instalasi Co
+9521,Teknisi
+9525,Front End Developer
+9527,Networking
+9532,Mastercam
+9537,Crystal Report
+9542,Mixcraft Studio
+9547,RapidMiner
+9552,basic-coding
+9557,Internet
+9562,Adobe Flash
+9567,WINCATS
+9572,Adobe InDesign
+9577,HTML
+9582,CSS
+9587,Welder
+9595,Photoshop
+9600,Data Analysis
+9605,Software Documentation
+9610,Auditor IT 20001
+9615,Auditor IT 27001
+9617,ArcGIS
+9622,Administrasi Clerica
+9627,K3
+9632,Mining Engineer
+9637,Oracle Database
+9642,teknik-instalasi----
+9645,Materilize
+9647,Gemini CAD
+9652,Optitex
+9657,Wilcome E4
+9662,Big Data Twitter
+9667,Security Network
+9672,Load Balancer
+9677,Mysqk
+9682,ASP.NET Core
+9687,HTML CSS JS
+9692,Qlik
+9697,Mobile Development
+9702,Adobe CS
+9707,Edius
+9712,Gamer
+9717,Autocad
+9722,3dsmax
+9727,Base24
+9732,Autodesk Autocad
+9737,Samp Code
+9742,fix-samp
+9747,R
+9752,Basichtml
+9757,Illustrator
+9762,Bootsrap
+9767,Vlookup
+9772,Networkin
+9777,Android Native SDK
+9782,Adobe Premiere Pro
+9787,Network Installation
+9792,Software Development
+9802,Fullstack Web Dev
+9807,Documentation
+9810,Production Planning
+9815,Production Control
+9820,Organization
+9825,Event Planning
+9827,Front End Web Development
+9832,Python
+9837,Internet of Things
+9842,Software Engineer
+9847,Algorithms
+9852,Basic Python
+9857,Networking
+9862,Linux
+9867,JavaScript & Python
+9872,Data Analysis
+9877,Physics
+9882,Python
+9887,SQL
+9892,Web Coding
+9902,Google Suite
+9907,Tourplan
+9912,Photography
+9917,After Effects
+9922,Graphic Design
+9927,Graphic Design
+9932,Public Speaking
+9937,Database Management System
+9942,Arduino Programming
+9947,PCB Designer
+9952,Blender 3D
+9957,IT Governance
+9962,Game Design
+9967,Level Designer
+9972,Copywriting
+9977,Facebook Ads
+9982,WordPress Specialist
+9987,Development
+9992,After Effects
+9997,Office
+10002,Bahasa Jepang
+10007,Basic Python
+10012,.NET Technology
+10017,Mechanical Engineering
+10022,appraisal
+10027,"HTML, CSS, Laravel, CodeIgniter"
+10032,"CodeIgniter, Git"
+10037,Web Programming
+10042,Adonis
+10052,Design and Programming
+10057,Prototyping Adobe XD
+10062,Analisis Data
+10067,Ladder Diagram
+10077,Fundamental Web Programming
+10082,Redhat Linux
+10087,Shell Script
+10092,Google Data Studio
+10097,Copywriter
+10102,Oracle Builder
+10107,cst
+10116,System Analyst
+10121,Front End Flutter
+10126,npm
+10131,Instrumentation
+10136,Arduino
+10140,Nyanyi
+10141,PHP
+10146,UI/UX Designer
+10150,Cisco SD-WAN
+10155,Cisco Route Switch
+10160,Mikrotik Routing
+10165,System Admin
+10170,Ubuntu Server
+10176,typing-master
+10181,Mozilla Firefox
+10186,jest
+10196,Bisa Menggunakan Mic
+10201,Sales Marketing
+10206,Backend Programming
+10211,restify
+10216,Startup Digital Ekonomi
+10221,Python
+10226,vscode
+10231,Design Grafis
+10236,PHP HTML
+10241,Adobe Illustration
+10246,WordPress
+10256,Magento
+10261,Animate CC
+10271,CRUD CodeIgniter
+10276,Dependency Injection
+10281,Java Basic
+10286,Python
+10291,Product
+10296,Machine Learning
+10301,WPS
+10316,Android Web Programming
+10336,Dasar Dasar
+10351,Nuendo
+10356,Basic Backend
+10361,Photoshop Illustrator
+10376,TML
+10386,Embedded
+10391,HTML Dasar
+10396,Content Writing
+10401,3D Animation
+10406,Mikrokontroller C
+10411,Web Design
+10416,Vector Design
+10421,Node.js
+10426,Bot Development
+10431,REST API Development
+10436,Python
+10441,Sewing
+10446,English
+10451,Teamwork
+10456,Data Entry
+10461,Microsoft Excel
+10466,Digital Marketing
+10471,Instagram Administration
+10476,MySQL
+10481,ReactJS
+10486,Arduino
+10492,Editing Video
+10497,Speak
+10502,Test
+10507,Data Visualization
+10512,Scientific Writing
+10517,Creative Writing
+10518,Android Java Kotlin
+10523,Web Angular CI
+10528,Hybrid Ionic
+10533,Backend Dotnet
+10537,Zeland
+10542,Web Developer Dan Mac
+10547,Crystal Report
+10552,Query Builder
+10557,Desktop Developer
+10567,Machine Learning
+10568,Servis Komputer
+10573,Inventory Beackuai
+10577,Ngetik
+10582,Web Native
+10587,Pemrogramanweb
+10592,CodeIgniter 4
+10597,Machine Elearning
+10602,Skecthup
+10608,Desktop Programming
+10613,System Analytics
+10618,Front-End Web
+10622,Backend Programmer
+10627,Android Programmer
+10632,Delphi XE
+10637,Backend Developer We
+10648,Itma
+10652,Codeigniter
+10657,installer
+10672,Repair Pc
+10677,Web Programming
+10682,Mobile Programming
+10687,Distributed System
+10692,Database Specialist
+10697,Mobile Development
+10702,Web Development
+10707,Business Process
+10712,Mobile Android Development
+10717,CSS
+10722,CSS HTML Java
+10732,ip
+10737,Management
+10742,MVVM Design Pattern
+10747,Room Database
+10752,Coroutine
+10757,Software Installation
+10762,Hardware Repair
+10767,Application Developer
+10772,Software Engineer
+10778,Mixing Audio
+10782,Dart Flutter
+10787,Version Control
+10792,Machine Learning
+10797,Data Science
+10802,Pega
+10807,Pega PRC
+10812,Dasar Bahasa C
+10817,Dasar Debian 9
+10822,Dasar Routing
+10827,Dasar Cisco Network
+10832,Corel Video Studio
+10837,ulead
+10842,hanya-membuat-bloger
+10847,Library
+10852,JS Framework
+10857,BabylonJS
+10862,Network Design
+10867,Network Administration
+10872,Analytic
+10877,Model View Controller
+10882,System Architecture
+10887,Process Automation
+10892,Microservice
+10893,Microsoft Word
+10898,Host Webinar
+10902,Java
+10907,Database Development
+10912,Visual Programming
+10917,Administrator
+10918,Laravel
+10922,Java Programming
+10927,Basic HTML CSS
+10932,Page Building
+10937,Hosting
+10942,Pemrograman Dasar
+10947,Jaringan Komputer
+10948,hibernate
+10953,Android Using Java
+10958,Basic Debian Server
+10962,skil-dasar-mengenai
+10967,E-Commerce Ads
+10972,Native
+10977,Line LIFF
+10982,Database Manajemen
+10987,Program Analis
+10992,Cloud Engineering
+10997,Keamanan Komputer
+11002,Backend Developer
+11012,Web Perograming
+11017,Artificial Intelligence
+11022,Robotik
+11027,reasoning
+11032,Mobile Web
+11037,Create VPS
+11042,Arsitektur Cloud
+11047,PHP Programming
+11052,Graphic Designer
+11058,Blender Foundation
+11063,Object Oriented Programming
+11068,Oracle Forms
+11073,PLSQL
+11078,Editing Audio
+11085,iOS Swift
+11092,Designer Graphic
+11099,AVR Assembler
+11100,SmartPLS
+11105,Java Beginner HTML B
+11110,pemandu
+11115,Mempunyai
+11125,Windows Mastering
+11130,Business Intelligence
+11135,HDL Smart System
+11140,Altium Designer
+11143,UI Designer
+11148,UX Designer
+11153,QA Manual Tester
+11158,HTML CSS PHP JS Dasar
+11160,Python
+11165,Mobile Programming D
+11168,Visual Basic Dasar
+11170,AdonisJS
+11175,Svelte
+11180,System Analyst
+11200,Backend Engineer
+11205,j-query
+11210,Koding
+11215,Robotic Process Automation
+11220,Unity Game
+11225,Packet Tracer
+11230,OptiSystem
+11235,Augmented Reality and Virtual Reality
+11240,Data Analysis
+11247,Next.js
+11248,IT Management
+11252,Flutter and Dart
+11253,Data Engineering
+11258,Data Scientist
+11260,OutSystems
+11263,PostGIS
+11265,Data Science
+11270,C++
+11283,App Design
+11288,Website Design
+11290,IPTV Engineer
+11295,Project Control
+11300,Graphic Design
+11305,Frontend Web Development
+11310,Word
+11313,Information Technology Network Support Administration
+11318,Web Backend
+11320,Visual Studio 2019
+11330,Team Management
+11340,Industrial
+11345,Content Writer
+11350,Routing and Switching
+11355,Oracle WebLogic
+11360,Server Engineer
+11365,JavaScript Basic
+11368,micro
+11370,Network Topology
+11373,Interior Gateway Protocol and Exterior Gateway Protocol Routing
+11375,Backend Web Development
+11380,Engineer
+11385,Environmental
+11395,Web Application
+11398,Web Development
+11400,Postgres
+11405,"Nodejs, Laravel, React"
+11406,"Android, Kodular"
+11408,Linux System Administration
+11413,VBS
+11417,Amazon Web Service
+11422,Yesod Framework
+11427,Tableau
+11434,Ilustrasi
+11439,Pengetahuan Umum
+11442,Reading
+11447,Researching
+11451,Dev
+11456,Python Basic
+11459,Kelautan
+11464,Oseanografi
+11472,Product Development
+11474,Infrastructure
+11479,Desain UI UX
+11484,Edit Video
+11489,Konsep Digitalisasi
+11496,OpenCV
+11497,Web Programmer
+11498,Android Jetpack
+11499,Bootstrap
+11502,Cloud Architecture
+11504,Cloud Computing
+11509,VMware Virtualization
+11512,Bootstrap
+11517,Product Development
+11518,Quality Assurance
+11520,Flutter Beginner
+11522,iOS Developer
+11524,Artificial Intelligence
+11526,Education
+11531,Service
+11536,Communication
+11541,Cooperation
+11543,Backend Developer
+11548,Mobile App Developer
+11551,Design PCB
+11556,Web Design
+11561,Devlearning
+11566,Web
+11571,Data Wrangling
+11575,Environments
+11580,Command Line Interface
+11585,LESS
+11590,Redux
+11595,RESTful
+11600,API
+11605,Gitflow
+11610,Familiarity
+11615,Driven
+11620,Unix
+11623,"HTML, CSS, Bootstrap"
+11626,Software Development Life Cycle
+11631,Git
+11636,Web Frontend
+11641,Data Science
+11646,Data Analytical
+11649,Wireframe
+11654,ERD Design
+11659,Codeigniter 4
+11661,Vuex
+11664,Machine Learning
+11669,Pemrograman Bahasa R
+11671,Framework Laravel
+11674,Studio Code
+11679,FileZilla
+11682,Analyst
+11687,SSRS
+11692,Crystal Report
+11697,Dexterity
+11700,Fast Typing
+11703,Quality Assurance
+11707,R Basic
+11711,Web Programming
+11712,MySQL Dasar
+11716,UI/UX
+11718,Audit Sistem
+11723,socket.io
+11728,x86-asm
+11731,Web Developer
+11732,Learning
+11736,Embedded System
+11741,Automation
+11746,Control System
+11752,Full Stack Development
+11757,AWS Server
+11762,SolidWorks
+11767,3D Design
+11772,CSS3
+11777,Python 3
+11782,Bermain Game
+11787,Front End Website
+11792,Back End Website
+11797,Android Developer
+11802,Multiplatform
+11807,Python Flask
+11812,PHP CodeIgniter
+11817,Smart Device
+11822,PCB Design
+11827,Multi Platform
+11832,Virtual Machine
+11837,3D Modeler
+11842,Jaringan Dasar
+11847,Basic Web Development
+11852,Trading
+11857,Video Editing
+11862,Basic Programming
+11867,PHP MySQL
+11872,ye
+11877,User Interface Design
+11882,Frontend Developer
+11887,.NET Framework
+11897,Pemograman Python
+11902,Data Analisis
+11907,AX Dynamics 365
+11912,.NET
+11917,ETL SQL Data Warehouse
+11922,Logo Design
+11927,Reactive Programming
+11932,Dagger2
+11937,Hilt
+11942,Android Fundamental
+11947,Terraform
+11952,Game Development
+11957,Mengedit
+11962,Dasar Css
+11967,Dasar Php
+11972,Frameworks
+11977,APIs
+11982,Team
+11987,Gitlab
+11992,Analytic
+11997,Web Developer
+12002,Baca
+12017,Scroll
+12022,Next.js
+12027,Adobe
+12032,Windows Server
+12037,Machine Learning
+12042,Deep Learning
+12047,Web Programming
+12052,python3
+12057,Jupyter
+12062,R Programming Language
+12067,Affinity Photo
+12072,Mesin Bubut
+12077,Front End
+12082,MYOB
+12092,Python
+12097,Reporting
+12102,Server Linux
+12107,Zimbra Mail Server
+12112,IT Technical Writing
+12117,Unified Modelling Language
+12122,Autonomous
+12127,Data Engineering
+12130,Back End Web
+12135,Pembuatan Web
+12140,Administrasi Data
+12145,Membuat Web
+12150,Belajar MySQL
+12155,Belajar Coding
+12160,Data Lake
+12170,Bahasa C
+12175,Lindo
+12180,Lingo
+12185,IBM Statistic
+12190,Zelio
+12195,Jenkins
+12200,Gloud
+12205,Hooks
+12215,Playstore
+12220,WSO2
+12225,Basic MATLAB
+12230,Design Thinking
+12235,Middleware Engineer
+12240,Databases
+12244,Relational Database
+12249,Entrepreneurship
+12254,Web Programming
+12259,Creative Design
+12264,Art Designer
+12269,Customer Experience Programmer
+12274,Sensor Fusion
+12279,Augmented Reality
+12284,Cisco Network
+12289,Load Balancing
+12294,Lens Studio
+12299,Postgre
+12304,Mongoose
+12309,Music Producer
+12314,Data Analysis and Reporting
+12317,Finance
+12327,R Programming
+12332,3D
+12337,Pemograman Python
+12342,SwiftUI
+12347,Cisco Routing Switch
+12352,Styled Components
+12357,Java Spring Boot
+12367,Basic Data Science
+12372,PowerBuilder
+12377,Database Desain
+12387,Frondend
+12397,Data Scient Basic
+12407,Webpack
+12412,Basic Dart
+12417,Basic Flutter
+12427,OWASP
+12432,PHP SQL
+12437,"HTML, CSS, PHP, SQL Dasar"
+12442,JavaScript
+12447,Livewire
+12452,Heroku
+12457,middle-menguasai-bah
+12462,Backend Development
+12467,Django Backend
+12472,Django Rest Framework
+12477,Web Development Fundamental
+12482,Pemrograman Python
+12487,Beginner Front End
+12492,Front End Web Dasar
+12497,Infrastructure IT
+12502,mengedit-diaplikasi-
+12507,CorelDRAW dan Photoshop
+12512,OP dan Mikrotik Wireless
+12517,Logika Dasar Program
+12522,Mathematics
+12527,MS Word
+12532,MS Excel
+12542,Pemrograman Python
+12547,C++
+12552,CI/CD
+12557,Desain Grafis Editing
+12562,Design Grafis
+12567,Algoritma Pemrograman
+12572,Back End Programming
+12577,Database Administrator
+12582,Design Web
+12587,Data Entry
+12592,Artificial Intelligence
+12597,R
+12602,Sequelize.js
+12607,Gitflow
+12612,MS Excel
+12617,MS PowerPoint
+12622,bisa-mengoprasikan-k
+12627,Web Programmer
+12632,Information and Communication Technology
+12637,Ilmu Pengetahuan Alam
+12642,Basic Algorithm
+12647,Compose
+12652,Navigation
+12657,Laravel (PHP)
+12662,Automated Testing
+12667,Bug Report
+12672,Teknik Komputer dan Jaringan
+12677,IT Network
+12682,Digital Komputer
+12687,ASP.NET Core
+12692,Merakit Komputer PC
+12697,Windows Linux
+12702,Hardware Software
+12707,Engineering Electro
+12712,React.js
+12717,Next.js
+12722,Pengolahan Citra
+12727,Android Studio Basic
+12732,Developer Android
+12742,Mockup
+12747,Usecase
+12752,Business Requirements Document
+12757,Document Object Model
+12762,State Management
+12767,Visual
+12772,Teach
+12777,Basic Pemrograman Java
+12782,Front End Development
+12787,Mobile App Development
+12792,Web Backend Developer
+12797,Android Development
+12802,Android Jetpack
+12807,JSON Web Signature
+12812,HapiJS
+12817,Laravel 8
+12822,UX Research
+12842,Node.js
+12847,Scoop
+12852,RxJava
+12857,Picasso
+12862,Cardio
+12867,Moshi
+12872,OkHttp
+12877,Mapbox
+12882,Lottie
+12887,AppsFlyer
+12892,Slack
+12897,Zoom
+12902,System Engineer
+12907,Web Developer
+12912,Network Security
+12917,Installations
+12922,Program Arduino
+12927,Notion
+12932,Core UI
+12937,Medium
+12942,Access Point
+12947,Linux Administration
+12952,Nginx
+12957,Software Quality Assurance
+12962,Content Writer
+12967,Back End Testing
+12972,Frontend Testing
+12977,Web Programming
+12982,Mobile Programming
+12987,Wireframing
+12992,Business Product
+12997,Electric Programming
+13002,algoritma-dan-pemrog
+13007,Front End Developer
+13012,Dasar Java
+13017,HTML CSS
+13022,uimobile
+13027,Construct 3
+13032,Bahasa HTML
+13042,Design Web
+13047,Desing Grafis
+13052,Python Programming
+13057,Mac
+13062,kritis
+13067,Bahasa Java
+13072,Process Engineer
+13077,Automation Industry
+13082,Administrasi Dokumen
+13087,Aspen Hysys
+13092,Artificial Intelligence
+13097,Android Database
+13102,hapi
+13107,Dsing Web Dan Apps
+13112,Web Desainer
+13117,Chakra UI
+13122,Arduino
+13127,.net
+13132,Buat Aplikasi Native
+13137,mengembangkan
+13142,Clean
+13147,Code
+13152,Thinkingmath
+13157,Android Java Native
+13162,Android Flutter
+13167,axios
+13172,reduxjs
+13177,Data Pipeline
+13182,Teknologi
+13187,"Governance, Risk, and Compliance"
+13192,Datastore
+13197,Membuat Animasi
+13202,Full Stack Developer
+13207,Adobe Flash
+13212,Visual Studio Code
+13217,pun
+13222,Photon
+13227,Quantum
+13232,Electrical Wiring
+13237,Electrical Design
+13242,Electrical Installation
+13247,Electrical Analyst
+13252,Electrical Protection
+13257,Frontend Skill Set
+13262,Data Visualisasi
+13267,Katalon
+13277,Dan Unity
+13282,OpenGL
+13287,Yii Framework
+13292,Web Application
+13297,Editing Object
+13302,Web Development
+13307,Desain Interior
+13312,Desain Sistem Informasi
+13317,Pengujian Sistem Informasi
+13327,Kivy
+13332,ASP.NET
+13337,MVC .NET
+13347,Business
+13352,Community
+13357,Logic
+13362,Network Analyst
+13367,Data Storytelling
+13372,Streamlit
+13377,Website Monolithic
+13382,Statistical Software
+13387,PostgreSQL
+13392,jQuery
+13397,Vue
+13402,React
+13407,Web Testing
+13412,SIEM
+13417,Threat Intelligence
+13422,Unity Programmer
+13427,Machine Learning
+13432,Creative
+13437,Analytics
+13442,Basic Design Photoshop
+13447,Basic Design Canva
+13452,Masih Pemula
+13457,Sketching
+13462,A/B Testing
+13467,Secure Computer
+13472,Bahasa Inggris
+13477,Developer Android
+13482,Work Ethics
+13487,Basic Design
+13492,Socmed Associate
+13497,Bahasa Java Dasar
+13502,Bahasa Python Dasar
+13507,gRPC
+13512,Pub/Sub
+13517,Desain Web (Figma)
+13532,Manajemen Tim
+13537,Entry Level Programming
+13542,Java
+13552,R Stat
+13567,Usability Testing
+13572,Mengedit Foto
+13577,Mengedit Video
+13582,saya-mudah-mengingat
+13587,pengadministrasian
+13592,Pneumatic
+13597,Java Visualisasi Data
+13602,SQL Machine Learning
+13607,Perpajakan
+13612,PHP Native
+13617,Operating System
+13622,Sublime Text
+13632,berfikir-kritis
+13637,Basic Laravel
+13642,Basic C# Unity
+13647,Gambar Teknik
+13652,API Basic
+13657,Vue Basic
+13662,Emulator
+13667,edit-foto-dasar-
+13672,Basic Video Editing
+13677,Basic Graphic Design
+13682,Time Management
+13687,Basic Video Editing
+13692,HTML and CSS
+13697,Bootstrap5
+13702,VIPER
+13707,MVVM-C
+13712,Continuous Integration
+13717,Modularization
+13722,CoreData
+13727,Realm
+13732,CocoaPods
+13737,AutoLayout
+13742,Unit Testing
+13747,NestJS
+13752,UI Design
+13757,Scrapy
+13762,Object Relational Mapping
+13777,Python Requests
+13782,Urllib
+13787,BeautifulSoup
+13792,Japanese
+13797,Modeling 3D Animation
+13802,Linux Administration
+13807,Security Admin
+13812,Linux Basic
+13817,Cloud
+13822,Teknologi Cloud
+13827,Elektronika Dasar
+13832,Basic CCNA
+13837,Linux Developer
+13842,Linux Programming
+13847,Operation System
+13852,Mathematics
+13857,Energy Management
+13862,Flowchart
+13873,Mobile Development
+13878,tkinter
+13883,RESTful API
+13888,OpenOffice
+13893,Hardware
+13898,Windows Installation
+13903,Vue3
+13908,Network Infrastructure
+13913,cPanel
+13918,Responsible
+13923,Alpine.js
+13928,Design Graphic
+13943,ASAS
+13948,Struktur Data
+13953,Basis Data
+13958,Penetration Tester
+13963,Pemograman Web
+13968,Pembelajaran
+13973,asdasda
+13978,Preprocessing
+13983,xmpp
+13988,Slim PHP
+13993,Pemrograman OOP
+13998,Penetration Testing
+14003,Laravel Backend
+14008,Front End Web
+14013,Business Plan
+14018,Artificial Intelligence
+14023,Writing dan Editing
+14028,Penerjemahan
+14033,Web Deployment
+14038,Network Protocol
+14043,UI/UX Design
+14048,DevCPP
+14053,C
+14058,MySQL
+14063,Neural Network
+14068,Marketing
+14073,Basic Android
+14078,Flutter and Dart Development
+14083,RabbitMQ
+14088,Whimsical
+14093,Testing
+14098,Basic JavaScript
+14103,Web Backend
+14108,HTML
+14113,Website Design
+14118,C Language
+14123,Kotlin Fundamental
+14128,Java Fundamental
+14133,Javascript Fundament
+14138,Flutter Dasar
+14143,Miro
+14148,Kepemimpinan
+14153,-kerja-tim
+14158,BootStrap
+14163,Information Architecture
+14168,Prototype
+14173,Software Requirement
+14178,Pemrograman Java
+14208,Business Canvass
+14213,System Simulation
+14218,Storyboard
+14223,Data Analys
+14228,System Analys
+14238,Bahasa Pemrograman P
+14243,Dapodik
+14248,Aplikasi Kemendikbud
+14253,Delphi 7
+14258,Dasar Android
+14263,Jinja
+14268,Arab
+14273,EViews 10
+14278,VB.NET
+14283,Navision 2005
+14291,PowerPoint
+14294,Dasar-dasar HTML
+14299,Dasar-dasar CSS
+14304,Dasar-dasar Java
+14309,Dasar PHP
+14319,HTML CSS
+14329,Fundamental Python
+14334,Fundamental Javascript
+14339,Healthcare
+14344,Project Management
+14349,medibang
+14354,Editing
+14359,Bahasa Dasar Pemrograman
+14370,Konseling
+14373,Foto Editing
+14378,Node.js
+14383,Vue.js
+14388,Frappe
+14393,Hardware Maintenance
+14398,Aerial Photography
+14403,UX UI Design
+14408,MySQL
+14413,Network Engineering
+14418,Flow Sistem
+14423,Pemprograman Web
+14438,Relational Object-Based Management System
+14443,Relational Database Management System
+14448,QlikView
+14453,GatsbyJS
+14458,Power
+14463,Gin
+14468,GORM
+14483,Software as a Service
+14488,Multi Platform App
+14493,Fast Learner
+14498,Redux Thunk
+14503,Flutter Development
+14508,Web Front End
+14513,ThreeJS
+14518,A-Frame
+14523,Public Relations
+14528,Database Engineering
+14533,Artificial Intelligence
+14538,Hapi.js
+14548,BasicJS
+14553,Graphic Designer
+14558,Cloud Engineer
+14563,Back End Developer
+14568,Program Designer
+14573,Apache Solr
+14578,Basic Golang
+14583,Linux Administrator
+14588,Docker for DevOps
+14593,Authentication with Ansible
+14598,Continuous Deployment
+14603,Monitoring
+14608,Mobile Android
+14613,QA Engineer
+14618,solving-error
+14623,UIKit
+14628,AVKit
+14633,Pemrograman Mikro
+14638,Instrumentasi PLC
+14643,Data Analytic
+14648,-software-engineerin
+14653,Enscape
+14658,Revit
+14663,InfraWorks
+14673,Unkan Canva
+14678,Web Devolope
+14683,Spring
+14688,Computer Engineering
+14693,Draft
+14698,Cloud Migration
+14703,Load Balance
+14708,.NET Framework
+14713,Graphic Design
+14718,Linguistic Enthusiast
+14723,OpenStack
+14728,Django REST Framework
+14733,Google Local Guide
+14738,Hyper-V
+14743,Golang Developer
+14748,Electronic Design
+14753,Basic Electrical
+14763,Design Planning
+14768,Cloud Computing
+14773,Mapping ArcGIS
+14778,Basic Computer Science
+14783,PWK Survey
+14788,Junior Networking
+14793,Junior Video Editor
+14798,Junior IT Support
+14803,Network Engineer
+14808,Data Modelling
+14813,Jetpack Compose
+14818,Magik
+14823,Flutter Basic
+14828,Scripting
+14833,Slicing to React
+14838,Slicing to Vue
+14843,Flutter Mobile
+14848,Laminas
+14853,Review
+14858,FLC
+14863,Machine Learning
+14868,Fullstack Website
+14873,UI UX Designer
+14878,Multiapps Platform
+14883,Basic SQL
+14888,Basic R Studio
+14893,Basic Network
+14898,Basic Programming
+14903,Supply Chain Collaboration
+14908,Reactjs
+14913,Docker Compose
+14918,Asynchronous
+14923,Synchronous
+14928,Express
+14933,Message
+14938,Broker
+14943,LogHast
+14948,Elastic
+14953,Firebird SQL
+14958,Devops Operation
+14963,Pandas
+14968,Matplotlib
+14988,Juggling
+14993,Spring Boot
+14998,Pemrograman Java Dan
+15003,Electron
+15008,Software Installation
+15013,ASP.NET
+15018,ASP MVC
+15023,Transact-SQL
+15028,Intervention Design
+15033,Agile Development
+15038,Safeguarding
+15043,Tailwind CSS
+15058,Pembuatan Data Base
+15063,BigQuery
+15068,Product Analyst
+15073,Hugo
+15078,ExtJS
+15083,SvelteKit
+15088,UI/UX Figma
+15093,Javascript Dasar
+15098,Browsing
+15103,Programming
+15108,React Application
+15113,Javascript Dom
+15118,Containerization
+15123,OpenShift
+15128,Cdeignither
+15133,Serverless Computing
+15138,Dekstopsupport
+15143,Ethical Hacker
+15153,Computer Networks
+15158,Linux Bash
+15163,Oracle SQL
+15168,postcss
+15173,vim
+15178,SAPUI
+15183,Front End Developer
+15188,UI UX Desain
+15193,Bootstrap 5
+15198,Game Developing
+15203,Database RDBMS
+15208,.NET Core
+15213,Penetration Testing
+15218,Open-Source Intelligence
+15223,Express
+15233,Service Repository Pattern
+15238,GitHub CI/CD
+15248,Swagger
+15253,Bahasa Inggris Pasif
+15258,Bahasa Jepang Dasar
+15263,Videografi
+15268,Illustrasi
+15273,Copywriting
+15278,Scientific Programmi
+15283,Web Developer
+15288,Laravel
+15293,Kubernetes
+15298,Icinga2
+15303,Visualisasi Data Das
+15308,LESS
+15313,IT Troubleshooting
+15318,Backend Development
+15323,Community Developmen
+15328,Graphic Design
+15333,C Programming
+15338,Frontend Backend Web
+15343,Mobile Developer
+15348,Video Animation
+15353,Mailgun
+15355,pilotdrone
+15360,Adobe Flash CS6
+15365,PHP HTML JavaScript
+15370,Python HTML CSS
+15375,Godot Engine
+15380,Membuat Website Dasar
+15385,BigQuery
+15390,Office Administrator
+15395,Design
+15400,Virtualization
+15405,Computer Networking
+15415,ini
+15425,getx
+15430,Machine Learning
+15435,Figma
+15440,Web Development
+15445,Android
+15450,Bash Scripting
+15455,Product Designer
+15460,Fundamental Frontend
+15465,Google Cloud Engineer
+15475,Embedded C
+15480,Edukator
+15485,Explorer
+15490,mudah-beradaptasi
+15495,Synthesizer
+15500,Strategist
+15505,Web Developer
+15510,Provider
+15515,Frontend Developer
+15520,Backend Developer
+15525,dagang-administrasi-
+15530,Design
+15535,Flutter Firebase iOS
+15540,UI Engineer
+15545,Course
+15550,Lesson Plan
+15555,Curriculum
+15560,Katalon Studio
+15570,Training
+15575,Data Science
+15585,Interviewing
+15590,Low Code Platform
+15595,Basic Skill
+15600,HTML/CSS
+15605,Analisis Data
+15610,Mocha
+15615,Chai
+15620,komputer-sciene
+15625,Web Developer
+15630,Azure Cloud Platform
+15635,Linux OS
+15640,CRUD Laravel Dasar
+15645,Android Studio Dasar
+15650,Kotlin Multiplatform
+15655,Kotlin Multiplatform Mobile
+15660,English Presentation
+15665,Pivot Table
+15670,Pixellab
+15675,JavaScript
+15680,Google Search Console
+15685,SwiftUI
+15690,JavaScript Typescript
+15695,Java Dasar
+15700,Mobile Apps
+15705,3D Design Modelling
+15710,Data Management
+15715,-coding
+15720,Support Engineer
+15725,Blogger
+15730,Alibaba
+15735,Capcut
+15740,System Admin
+15745,Computer Network
+15750,Basic Programming
+15755,negosiasi
+15760,Microsoft Dynamic365
+15765,presentasi
+15770,Pengembangan Produk
+15775,Penjualan
+15780,Postgree
+15785,Data Center
+15790,helpdesk
+15795,Dart
+15800,Flutter Beginner
+15805,Financial Controller
+15810,Jaringan Nirkabel
+15815,Supporting Software
+15820,Provide Occasional H
+15825,Analytical Thinking
+15830,Oracle Databases
+15835,Logical Thinking
+15840,Listrik
+15845,Perangkatkeras
+15850,Mediasosial
+15855,Nocode
+15860,Bootstrap 3
+15865,Adobe Premierpro
+15870,Microsoft Excell
+15875,Printer Engineer
+15880,Electrical Engineer
+15885,Warehouse Admin
+15890,Bisnis Proses
+15895,Sistem Analis
+15900,Sistem Informasi
+15915,MS Office Advanced
+15920,Cultural Diversity
+15925,kalkulator
+15930,skil-dasar-sistem-in
+15935,Google Workspace
+15940,R Programming
+15945,os-linux-ubuntu
+15950,IT Enterprise
+15955,IT Development
+15960,Industrial Analysis
+15965,Basic Mikrotik
+15970,Email
+15975,Visio
+15980,UI/UX Designer
+15985,Sistem Informasi
+15990,Data Mining
+15995,Pajak
+16000,Supply Chain
+16005,Front End Developer
+16010,Payment Gateway
+16015,Adobe Photoshop
+16020,Google Cloud Platform
+16025,Organizational Skill
+16030,Komputer Jaringan
+16035,Canva
+16040,Graphic Designing
+16045,Affinity
+16050,Photo Editing
+16055,PHP
+16060,CSS Layouting
+16065,Front End Dan Back End
+16070,Backend PHP Native
+16075,Backend Laravel
+16080,IT Support
+16085,Objective-C
+16090,English
+16100,Adobe Family
+16105,English Middle
+16110,Instagram Ads
+16115,Facebook Ads
+16120,mysql2
+16125,pm2
+16130,JavaScript
+16135,Desain Garafis
+16145,Basic Automation
+16150,Procurement
+16155,Mechatronics
+16160,Contract
+16165,MYOB Accounting
+16170,Accurate Accounting
+16175,Administrator Server
+16180,FoxPro 9
+16185,Qt
+16190,Power Point
+16195,Digital Painting
+16200,OOP Dasar
+16205,Design Thinking
+16210,Basic HTML CSS Javascript
+16215,Git
+16220,Linux System Admin
+16225,Virtual Machines
+16230,Inggris
+16235,Intermediate Ms Exce
+16240,Audio Editing
+16245,Video Editing Dasar
+16250,UIUX Mobile Design
+16255,UIUX Web Design
+16260,Database MySQL
+16265,Capacitor
+16270,Codenighter
+16275,pdo
+16280,Analisis Sosmed
+16285,Content Copywriter
+16290,Maple
+16295,Internet Of Things
+16300,Mobile Design
+16305,cli
+16310,Instumentasi
+16315,Monitoring System
+16320,Air Monitoring
+16325,bahasa-indonesia
+16330,Teknisi Hardware
+16335,Server Manajemen
+16340,Database Administrator
+16345,Web Design
+16350,Trunk Based Workflow
+16355,Social Media Plan
+16360,PostGrid
+16365,mebuat-class-program
+16370,Web3
+16375,Web3.js
+16380,Ethereum
+16385,Condigneter
+16390,Network
+16395,install-os-windows
+16400,Google Apps
+16405,Redux Toolkit
+16410,Back End Development
+16415,DevOps Engineer
+16420,Frontend Dasar
+16425,Backend Dasar
+16430,DevOps Dasar
+16435,Elasticsearch
+16440,System Operation
+16445,Network Administration
+16450,aerial-manuring
+16455,Aviation
+16460,Photografer
+16465,Desainer
+16470,Komputer Dasar
+16475,Device Configuration
+16480,FrontEnd Developer
+16485,Corotin
+16490,Fusion360
+16500,Native
+16505,Cloud
+16510,FrontEnd Mobile
+16515,Transact-SQL
+16520,WebRTC
+16525,Python
+16535,training-data
+16570,Florist
+16575,Machine Learning
+16580,Ubuntu Server
+16595,Designer
+16600,CodeIgniter 4
+16605,Elixir
+16610,ReactJS
+16615,MongoDB
+16620,Data Engineering
+16625,Video Editing
+16630,Computer Management
+16635,React JavaScript
+16645,Google Sites
+16650,IT Support Specialist
+16655,Kotlin Android
+16660,Flutter Developer
+16665,NoSQL
+16670,Android
+16675,CodeIgniter
+16680,Solidity
+16685,Aplikasi Perkantoran
+16690,MATLAB Programming
+16695,FreePBX
+16700,Android Design
+16705,Digital Forensik
+16710,gRPC
+16715,Graphic Designer
+16720,Objective-C
+16725,vMix
+16730,Basic HTML CSS JavaScript
+16735,FastAPI
+16740,Design Graphics
+16745,Design UI
+16750,Basic Website
+16755,Desain UIUX
+16760,Management Business
+16765,Presentation
+16770,Network Develop
+16775,Dasar Dasar Jarngan
+16780,Pemograman Dasar
+16785,Unreal Engine
+16795,Logodesigner
+16800,Remix
+16805,Mengolah Data
+16810,Function
+16815,IT System
+16820,Web Development Fullstack
+16825,Multiplatform Flutter
+16830,Sass
+16835,Pemrograman Arduino
+16840,MLOps
+16845,TestNG
+16850,PostgreSQL
+16855,Virtualisasi
+16860,Backend Engineering
+16865,Nuxtjs
+16870,Digital Forensics
+16875,Reverse Engineering
+16880,Database
+16885,Go Language
+16890,Material UI
+16895,Tailwinds
+16900,Data Analyst
+16910,Google Analytics
+16915,Manajemen Network
+16920,Native Web Developer
+16925,VILT Stack
+16930,Dasar Web
+16935,Sql Dasar
+16940,Manajemen Industri
+16945,Functional
+16950,Android Architecture Component
+16955,yolo
+16960,Front End Developer
+16965,Animasis
+16970,Systemadmin
+16975,Strapi
+16980,Web Basic
+16985,UIUX Designer
+16990,Css Dasar
+16995,Javascript Dasar
+17000,PHP Dasar
+17005,NVIDIA Jetson Nano
+17010,Web PHP
+17015,Android Mobile Development
+17020,Data Visualisasi
+17025,Bash Script
+17030,Oracle Form
+17035,Oracle Report
+17040,Machine Learning
+17045,Dasar Dasar Linux
+17050,Mikrotik Dasar
+17055,Cloud Computing
+17070,UX Researcher
+17075,Usability Testing
+17080,Hardware Programming
+17085,C Programming
+17090,Basic Networking
+17095,Pemrograman Python
+17100,Program Dasar
+17105,Microsoft Dynamics GP
+17110,artha-for-retail
+17115,Decision Support
+17120,Digital Artist
+17125,Mechanical Engineering
+17130,Electric
+17135,Design Engineering
+17140,Mechatronic
+17145,Networking Mikrotik
+17150,Packet Tracer
+17160,Basic React.js
+17165,Scratch
+17170,Otomotif
+17175,HTML CSS JavaScript PHP
+17180,XAMPP Laragon
+17185,Teknik Mesin
+17190,Pemeliharaan Pabrik
+17200,Edit Video Komputer
+17205,Microsift
+17210,Dasar Pemrograman
+17215,IT Governance Dan Ja
+17220,Dasar Dasar Desain W
+17225,it-support-networkin
+17230,framework-and-librar
+17235,Front End
+17240,Back End
+17245,Mikrotik
+17250,Frontend Web Development
+17255,HTML Basic
+17260,CSS Basic
+17265,SQL Basic
+17270,Tableau
+17275,Simulation
+17280,Data Processing
+17285,Forecasting
+17290,Dasar Pemograman
+17295,PLC Programmer
+17300,Automation Engineer
+17305,HMI Designer
+17310,Penetration Tester
+17315,Design Engineering
+17320,Electronic Engineering
+17325,Mobile Development
+17330,Front End Web Development
+17340,Graphic Design
+17345,Basic Programming
+17350,Basic Networking
+17355,SQL Server
+17360,Lens AR
+17365,Web Application Security
+17370,Web Server
+17375,Arduino IoT
+17380,Fundamental Html Css
+17385,Information Tech
+17390,Information System
+17395,Fundamental Uiux
+17405,Uiux Enthusiast
+17410,Grafana
+17415,ec2
+17420,aws lambda
+17425,aws iam
+17430,aws cloud s3
+17435,Problem Solving
+17440,Critical Thinking
+17450,Dasar Linux
+17455,Dasar Web
+17460,Fullstack Developmen
+17465,Wordpress
+17470,Elementor Pro
+17480,TikTokShop
+17485,TikTokAds
+17490,Story Telling
+17495,Cryptography
+17500,IT Hardware
+17505,Network Engineer
+17510,IT Infrastructure
+17515,Metaverse Engineering
+17520,Cloud Computing
+17525,Bahasa Arab
+17530,Mobile App
+17535,Develop
+17540,Web Security
+17545,Penetration Testing
+17550,Digital Advertiser
+17555,Social Media Strategy
+17560,Linux Fundamentals
+17565,DevSecOps
+17570,File Transfer Protocol
+17575,Secure Shell
+17580,UI Design
+17585,Front End
+17590,Troubleshooting Soft
+17595,Troubleshooting Hard
+17610,Data Research
+17615,Database Management
+17620,Statistical Analysis
+17625,CAD Design
+17630,Visio Design
+17635,Image Editing
+17640,Poster Design
+17645,Sentiment Analysis
+17650,VBA Excel
+17655,Type
+17660,Search
+17665,Cucumber
+17670,Luau
+17675,Telecommunication
+17680,Quarkus
+17685,Lucidchart
+17690,Jr Data Analyst
+17695,Joomla
+17700,Menyusun Data
+17705,Membuat Aplikasi
+17710,Merancang Perogram
+17720,Mobile Programming
+17725,Network Engineering
+17730,Andoid Studio
+17735,NAS
+17740,Basic Sysadmin
+17745,Web Development Vue
+17750,Fiber To The Home
+17755,Fortinet
+17760,Software Defined Wide Area Network
+17765,Tunnel
+17770,Basic Cyber Security
+17775,Statistical Analyst
+17780,Spatial Analyst
+17785,Back End
+17790,IT Networking
+17795,IT Engineering
+17800,ngoding
+17805,ngedit
+17810,Design Prototype
+17815,Software Tester
+17820,Song Creator
+17825,Poem Writer
+17830,Event Creator
+17835,Data Analyst
+17840,Data Analyst
+17845,Web Development
+17850,Excel Formula
+17855,AppSheet
+17860,Server Management
+17865,Operating System
+17870,Basic UI/UX Design
+17875,Basic MySQL Database
+17880,Belum Punya Keahlian
+17885,3D Modelling
+17890,Java
+17895,Digital Forensic
+17900,Beginner Webdev
+17905,full-stack
+17910,Analis Sistem
+17915,Web Tester
+17920,Kotlin
+17925,Android
+17930,SQL
+17935,MongoDB
+17940,Network Administrator
+17945,Noob Programming
+17950,Network Computer
+17955,ht
+17960,htm
+17965,Design System
+17970,memiliki-kemampuan-u
+17975,tuk-berusaha-dengan-
+17980,Hackintosh
+17985,C++
+17990,CyberPanel
+17995,tidak
+18000,ada
+18005,pyt
+18010,Dasar Nodejs
+18015,Bootstrap
+18020,belum-mempunyai-skil
+18025,input-data
+18030,Frontend Dev
+18035,Sysadmin Linux
+18040,Db Administrator
+18045,Architect Gcp
+18050,Gcp Engineering
+18055,memahami-pemrograman
+18060,Dasar Tentang Html
+18065,UX Researcher
+18070,Wondershare Filmora F
+18075,Docker Swarm
+18080,Fiber Optic
+18085,Investigation
+18090,Legal Writing
+18095,Research Analysts
+18100,BMC
+18105,instalasi-sistem-win
+18110,Perakitan Komputer
+18115,Microsoft Word
+18120,Web Apps
+18125,Good Communication
+18130,Basic Editing
+18135,Basic Excel
+18140,Basicdesign
+18145,"HTML, CSS, Javascript"
+18150,Tailwind
+18155,ph
+18160,Front End Website
+18165,Android Kotlin
+18170,an
+18175,j
+18180,Design Skill
+18185,membuat-keputusan
+18190,Berpikir Kritis
+18195,Data Studio
+18200,Front End
+18205,Tidak Ada
+18210,Buat Web Dari Docker
+18215,VirtualBox
+18220,Product Design
+18225,Microsoft Word Micro
+18230,Microsoft Point Micr
+18235,Jupyter Notebook
+18240,Machine Learning
+18245,Logika Aritmatika
+18250,Logika Boolean
+18255,Logika Perbandingan
+18260,Business Sistem Anal
+18265,Backend Developer
+18270,NestJS
+18275,TCP/IP
+18280,Web App
+18285,Django Framework
+18290,Flutter Framework
+18295,Visualization
+18300,Cloud Developer
+18305,Kotlin Coroutines
+18310,komunikasi-membaca-b
+18315,Kotlin
+18320,Design Principle
+18325,and'
+18330,SolidJS
+18335,Monitoring Jaringan
+18340,Laravel
+18345,engineer-on-site
+18350,Logo Desain
+18355,Project Manager
+18360,membaca-dokumentasi
+18365,Googling
+18370,Looker Studio
+18375,Test Automation
+18380,Python
+18385,Basic Of Cloud
+18390,Basic Programmer
+18395,Android XML
+18400,Backend Web Development
+18405,MySQL
+18410,Deployment
+18415,Google Cloud Platform
+18419,pawn-lang
+18424,Fundamental Programm
+18433,Menganalisis Data
+18438,-mengulik-informasi
+18443,Artificial Intel
+18448,CyberArk
+18453,Storytelling
+18458,System Integration Testing
+18463,User Acceptance Testing
+18468,Desain 3D
+18473,Visual Design
+18478,Fullstack Web
+18483,belum
+18488,Container
+18493,Mathematics
+18498,Website
+18503,Microsoft Word
+18508,Microsoft Power Point
+18513,t
+18518,Svalte
+18523,Java
+18528,Network Engineering
+18533,Pemerograman Web
+18538,Backend Programming
+18543,Cpp Procedural
+18548,Cpp Oop
+18553,Baru Belajar Html
+18558,Pengolahan Data
+18563,Data Visualization
+18568,Design Graphic
+18573,UiPath
+18578,Figma
+18583,Free Pascal
+18588,PHP JavaScript
+18593,Android
+18598,CodeIgniter 3
+18603,Power Automate
+18608,Nintex
+18613,UI/UX
+18618,Frontend
+18623,soldering-iron
+18628,lara
+18633,Software Engineer
+18638,Software QA
+18643,-graphic-design-and-
+18648,Data Mining
+18653,Google Colab
+18658,Microcontroller Programming
+18663,Cybersecurity Foundations
+18668,Technician
+18673,Regression Testing
+18678,Smoke Testing
+18683,Sanity Testing
+18688,Beginner React
+18693,Beginner Javascript
+18698,Tallwind
+18703,Appscript
+18708,Data Scientist
+18713,Javacript
+18718,Marketing
+18723,Backend Devops Webdev
+18728,Vitejs
+18733,Penetration Testing
+18738,H
+18743,visualisasi
+18748,Taxation
+18753,Business Intelligence
+18758,Business Partnering
+18763,Artificial Intelligence Programming
+18768,la
+18773,Data Analytics
+18778,p
+18783,Spreadsheets
+18788,Mengoperasi Komputer
+18793,Data Structure
+18798,Data Exploration
+18803,VueJS
+18808,SQL Operation
+18813,Supervised Learning
+18818,Unsupervised Learning
+18823,Backend Development
+18828,skill-yang-dikuasai-
+18833,Business Strategy
+18838,IT Strategy
+18843,Digital Transformation
+18848,PC Troubleshooting
+18853,Domain
+18858,"Extract, Transform, Load Process"
+18863,Load Balance
+18868,Reverse Proxy
+18873,C#/.NET
+18878,Backend Golang
+18883,Javascript
+18888,Administrator System
+18893,Redundant Carrier Network Architectures
+18898,Network Security Engineer
+18903,Photography
+18908,Frontend Web Developer
+18913,Backend Web Developer
+18918,Design
+18923,Developer
+18928,Data Warling
+18933,Data Science
+18938,Kodular
+18943,front
+18948,end
+18953,Physics
+18958,Video Editing
+18963,DaVinci Resolve
+18968,Communication
+18973,Web Development
+18978,Frontend Web Developer
+18983,Planning
+18988,JASP
+18993,Controllino
+18998,ATmega2560
+19003,ESP32
+19008,ATmega328P
+19013,System Administration
+19018,Data Cluster Analysis
+19023,Data Analysis
+19028,Religious Technology
+19033,Machine Learning
+19038,Java
+19043,HVAC Technician
+19048,Microsoft Word
+19053,SEO Marketing
+19058,Social Media Special
+19063,Marketing Komunikasi
+19068,JavaScript
+19073,Web Component
+19078,Graphic
+19083,Data Visualisation
+19088,JavaScript
+19093,Menganalisa Teknologi
+19098,Web Development
+19103,mencobahalbaru
+19108,Linux Command
+19113,belum-ada
+19118,Full Stack Web
+19123,Data Engineer
+19128,DevSecOps
+19133,Videography
+19138,Back End
+19143,Detail Oriented
+19148,a
+19153,Basic JavaScript
+19158,IBM SPSS
+19163,Back End Development
+19168,access
+19173,Visual Code
+19178,Natural Language Processing
+19183,TypeScript
+19188,Digital Business
+19193,Programming
+19198,Leadership
+19203,Computer Engineering
+19208,Web Management
+19213,Data Entry
+19218,Webflow
+19223,Javascript
+19228,Laravel 9
+19233,Java Springboot
+19238,Cloud Computing GCP
+19243,Jira Software
+19248,test-planning
+19253,test-scenario
+19258,Software Programming
+19263,Mobile Testing
+19268,Security Analyst
+19273,Dasar Html Css
+19278,Video Animasi
+19283,Drivetest
+19288,Radiofrequency
+19293,"HTML, CSS, Bootstrap"
+19298,Turbo Pascal
+19303,Continuous Integration and Continuous Deployment
+19308,DevOps
+19313,Microsoft Office
+19318,Data Cleaning
+19323,Bootstrap
+19328,Router
+19333,Basic Python
+19338,Data Science
+19343,Convolutional Neural Network
+19348,Object Detection
+19353,Android Programming
+19358,Ko
+19363,Analisis Logcat
+19368,Perbaikan Pc
+19373,Perbaikan Laptop
+19378,Computer Vision
+19383,Design Circuit
+19388,Desainer
+19393,Web Development
+19398,Data Visualization
+19403,dll
+19408,Data Science Dasar
+19413,Biologi
+19418,menglas-baja
+19423,membuat-pipa-stainle
+19428,Burp Suite
+19433,Insecure Direct Object References
+19438,Back End Js
+19443,It Support Specialis
+19448,Grapich Designer
+19453,Looker
+19458,Internet Of Thing
+19463,Brainstorming
+19468,Designthinking
+19473,Javascript Pemula
+19478,Ms Acces
+19483,l
+19488,Graph Analytic
+19493,Database Engineer
+19498,Legal
+19503,Analyze
+19508,Datawarehouse
+19513,Basic Uiux
+19518,Alpinejs
+19523,Maintenance Infrastr
+19528,Trobleshooting Infra
+19533,Design With Canva
+19538,JavaScript Python
+19543,Development App Andro
+19548,Junior Graphic Design
+19553,Junior 3D Modeling
+19558,Junior 3D Animation
+19563,Junior Video Editing
+19568,Basic HTML Dan CSS
+19573,Python Data Analysis
+19578,Front Back End Development
+19583,Data Science
+19588,Linux Scripting
+19593,dasar
+19598,Reparasi Komputer
+19603,Simple Disegn
+19608,Dasar Pemograman Web
+19613,Dasar Cybersecurity
+19618,Pemrograman Database
+19623,Kelas Beginner Semua
+19628,Webprograming
+19633,Mesin Lerning
+19638,Kecerdasan Buatan
+19643,Machine Learning
+19648,Control Instrument
+19653,"Python, Java, C, Kotlin"
+19658,rajin
+19663,rasa-ingin-tau
+19668,berkolaborasi
+19673,Management Data
+19678,Adaptasi
+19683,Data Storytelling
+19688,Predictive Modelling
+19693,UI UX Research Design
+19698,Pandas Microsoft
+19703,Numpy Public Speaking
+19708,Mobile Programmer
+19713,Forensika Digital
+19718,Digital Evidence
+19723,Chartjs
+19728,PostgreSQL
+19733,Adobe Illustrator
+19738,Vanilla JS
+19743,Design UI
+19748,Public Speaking
+19753,Data Science
+19758,Game Development 2D
+19763,React Native
+19768,Bahasa Pemrograman
+19773,Dasar OOP Python
+19778,Exsel
+19783,IP Configuration
+19788,DHCP
+19793,Prolog
+19798,Back End Basic
+19803,System Network
+19808,Network Linux Window
+19809,Frontend Development
+19813,Algoritma Mesin
+19818,Mobile Development
+19823,Bootstrap CSS
+19828,Web Back End
+19833,Analytical
+19838,Strategic Planning
+19843,Creative Thinking
+19848,Flutter
+19853,Microsoft Office
+19858,Vector
+19863,Website Programming
+19868,Software Developer
+19873,Machine Learning
+19878,Laravel Livewire
+19883,Orange
+19888,Python Django
+19893,Kotlin Android Studio
+19898,Analytical Skill
+19903,Dasar Dasar Programi
+19908,Google Sheets
+19913,Front End Developmen
+19918,Python Language
+19923,Javascript Languange
+19928,SwiftUI
+19933,Bahasa Inggris
+19938,UI/UX Designing
+19943,Web Design Developer
+19948,Data Analysis
+19953,Data Visualization
+19958,Explore Data
+19963,Dan Sebagainya
+19968,Responsive
+19973,HTML CSS JS Tailwind
+19978,Interfacing
+19983,Desain Graphis
+19988,Newbie
+19993,AS3 Adobe Animate
+19998,Human Management
+20003,Geographic Informati
+20008,Machine Intelligence
+20013,Grafana Dashboard
+20018,Laravel Framework
+20023,Dasar Dasar Jaringan
+20028,bisa-memakay-kompute
+20033,Javascript ES6
+20038,Web Front And Back E
+20043,developer-games-and-
+20048,Informatika
+20053,google-work-app
+20058,Laravel
+20063,Tailwind
+20068,Dasar Pemrogrman
+20073,Algoritma Dasar
+20078,Visualisasi Dat
+20083,Fiancial Management
+20088,Prototyping
+20093,Fullstack Development
+20098,Looker Studio
+20103,Mengelola Web
+20108,Editor Video
+20113,HTML
+20118,Excel
+20123,nsq
+20128,belum-menguasai-semu
+20133,karena-saya-seorang-
+20138,Python
+20143,Bahasa Pemrograman R
+20148,GUI
+20153,Python Programming
+20158,Algoritma Java
+20163,Algoritma Python
+20168,Algoritma C
+20173,Amazon Web Services
+20178,Network Engineer
+20183,SEO Writer
+20188,Coding Basic
+20193,Bahasa Pemrograman
+20198,Flutter Android
+20203,Desainer UIUX
+20208,mulai-belajar-sedikit-sedikit-tentang-digital
+20213,Analis
+20218,Dokumentasi
+20223,Teamowrk
+20228,Komputer Laptop
+20231,Micosoft
+20233,Frontend Web
+20238,Product Mangement
+20243,Authentication
+20248,Next.js
+20253,Graphic Design
+20258,Video Analytics
+20263,Smart Monitoring
+20268,Cobalt
+20273,Programming Language C
+20278,Programming Language Go
+20283,Simple Desain
+20288,Prisma
+20293,test-plan
+20298,Respulapi
+20303,Dasar Networking
+20308,Bootstrap Studio
+20313,Visualization Data
+20318,IT Programmer
+20323,Instalasi
+20328,Perancangan Jaringan
+20333,MySQL
+20338,marketplace-admin
+20343,enginering
+20348,Payload
+20353,Gatsby
+20360,SQL
+20365,Type Writing
+20370,Mobile Development
+20375,Data Preparation
+20380,Data Signalling
+20385,Modelling Data
+20390,Database Maganement
+20395,Management Operation
+20400,Cisco Certified Network Professional
+20405,Mikrotik Certified Routing Engineer
+20410,Beanstalk
+20415,Alibaba Cloud
+20420,Python
+20425,Optimization
+20427,PHP Basic
+20432,Elementor
+20437,Front End Development
+20442,Spring Boot MVC
+20447,belom-ada
+20452,Seaborn
+20457,belumadayangdikuasai
+20462,Dasar Database
+20467,Mikrotik Settings
+20472,Teknis Hardware PC
+20477,Operation Data
+20482,Detailed
+20487,organizing
+20492,solve-software
+20497,Spreadsheet
+20502,berbaha-inggris-yang
+20507,ms-d365ce
+20512,Dasar Webprogramming
+20517,Cloud Architect
+20522,Basic Frontend
+20527,AWS Cloud Computing
+20532,AWS Cloud Dasar
+20537,y
+20542,Data Warehouse
+20547,SvelteJS
+20552,Maze
+20557,UI Desain
+20562,Microsoft Office
+20567,Data Sciences
+20572,Basic AWS
+20577,Dasar Jaringan
+20582,Sistem Operasi Linux
+20587,Industrial Programin
+20592,Teknis
+20597,Networking Monitorin
+20602,Manajemen Data
+20607,Olah Data
+20612,Business Development
+20617,UI and UX
+20622,UI Kit
+20627,Developer Wordpress
+20632,dan CSS
+20637,secara-tipis-tipis
+20642,Nodejs Python Ruby P
+20647,Bun
+20652,Backend Nodejs
+20657,pengetikan
+20662,aligt-motion
+20667,Human Resources
+20672,Payroll
+20677,Google Looker Studio
+20682,Pemrograman Dasar
+20687,Coroutines
+20692,Patient
+20697,Hard Worker
+20702,Meta Business Suite
+20707,Pemrograman Web Dasar
+20712,Analisis Bisnis
+20717,Big Data Platform
+20722,Laravel
+20727,Python Dasar
+20732,mengetik
+20737,TypeScript
+20742,Java Spring Boot
+20747,Keamanan Sistem
+20752,HTML Pemula
+20757,UI Illustrator
+20762,Network Administrator
+20767,Front End Mobile
+20772,Google Colab
+20777,YouTube
+20782,Recruitment
+20787,problem
+20792,solving
+20797,General Affair
+20802,Hukum
+20807,Basic Java Python C
+20812,Francais
+20817,Ui Web
+20822,Vpn
+20827,Fundamental Programi
+20832,kmz
+20837,Visualdesigner
+20842,VLAN Management
+20847,STP Management
+20852,Local Area Network
+20857,Modeling Statistics
+20862,astrojs
+20867,API Integration
+20872,Data Architecture
+20877,tester
+20882,Visual Basic
+20887,Spreadsheet
+20892,Tutor
+20897,takaza
+20902,Network Maintenance
+20911,Kotlin
+20913,Fullstack Developer
+20918,support
+20923,Network Designer
+20928,Front End Design
+20933,Visual Editor
+20938,Game
+20943,Web Developer Design
+20948,Data Scientist
+20953,Cybersecurity Analyst
+20958,Web Security Pentest
+20963,React Native
+20968,Advertiser
+20973,Sales
+20978,kemampuan-kill-yang-
+20983,Grafis
+20988,sedikit-mengenai-htm
+20993,JavaScript
+20998,Python Development
+21003,Expo
+21008,Tailwind Bootstrap
+21013,React Native Vue
+21018,Power BI
+21023,Web Engineer
+21028,helloworld
+21033,Bahasa
+21038,Compose Flutter Kotlin
+21043,MS SQL
+21048,Windowserver
+21053,Seaborn Matplotlib
+21058,Project Management
+21063,-komunikasi
+21068,Jamboard
+21073,Google Form
+21078,User Interface and Experience
+21083,Manajemen Waktu
+21088,Adaptabilitas
+21093,Kolaborasi
+21098,Bootstrap
+21103,Alight Motion
+21108,Product Design
+21113,Microsoft Word
+21118,Deep Learning
+21123,Command Prompt
+21128,JSON Server
+21133,Css Tailwind Acerten
+21138,Typescript Javascrip
+21143,Computer Operation
+21148,Pengembang Front End
+21153,Collab
+21158,coding-tipis-tipis
+21163,Cloud Computing
+21168,low-level
+21173,pengembangan-aplikas
+21178,Keamanan Aplikasi
+21183,pendengar-yang-baik
+21188,AI Prompting
+21193,Blockchain Developer
+21198,Sales And Marketing
+21203,ReactJS NextJS
+21208,Cyber Security
+21213,Telecommunication
+21218,3D Animator
+21223,Content Creator
+21228,Angular 9
+21233,sustainability
+21238,Nuxt.js
+21243,Network Desain Dasar
+21248,nihil
+21253,masih-belajar
+21258,Laravel
+21263,IBM Cloud
+21268,Fluter
+21273,editing-video-by-fil
+21278,ora
+21283,Capcut
+21288,Social Media Tools
+21293,design-grafis-sederh
+21298,andr
+21303,Instalasi Windows
+21308,belum-memiliki-skill
+21313,Graphics Designer
+21318,sistem-informasiakun
+21323,Web Develop
+21328,Art
+21333,Solve Problem
+21338,Basic Pemograman
+21343,Programming C
+21348,arm-kiel
+21353,stm-cubex
+21358,lustrasi
+21363,Design Grafis
+21368,Membuat Program Html
+21373,Optimization Telecom
+21378,Software Quality Assurance
+21383,Corporate Strategy
+21388,Manajemen Pendidikan
+21393,User Experience Design
+21398,Data Structures and Algorithms
+21403,Critical Thinking
+21408,sepuh-it
+21413,Mobile App
+21418,Dasar Css
+21423,Canva Desainer
+21428,Local Area Network
+21433,Hardware Komputer
+21438,CICD Jenkins
+21443,catur
+21448,Gamerzz
+21453,implementor
+21458,Excel Expert
+21463,Report Analysis
+21468,Web Development
+21473,Canva
+21478,Website Development
+21483,Layout Peta
+21488,Desain Poster
+21493,Office Excel
+21498,Office Powerpoint
+21503,bekerja-tim
+21508,bekerja-individu
+21513,perangkat-lunak-komp
+21518,ter
+21523,Pemrograman Komputer
+21528,Cloud Functions
+21533,Flutterflow
+21538,Cloud Management
+21543,Database Tingkat Dasar
+21548,Data Preparation
+21553,Cleaning Data
+21558,Modelling
+21563,Basic
+21568,Illustrator
+21573,Basic Cybersecurity
+21578,Web Development Front
+21583,Web Development
+21588,Alibaba Cloud
+21593,Ant Design
+21598,MS Office Basic
+21603,Vercel
+21608,Project Management
+21613,Research
+21618,Internet Of Things
+21623,--itilit-services-ma
+21628,-it-architecture-tog
+21633,Game Programming
+21638,SQL Server Integration Services
+21643,Technical Artist
+21648,Multiplatfom Developer
+21653,Web Development
+21658,Frontend Website
+21663,IT Infrastructure
+21668,onprem-computing
+21673,Jaringankomputer
+21678,Statistical
+21683,Document IT
+21688,Design Pattern
+21693,Deep Learning
+21698,Neural Network
+21703,Convolutional Neural
+21708,Data Analysis
+21713,Android
+21718,Nest
+21723,Cloud Computing
+21728,React Native
+21733,Web Administrator
+21738,IT Support Specialist
+21743,RxSwift
+21748,Analis Data
+21753,Game 2D
+21758,Game 3D
+21763,Data Cleansing
+21768,React Js Developer
+21773,Backend Js Developer
+21778,Spring Java
+21783,Spring Web
+21788,Mobile Development
+21793,Exploratory Data Analysis
+21798,Large Language Model
+21803,IT Infrastructures
+21808,Basic Web Programming
+21813,Vector Design
+21818,Hardware Engineer
+21823,Basic Computer
+21828,Pemrograman Dasar
+21833,UI dan UX Design
+21838,ReactJS ExpressJS
+21843,MongoDB HTML CSS
+21848,Steganografi
+21853,Steganalisis
+21858,Data Engineering
+21863,protobuf
+21868,Supabase
+21873,Belumada
+21878,Sedikit Mengenai Cyb
+21883,Front End Engineer
+21888,Android Engineer
+21893,Deops
+21898,Java Kotlin
+21903,Solution Architect
+21908,Solution Engineer
+21913,Cleaning Service
+21918,Customer Service
+21923,
+21928,Application Modernization
+21933,Business Model
+21938,Investment
+21943,System Design
+21948,Application Design
+21953,MIS Specialist
+21958,Project Management
+21963,Circular Economy
+21968,Waste Expert
+21973,Sustainability
+21978,Digital Innovation
+21983,Consulting
+21988,Manufacturing
+21993,Logistics
+21998,Geospatial Data
+22003,Softskill
+22008,Branding
+22013,business
+22018,team-player
+22023,Industry Knowledge
+22028,Cloud Architecture
+22033,Product Ideation
+22038,Predictive Analytics
+22043,Machine Learning System Design
+22048,Mobile App Development
+22053,Product Analytics
+22058,Growth Loop
+22063,Growth Hacking
+22068,Concept Development
+22073,Rapid Prototyping
+22078,Design Collaboration
+22083,Python API
+22088,Product Manager
+22093,Market Research
+22098,Stakeholder Management
+22103,Project Management
+22108,Oracle Cloud Infrastructure
+22113,Huawei Cloud
+22118,Large Language Model
+22123,Generative AI
+22128,Business Analysis
+22133,Prototyping
+22138,Ui Web Apps
+22143,Tech Startup
+22148,Team Development
+22153,Creativity
+22158,Generative AI
+22163,Design Principles
+22168,Layouting
+22173,Kube
+22178,Mobile Legends
+22183,nyuruh-orang
+22188,Project Management
+22193,Startup Ideation
+22198,Market Research
+22203,Ansible Automation
+22208,Monitoring Platform
+22213,Business Planning
+22218,Analyzing
+22223,Marketing Strategic
+22228,Business Strategic
+22233,Product Lifecycle Management
+22238,Business Management
+22243,Strategic Marketing
+22248,value-added-services
+22253,Alliance Management
+22258,pitching
+22263,Machine Learning in Android
+22268,Integration API
+22273,Data Governance
+22278,Feasibility Study
+22283,Infra Design
+22288,Google Play
+22293,Statistical Modelling
+22298,Ideation
+22303,commerce
+22308,Startup
+22313,Risk Management
+22318,Financial Analysis
+22323,Strategy
+22328,Business Ideation
+22333,Financial Management
+22338,Full Stack Development
+22343,Customer Retention
+22348,Project Manager
+22353,Customer Service
+22358,Conflict Resolution
+22363,Human Capital
+22368,Machine Learning
+22373,Image Detection
+22378,Agile Methodology
+22383,Corporate Culture
+22388,Business Innovation
+22393,Team Engagement
+22398,AI Engineer
+22403,Business Analysis
+22408,belun-ada
+22413,Jira
+22418,Model Serving
+22423,Machine Learning Engineer
+22428,Software Architecture
+22433,Product Evaluation
+22438,Scrum Master
+22443,Product Life Cycle
+22448,Computational Mathematics
+22453,User Journey
+22458,Information Design
+22463,gcc
+22468,Games
+22473,Image Recognition
+22478,general-swe
+22483,Multimedia Design
+22488,Fundamental AI
+22493,Optical Character Recognition
+22498,Service Delivery
+22503,Google Studio
+22508,Operations
+22513,Process Improvement
+22518,Google Suites
+22523,Ruby or Rails
+22528,Strategic Management
+22533,-negotiation
+22538,Decision Making
+22543,bisa-bikin-telor
+22548,Expert Systems
+22553,Knowledge Based Systems
+22558,Rule Based Systems
+22563,Generative AI
+22568,Product Strategy
+22573,Time Series
+22578,Anomaly Detection
+22583,Model Optimization
+22588,Recommendation System
+22593,Business Analytics
+22598,System Development
+22603,Data Analyst
+22608,Prompt AI
+22613,Conflict Resolution
+22618,Adaptability
+22623,Business To Consumer
+22628,Business To Business
+22633,Offline To Online
+22638,Retail
+22643,Human Computer Interaction
+22648,Mixed Reality
+22653,Edge Computing
+22658,Tech Support
+22663,Product Designer
+22668,Technopreneurship
+22673,Game Technology
+22678,Extended Reality
+22683,Programming Arduino
+22688,Project Development
+22693,Business Plan
+22698,Mentoring
+22703,Processing Data
+22708,Basic Motion Graphic
+22713,Flexbox
+22718,Basic Crypto Knowledge
+22723,Basic Blockchain
+22728,Marketing
+22733,Dasar Mysql
+22738,Monggodb
+22743,Product Owner
+22748,Product Manager
+22753,Product Ownership
+22758,Product Management
+22763,Business Analysis
+22768,Reactive Extensions
+22773,Project
+22778,Manajemen Bisnis
+22783,Partnership
+22788,Marketing Communication
+22793,Startup Development
+22798,Membuat Database
+22803,Text Processing
+22808,Bioinformatika
+22813,Fundamental And Prac
+22818,Recommender System
+22823,Product Marketing
+22828,Financial Management
+22833,overlife
+22838,Mathematica
+22843,Computer Architecture
+22848,Cloud Database
+22853,Cloud Security
+22858,Machine Learning
+22863,Technical Writer
+22868,GKE Fundamental
+22873,Project Tools
+22878,Red Hat OpenStack Platform Foundation
+22883,Solution Architecture
+22888,Network Troubleshooting
+22893,Negotiation
+22898,Market Expansion
+22903,Sales Strategies
+22908,Photoshop Dasar
+22913,Adobe Premiere Dasar
+22918,Capcut
+22923,Canva Dasar
+22928,Kripto
+22933,Beego Framework
+22938,arangodb
+22943,Machine Learning
+22948,People Development
+22953,Learning Development
+22958,Talent Management
+22963,Organizational Development
+22968,Design Graphic Canva
+22973,Data Science Python
+22978,Web Hosting
+22983,Network Developer
+22988,Logical Thinking
+22993,Game Development
+22998,komunikasi-dengan-ba
+23003,Business Model
+23008,Digital Design
+23013,Design
+23018,Programming Python
+23023,Manajemen Keuangan
+23028,Komputer Akuntansi
+23033,Web
+23038,Front End Web Develop
+23043,Cloud Compute
+23048,Web Design Prototype
+23053,Software Developmen
+23058,C
+23063,COBIT 2024
+23068,excel-dan-low-coddin
+23073,Pemrograman Dart
+23078,Business Data Analysis
+23083,Data Scientist
+23088,Frontend Pemula
+23093,Backend Pemula
+23098,Prisma ORM
+23103,Data Scientist
+23108,Software Integration
+23113,Software Development Life Cycle
+23118,Linux Desktop
+23123,Office Document
+23128,Software Engineer
+23133,Ads Performance
+23138,Website Building
+23143,publikasi
+23148,Excel Fundamental
+23153,Web Fundamental
+23158,Filament
+23163,Jaringan Telekomunikasi
+23168,MySQL
+23173,Fullstack Web Development
+23178,Intermediate SQL
+23183,Intermediate Oracle
+23188,Dasar Dasar Aws
+23193,Typescript
+23198,Accountancy
+23203,Forestry
+23208,Economics
+23213,Agriculture
+23218,Fundamental Cybersecurity
+23223,Fundamental Itsuppor
+23228,Android Development
+23233,SOLID Principle
+23238,Backend Frontend
+23243,MicroPython
+23248,Integration
+23253,etc
+23258,Bahasa Korea
+23263,Journalism
+23268,Script Writer
+23273,Performance Marketing
+23278,Dasar Artificial Intelligence
+23283,Java Script Kotlin
+23288,VisualBasic
+23293,menemukan-pola
+23298,Ads Creation
+23303,sheet
+23308,Bug Tracking
+23313,GitHub Management
+23318,Intermediate Python
+23323,Document Management
+23328,Administrative Writer
+23333,Python
+23338,Teknisi Komputer Pem
+23343,Pemograman Komputer
+23348,elearning-aplikasi--
+23353,Macromedia
+23358,Agroteknologi
+23363,perlindungan-tanaman
+23368,cellular
+23373,Human Capital Office
+23378,Tax Reporting
+23383,Human Resource
+23388,Fundamental Python
+23393,Next.js HTML CSS JS
+23398,Livewire
+23403,baru-tau-sedikit-ten
+23408,Laravelsedikit
+23413,Redux
+23418,Back End CodeIgniter
+23423,UI UX Website
+23428,Fundamental SQL
+23433,Desktop
+23438,Simple Mail Transfer Protocol
+23443,Rekayasa Perangkat Lunak
+23448,Annotation
+23453,Transcribe Audio
+23458,Emotional Voice Over
+23463,minecraft
+23468,-strach
+23473,roblox
+23478,IT Specialist
+23483,Problem Solving Analysis
+23488,Microsoft Excel
+23493,Systematic Thinking
+23498,Problem Solver
+23503,Microsoft Server
+23508,Menguasai Dibidang P
+23513,mograman-seperti-mat
+23518,ab
+23523,Maple Dan R Studio M
+23528,Eclipse
+23533,ilmu-matematika-dan-
+23538,Web Services
+23543,Human Machine Interface
+23548,English Tutor
+23553,React TS
+23558,Uiux Design Aplicati
+23563,Uiux Design
+23568,Autocad Mechanical
+23573,Bootstrap Node Js
+23578,menghitung-
+23583,Keterampilan
+23588,Microsoft Office
+23593,-fundraising-
+23598,Entrepreneurship
+23603,PostgreSQL
+23608,Machine Learning Engineering
+23613,UIUX Designer
+23618,Manajerial
+23623,perencanaan
+23628,Human Resource Development
+23633,Masih Belajar Mengen
+23638,Network Engineering
+23643,Data Annotator
+23648,Statistical Thinking
+23653,Devops
+23658,Visualisasi Data
+23663,Dataframe
+23668,prefect
+23677,IT Business Analyst
+23682,saya-pertama-kali-be
+23687,pembuatan-website
+23692,pemasaran-produk
+23697,pemprogramman
+23702,Advertising
+23707,Artificial
+23712,Intelligence
+23716,Economic
+23721,Applied Mathematics
+23726,Google
+23731,Google Workspace
+23736,Engineering Software
+23741,MATLAB
+23746,Backend Development
+23751,Sosial Media Marketing
+23756,Pivot Table
+23761,Dasar Front End
+23766,Basic Web Development
+23771,Desain Photoshop
+23776,Web Desaind
+23781,Frontend
+23786,Data Integration
+23788,Android Development
+23793,General
+23798,Mandiri
+23807,"HTML, CSS, jQuery, Java"
+23812,Javascript React
+23816,Networking Basic
+23818,PHP Procedural
+23823,Fullstack Developer
+23828,Translator
+23833,Tweak
+23838,System Architect
+23843,Dart
+23848,Game Designing
+23853,Web Dengan Laravel
+23858,Php Json Server Clie
+23863,Front End
+23868,Backend Laravel
+23873,Meta Ads
+23878,Landing Page
+23883,Web Development
+23888,Competitive Programming
+23893,Basic Ubuntu Linux
+23898,saya-belum-mempunyai
+23903,GitHub Actions
+23908,strategy-and-plannin
+23913,Marketing Technology
+23918,Plc Automation
+23923,konsep-bisnis
+23928,Kolaborasi Tim
+23932,Data Modeling
+23937,Orchestration
+23942,Grafis Design
+23947,Front End Design
+23952,Front End
+23957,Full Stack Developer
+23962,"HTML, CSS, Database, MySQL"
+23967,Cloud Technology
+23972,Progressive Web Apps
+23977,Web Performance
+23982,Enterprise Architecture
+23987,Enterprise
+23992,startup-valuation
+23997,Machine Learning Dev
+24002,API Development
+24007,Struktur Dasar HTML
+24012,Elemen Dasar
+24017,Form Dan Input
+24022,Tabel Dan List
+24027,Semantic Html
+24032,Media
+24037,Game Art
+24042,3D Creation
+24047,3D Art
+24052,Environment Design
+24057,Website Developers
+24062,Writing Editing
+24067,Bootstrap
+24071,Mobile Apps
+24076,Architecture
+24081,PostgreSQL MongoDB
+24082,Infrastructure as Code
+24087,Large Language Model Engineering
+24092,Ingin Belajar
+24097,Upgrade Skills
+24102,Cocos
+24107,membuat-web-tetapi-m
+24112,si-belajar
+24117,Odoo Developer
+24122,Pemprograman Go
+24127,Jaringan Data Mining
+24132,Installasi Software
+24137,Installasi Hardware
+24142,Salesforce
+24143,Vite React
+24146,Dan
+24149,Sosial
+24152,Kreator
+24155,Growth Analytics
+24158,hono
+24161,Application Security
+24164,Back End Javascript
+24167,React Developer
+24170,Yoga
+24173,Health
+24176,Meditation
+24179,Wellness
+24182,Penggunaan Laptop Un
+24185,Public Speaking Dasar
+24188,Dasar Dasar Komputer
+24191,Pengetahuan Awal Cod
+24194,Web Development
+24197,Industrial Instrumentation
+24200,Digital Illustration
+24203,TypeScript
+24206,Canva Edu
+24209,Smart App Creator
+24212,.NET Core Framework
+24215,C++
+24218,Tailwind
+24221,10-typing-key
+24224,aconting-publicspeak
+24227,NG Design Leadership
+24230,Google Forms
+24233,Google Spreadsheets
+24236,kerja-tim
+24239,Personal Branding
+24242,routin
+24245,Audio Production
+24248,ni-multisim
+24251,Bill of Materials
+24254,Robotika
+24257,Enterprise Application
+24260,Komputerisasi Akuntansi
+24263,Operations Management
+24266,Technology Integration
+24269,Integrity and Ethics
+24272,Digital Tools
+24275,Pemrograman Dasar Python
+24278,Technology Management
+24281,Business Model Innovation
+24284,Adaptasi dan Belajar
+24287,Data Science
+24290,Data Engineering
+24293,Logika Matematika
+24296,pemecahan-masalah
+24299,Hacking
+24302,Flutter Bloc
+24305,Struktur Data dan Algoritma
+24308,Pengembangan Aplikasi
+24311,Jaringan Komputer
+24314,SOAP API
+24317,2D Illustration
+24320,2D Animation
+24323,Visual FoxPro 9
+24326,Messenger
+24329,Staff Support
+24330,Science
+24332,Back End
+24335,Infrastructure
+24338,Statistika
+24341,Mendix
+24347,Frontend
+24352,Desain Flutter
+24353,Foundry
+24359,Batch
+24365,React JS
+24368,Quantitative Analyst
+24371,Service Printer
+24374,Dasar Python
+24377,Pemrograman Berorientasi Objek
+24380,Saya Pemula
+24383,Paling Bahasa Assembly
+24386,Pengembang Web
+24389,System on Chip
+24392,Digital Forensic
+24395,Zig
+24398,Kepemimpinan
+24401,pengendalian-proyek
+24404,perencanaan-anggaran
+24407,perencanaan-waktu
+24410,teknolig
+24413,belum-dimiliki
+24416,moile
+24419,keterampilan-kompute
+24422,dasar-ngoding
+24425,-c-programming-langu
+24428,programing
+24431,cpp
+24434,ui-ux-design
+24437,front-end
+24440,video-editing
+24443,rest-api
+24446,uiux-design
+24449,problem-solving
+24452,front-end-web-dev
+24455,uiux
+24458,webdev
+24461,ml
+24464,gamedev
+24467,machinelearning
+24470,desain-grafis
+24473,data-science
+24476,machine-learning
+24479,microsoft-office
+24482,google-data-studio
+24485,power-bi
+24488,adobe-photoshop
+24491,adobe-illustrator
+24494,adobe-indesign
+24497,qa-tester
+24500,bash-script
+24503,modsecurity
+24506,webdesign
+24509,design-grafis
+24512,tailwind-css
+24515,dot-net
+24518,artificial-intellige
+24521,web-design
+24524,graphic-design
+24527,ui-design
+24530,ux-design
+24533,uxdesigner
+24536,front-endweb
+24539,software-testing
+24542,performance-testing
+24545,nodejs
+24548,jav
+24551,s
+24554,komputer-perangkat-l
+24557,golang
+24560,design-pattern
+24563,clean-architechture
+24566,cqrs
+24569,analysis-statistik-b
+24572,desain
+24575,seo
+24578,designuiux
+24581,data-analysis-dasar
+24584,data-science-dasar
+24587,visualisasi-data
+24590,it-security
+24593,sysadmin
+24596,data-analyst
+24599,data-visualisasi
+24602,system-analysis
+24605,database-designer
+24608,data-scientist
+24611,desktop-programming
+24614,drawio
+24617,express-js
+24620,next-js
+24623,mobiledev
+24626,phyton
+24629,web-developer
+24632,computer-networking
+24635,computer-programming
+24638,fullstack-developer
+24641,3d-modelling
+24644,creative-writter
+24647,data-analys
+24650,visualstudio
+24653,game-development
+24656,front-end-web
+24659,powerbi
+24662,data-cleaning
+24665,manajement-project
+24668,ui-ux
+24671,prompt-ai
+24674,publik-speaking
+24677,library-js
+24680,web-development
+24683,frontend-web-develop
+24686,react-js
+24689,cs
+24692,shadcn
+24695,fullstack-dev
+24698,backend-development
+24701,web-dev
+24704,multi-platform-dev
+24707,backend-developer
+24710,ai
+24713,datascience
+24716,webdeveloper
+24719,dataentry
+24722,datamodelling
+24725,awscloud
+24728,ja
+24731,mobile-developer
+24734,it-support
+24737,network-engineer
+24740,system-analyst
+24743,soc-analyst
+24746,frontend-dev
+24749,kot
+24752,android-developer
+24755,network-design-imple
+24758,security-performance
+24761,cloud-virtualization
+24764,pyth
+24767,tidak-ada
+24770,py
+24773,data-analist
+24776,digitalmarketing
+24779,artificialintellegen
+24782,google-looker
+24785,gen-ai-engineering
+24788,data-visualization
+24791,-sql
+24794,iot-dasar
+24797,csharp
+24800,microsoftsqlserver
+24803,aku-orang-awam-sekal
+24806,gatau-apa-apa-mohon-
+24809,desaingrafis
+24812,written-communicatio
+24815,google-workspaces
+24818,technical-support
+24821,pemograman
+24824,next
+24827,clean-architecture
+24830,mvvm
+24833,desaign
+24836,digital-marketing
+24839,data-analyst.
+24842,marketing-analyst
+24845,web-programming
+24848,quality-assurance
+24851,-system-analyst
+24854,php-developer
+24857,dataana
+24860,basic-next-js
+24863,linux-sistem-adminis
+24866,network-administrato
+24869,typscript
+24872,iot
+24875,pytho
+24878,tracking
+24881,phytonscript
+24884,adobe-xd
+24887,it-network
+24890,dasar-security
+24893,network-fundamental
+24896,elektronika-dasar
+24899,electrical-dasar
+24902,routing-protocol
+24905,memasang-wifi
+24908,js
+24911,reac
+24914,data-administrasi
+24917,layout
+24920,arduino-ide
+24923,sentiment-analysis
+24926,data-training-ai
+24929,-
+24932,fundamental-programi
+24935,database-dasar
+24938,google-sites
+24941,-ar
+24944,assemble-edu
+24947,embedded-system
+24950,saya
+24953,punya
+24956,skill
+24959,apaapa
+24962,basisdata
+24965,pengembanganweb
+24968,manajemenproyek
+24971,basic-programming
+24974,server-administrator
+24977,dasarwebsite
+24980,algoritmm
+24983,multi-platform
+24986,design-ui-ux
+24989,digital-forensik
+24992,menggunakan-vs-code
+24995,nextjs
+24998,dasar-pemrograman-c-
+25001,html-css-javascript-
+25004,database-dasar-mysql
+25007,oop-dasar
+25010,git-version-control-
+25013,microsoft-excell-ana
+25016,basic-website
+25019,dapat-melakukan-pemo
+25022,hanya-sedikit-sepert
+25025,-html
+25028,microsoft-word
+25031,microsoft-excel
+25034,analisis-data
+25037,ui/ux-designer
+25040,menganalisa-teknologi
+25043,microsoft-excell
+25046,edit-atau-pendataan
+25049,ai-engineer
+25052,berbisnis
+25055,bermain-musik
+25058,backtend
+25061,ai-voice-integration
+25064,vue-js
+25067,virtual-machine
+25070,media-social-admin
+25073,sekolah
+25076,analisis-keuangan
+25079,pelaporan-keuanga
+25082,pencatatan-keuangan
+25085,pengprasian-excel
+25088,pengoprasian-myob
+25091,-notepadd
+25094,burpsuite
+25097,penetration-testing
+25100,network-engineering
+25103,remote-sensing
+25106,deep-learning
+25109,object-detection
+25112,artificial-intelligence
+25115,memahami-penggunaan-
+25118,cisco-packet-tracer
+25121,adobe-lightroom
+25124,masih-belajar-pemrog
+25127,tailwindcss
+25130,-backend
+25131,general-computer
+25133,hardware-engineer
+25136,it-engineer
+25139,saya-tidak-mempunyai
+25142,skill-di-bidang-it-s
+25145,saya-seorang-pemula-
+25148,ang-berminat-belajat
+25151,saya-baru-dari-dasar
+25154,seperti-c
+25157,dasar-jaringan
+25160,cyber-security
+25163,html-css-javascript
+25166,olahraga
+25169,pyhton
+25172,ethical-hacker
+25175,dasar-web
+25178,menejemen-waktu
+25181,kerja-sama-tim
+25184,disiplin
+25187,mechanical-enggineri
+25190,cloud-computing
+25193,-yang-dikuasai-jadi-
+25196,pemula-di-python
+25199,front-end-dev
+25202,back-end-dev
+25205,saya-sudah-berhasil-
+25208,embuat-projek-pribad
+25211,dasar-python
+25214,pembuatanweb
+25217,lms
+25220,elearning
+25223,webschool
+25226,konsisten
+25229,front-end-web-dasar
+25232,data-analisis
+25235,belum-ada-skill-masi
+25238,lar
+25241,game-developer
+25244,scripting-bash
+25247,ui-ux-designer
+25250,socialmedia
+25253,pengembangan-web-pen
+25256,embangan-aplikasi-so
+25259,t-skil-terkait-coodi
+25262,microsoftword
+25265,backend-web-develope
+25268,node-js
+25271,futsal
+25274,software-enggineer
+25277,nodejs-python-ruby-p
+25280,untuk
+25283,saat
+25286,masih
+25289,bingung
+25292,belum-ada-untuk-dico
+25295,astro
+25298,sedikit-paham-html
+25301,web3dev
+25304,data-analysis-phyton
+25307,-ui-ux-android-app
+25310,critical-thinking
+25313,math
+25316,copy-writing
+25319,data-entry
+25322,desa-grafis
+25325,masih-dasaran-menggu
+25328,writting
+25331,mendesain
+25334,codingdasar
+25337,dasar-coding
+25340,teknik-dasar-mengedi
+25343,ux-research
+25346,design-thinking
+25349,basic-html
+25352,basic-js
+25355,basic-css
+25358,web-developer-ai
+25361,program
+25364,-logo-designer-
+25367,design-webdevelopmen
+25370,figma-canva-wordpres
+25373,frontend-dan-backend
+25376,accounting-engginer-
+25379,it-infrastruktur
+25382,front-end-developer
+25385,-desain-grafis
+25388,-machine-learning
+25391,mysql-databasemanage
+25394,python-dasar
+25397,android-studio
+25400,big-data
+25403,mc-word
+25406,mc-excel
+25409,data-analysis
+25412,basic-coding-java
+25415,-basic-html
+25418,microcontroler
+25421,data-preparation
+25424,python-programming
+25427,r-programming
+25430,data-signalling
+25433,modelling-data
+25436,editor-video
+25439,fotografer
+25442,pengemangan-aplikasi
+25445,pemrograman-aplikasi
+25448,looker-studio
+25451,web-devoloper
+25454,kontent-creation
+25457,business-analis
+25460,frontend-developer-
+25463,meta-ads
+25466,-tiktok-ads
+25469,ai-autoamtion
+25472,n8n-autimation
+25475,vibe-code
+25478,mengoprasikan-mesin-
+25481,networking-dasar
+25484,instalasi-os
+25487,oprek-android
+25490,rooting
+25493,custom-rom
+25496,basic-ai
+25499,belum-ada-
+25502,graphic-designer
+25505,dasar-dasar-pemrogra
+25508,merakit-lego
+25511,mengetiksecaracepat
+25514,memilahdata
+25517,dasar-ai
+25520,dasar-pemograman
+25523,logika-matematik
+25526,penggunaan-library-p
+25529,frontend-developer
+25532,prompt-enginering
+25535,video-editor
+25536,dasar-html
+25538,kerja-sama-tim------
+25541,riset-analisis-sosia
+25544,dasar-css
+25547,dasar-java-script
+25550,restapi
+25553,editing-video
+25556,mendesain-ui-ux
+25559,dasar-dasar-sql
+25562,project-management
+25565,dataanalysis
+25568,full-stack-web-dev
+25571,public-speaking
+25574,sedikit-tau-tentang-
+25577,oding-menggunakan-ap
+25580,teknisi-hardware
+25583,ms-office
+25586,hmtl
+25589,visualisasi-data-das
+25592,belom-ada-sama-sekal
+25595,3dmodeling
+25598,autodesk-maya
+25601,substance-painter
+25604,marmoset-toobag
+25607,ms-word
+25610,pemrograman-dasar
+25613,bisa-mengoperasikan-
+25616,komputer-
+25619,konfigurasi-jaringan
+25622,master-of-ceremony
+25625,teknik-komputer-jari
+25628,project-manager
+25631,jetpack-compose
+25634,publick-speaking
+25637,editing-fotovideo
+25640,kerjasama-tim
+25643,softwaredevelopment
+25646,userresearcher
+25649,uiuxconsultant
+25652,seospecialist
+25655,react-native
+25658,dl
+25661,administrasi-jaringa
+25664,kalkulus
+25667,ethical-hacking
+25670,windows-server
+25673,saya-belum-memiliki-
+25676,skil-apaun-dalam-gen
+25679,front-en
+25682,eam-collaboration
+25685,basic-tailwind
+25688,basic-javascript
+25691,designgraphic
+25694,msword
+25697,tau-tentang-jaringan
+25700,html-dasar
+25703,memiliki
+25706,zsh
+25709,publicpeaking
+25712,oprek-perangkat
+25715,konfigurasi-mikrotik
+25718,design-graphic
+25721,aws-komputasi-awan-
+25724,teliti
+25727,komunikatif
+25730,adaptif
+25733,analitis
+25736,network-administrator
+25739,masak
+25742,bangunan
+25745,cor
+25748,korespondensi
+25751,database-engineering
+25754,frontend-developer--
+25757,microsoft-office-wor
+25760,penulisan-akademik
+25763,editing-dokumen
+25766,back-end
+25769,editing-vidio
+25772,html-css-dasar
+25775,membuat-prompt
+25778,membuat-workflow-ai
+25781,machine-leurning
+25784,tableu
+25787,design-engineer
+25790,gerbang-logika
+25793,fisika
+25796,keamanan-jaringan
+25799,-memasak
+25802,aku-baru-mempelajari
+25805,untuk-back-end-yaitu
+25808,laravel-12-dan-untuk
+25811,web-php
+25814,larvel
+25817,vbnet
+25820,menghitung
+25823,wor
+25826,axel
+25829,komunikasi-problem-s
+25832,etap-multisim-
+25835,it-project
+25838,event-coordination
+25841,program-management
+25844,entertaiment
+25847,logikapemrogamandasa
+25850,motion-graphic
+25853,low-level-programmin
+25856,cpp-programmer
+25859,database-management
+25862,sqa
+25865,web-depelovment.
+25868,iot-mikrokontroller
+25871,deeplearning
+25874,belum-memiliki-keahl
+25877,an-dibidang-it
+25880,belum-memiliki-kemampuan-dibidang-it
+25883,microsoft-excel-data
+25886,testing-aplikasi
+25889,frontend-development
+25892,fiberoptic
+25895,lan
+25898,comandprompt
+25901,• operating-system
+25904,microsoft-office-sui
+25907,-data-analysis-tools
+25910,menggambar-
+25913,installation
+25916,backend-dengan-php
+25919,-data-entry
+25922,email-marketin
+25925,-words
+25928,-virtual-asisstant
+25931,junior-frontend
+25934,keamanan-it
+25937,content-writing
+25940,seo-writing
+25943,bootstrap-4
+25946,basic-python
+25949,mobile-developer-dat
+25952,assesor
+25955,basic-developing
+25958,begineer-programmer
+25961,game-design
+25964,editorfotdanvideo
+25967,pemogramandasar
+25970,aws
+25973,gis
+25976,anyflip
+25979,pembuatan-video
+25982,membuat-artikel
+25985,membuat-media-pembel
+25988,videografy-fotograf-
+25991,network-enginer
+25994,ai-network-administr
+25997,editor-viedo
+26000,desain-2d-3d
+26003,software-konstruksi
+26006,dasar-web-developmen
+26009,mvvm-architecture
+26012,dependency-injection
+26015,ai-engineer-promptin
+26018,figma-design
+26021,game-programmer
+26024,blockchain-architect
+26027,metode-desainlearnin
+26030,media-pembelajaran
+26033,seo-article-writing
+26036,collaboration
+26039,team-work
+26042,time-management
+26045,creative-thinking
+26048,dasar-dasar-bahasa-p
+26051,frontendweb
+26054,web-designer
+26057,analyst-system
+26060,minim
+26063,daro-nol
+26066,fixed-broadband
+26069,mobile-broadband
+26072,satellite
+26075,vsat
+26078,optical-fibre
+26081,broadcasting-infrast
+26084,search-engine-optimization
+26087,web-developmen
+26090,spatial-analysis
+26093,web-scrapping
+26096,natural-language-processing
+26099,android-development
+26102,llm
+26105,llm-engineering
+26108,advance-analytics
+26111,software-engineering
+26114,system-design
+26117,ar-developer
+26120,computer-vision
+26123,data-engineering
+26126,erp
+26129,business-analys
+26132,internet-of-things
+26135,product-development
+26138,-negosiasi
+26141,legalitas
+26144,backend-engeering
+26147,nlp
+26150,reinforcement-learni
+26153,researach
+26156,data-pipeline
+26159,convolutional-neural-network
+26162,etl
+26165,fundraising
+26168,data-analytics
+26171,back-end-developer
+26174,netrowk-enginer
+26177,dekstop-developer
+26180,cloud-computing-gcp-
+26183,networking-analyst--
+26186,rakit-komputer
+26189,bongkar-bangun-jarin
+26192,troubleshooting-komp
+26195,stack-and-queue
+26198,cv
+26201,ds
+26204,mobile-development
+26207,sistem-analis
+26210,komputer-dasar
+26213,m
+26216,html-css
+26219,php-sql
+26222,spring-boot
+26225,data-processing
+26228,backend-engineer
+26231,software-development
+26234,system-architecture
+26237,business-analysis
+26240,plc-industrial-autom
+26243,raspberry-pi
+26246,internet-of-thhings
+26249,raspberry-pi-4b
+26252,esp-32
+26255,plc
+26258,php-programming
+26261,reactnative
+26264,instalasi-software
+26267,instalasi-hardware
+26270,instalasi-network
+26273,monitoring-network
+26276,ticketing
+26279,microsoft-365
+26282,statistical-modeling
+26285,data-preprocessing
+26288,data-exploration
+26291,teknik-informatika--
+26294,teknik-jaringan-----
+26297,machine-lerning
+26300,deeplerning
+26303,geospatial-data
+26306,general-insurance
+26309,financial-guarantee
+26312,man-power-supply
+26315,vehicle-rental
+26318,event-organizer

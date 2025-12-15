@@ -1,0 +1,174 @@
+/* RESET */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+/* OVERLAY HEADER */
+body.page-auth header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: transparent;
+  z-index: 1000;
+}
+
+body.page-auth .main-content {
+  padding: 0;
+}
+
+/* LAYOUT */
+.auth-container {
+  min-height: 100vh;
+  display: flex;
+}
+
+/* LEFT */
+.auth-left {
+  flex: 1;
+  background-color: #1f2d3d;
+  color: #ffffff;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  padding: 80px 60px;
+}
+
+.auth-left h1 {
+  font-size: 42px;
+  margin-bottom: 16px;
+}
+
+.auth-left p {
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 420px;
+}
+
+/* RIGHT */
+.auth-right {
+  flex: 1;
+  background-color: #ffffff;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 80px 60px;
+}
+
+/* TEXT */
+.auth-title {
+  font-size: 28px;
+  margin-bottom: 8px;
+  max-width: 360px;
+  width: 100%;
+}
+
+.auth-subtitle {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 32px;
+  max-width: 360px;
+  width: 100%;
+}
+
+/* FORM */
+.auth-form {
+  width: 100%;
+  max-width: 360px;
+  display: flex;
+  flex-direction: column;
+}
+
+.auth-form label {
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+
+.auth-input {
+  padding: 14px 16px;
+  margin-bottom: 20px;
+
+  background-color: #1f2d3d;
+  color: #ffffff;
+
+  border: 1px solid #2f3f52;
+  border-radius: 6px;
+}
+
+.auth-input:focus {
+  outline: none;
+  border-color: #4f9cff;
+}
+
+/* BUTTON */
+.auth-button {
+  margin: 10px auto 0;
+  padding: 12px 0;
+  width: 100%;
+  max-width: 200px;
+
+  background-color: #1f2d3d;
+  color: #ffffff;
+
+  border: none;
+  border-radius: 6px;
+
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.auth-button:hover {
+  opacity: 0.9;
+}
+
+/* FOOTER */
+.auth-footer {
+  width: 100%;
+  max-width: 360px;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.auth-footer a {
+  text-decoration: none;
+  color: #111;
+}
+
+.auth-footer a:hover {
+  text-decoration: underline;
+}
+
+.auth-link-primary {
+  color: #1f2d3d;
+  font-weight: 600;
+}
+
+/* NOTE */
+.auth-note {
+  font-size: 13px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .auth-container {
+    flex-direction: column;
+  }
+
+  .auth-left,
+  .auth-right {
+    padding: 40px 24px;
+  }
+}

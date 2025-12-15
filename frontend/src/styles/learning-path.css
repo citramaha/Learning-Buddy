@@ -1,0 +1,139 @@
+/* ================================
+   WRAPPER (FULL WIDTH, KONSISTEN)
+================================ */
+.lp-wrapper {
+  width: 100%;
+  margin-top: 11px;
+  padding: 0 24px;
+  box-sizing: border-box;
+}
+
+/* ================================
+   MAIN CONTAINER (PANEL UTAMA)
+================================ */
+.lp-container {
+  background: #ffffff;
+  border-radius: 11px;
+  padding: 18px;
+  box-shadow: 0 8px 20px rgba(31, 41, 55, 0.08);
+}
+
+/* ================================
+   TITLE & SUBTITLE
+================================ */
+.lp-title {
+  background: #1f2937;
+  color: #ffffff;
+  padding: 20px 28px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.lp-subtitle {
+  font-size: 14px;
+  color: #6b7280;
+  margin-bottom: 24px;
+  line-height: 1.6;
+}
+
+/* ================================
+   GRID
+================================ */
+.lp-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+/* ================================
+   CARD
+================================ */
+.lp-card {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.25s ease;
+}
+
+.lp-card:hover {
+  border-color: #1f2937;
+  box-shadow: 0 8px 20px rgba(31, 41, 55, 0.08);
+}
+
+/* ================================
+   CARD CONTENT
+================================ */
+.lp-card-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* ================================
+   NAME
+================================ */
+.lp-name {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #1f2937;
+}
+
+/* ================================
+   DESCRIPTION
+================================ */
+.lp-desc {
+  font-size: 14px;
+  color: #4b5563;
+  line-height: 1.6;
+  flex-grow: 1;
+  margin-bottom: 18px;
+}
+
+/* ================================
+   BUTTON (SAMA DENGAN ASSESSMENT)
+================================ */
+.lp-btn {
+  align-self: flex-start;
+  background-color: #1f2937;
+  color: #ffffff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.lp-btn:hover {
+  background-color: #1f2d3a;
+}
+
+/* ================================
+   EMPTY STATE
+================================ */
+.lp-grid p {
+  color: #6b7280;
+  font-size: 14px;
+}
+
+/* ================================
+   RESPONSIVE
+================================ */
+@media (max-width: 768px) {
+  .lp-wrapper {
+    padding: 0 16px;
+  }
+
+  .lp-container {
+    padding: 20px;
+  }
+
+  .lp-title {
+    font-size: 18px;
+  }
+}

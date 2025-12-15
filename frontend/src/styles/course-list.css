@@ -1,0 +1,172 @@
+/* ================================
+   BACK BUTTON
+================================ */
+.btn-back {
+  background: none;
+  border: none;
+  color: #2563eb;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 16px;
+}
+
+.btn-back:hover {
+  text-decoration: underline;
+}
+
+/* ================================
+   COURSE CONTAINER (KOTAK UTAMA)
+================================ */
+.course-container {
+  background-color: #ffffff;
+  border-radius: 16px;
+  margin-top: 11;
+  padding: 24px 32px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+}
+
+/* ================================
+   TITLE
+================================ */
+.course-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: #ffffff;
+}
+
+/* ================================
+   COURSE ITEM
+================================ */
+.course-item {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  align-items: center;
+  gap: 24px;
+  padding: 16px 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.course-item:last-child {
+  border-bottom: none;
+}
+
+/* ================================
+   COURSE NAME
+================================ */
+.course-name {
+  font-size: 15px;
+  font-weight: 500;
+  color: #374151;
+}
+
+.completed-text {
+  color: #15803d;
+  font-weight: 600;
+}
+
+.course-item.completed .course-name {
+  color: #15803d;              
+  font-weight: 600;
+  text-decoration: line-through;
+  text-decoration-thickness: 1px;
+  text-decoration-color: #15803d;
+}
+
+/* ================================
+   META (JAM & LEVEL RATA KANAN)
+================================ */
+.course-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  font-size: 13px;
+  color: #6b7280;
+  min-width: 120px;
+  text-align: right;
+}
+
+/* ================================
+   BUTTON COURSE
+================================ */
+.course-btn {
+  padding: 8px 16px;
+  border-radius: 999px;
+  border: none;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  background-color: #e5e7eb;
+  color: #374151;
+}
+
+/* COURSE SELESAI (HIJAU) */
+.course-btn:has-text("✔") {
+  background-color: #dcfce7;
+  color: #15803d;
+}
+
+/* fallback (lebih aman) */
+.course-btn.completed {
+  background-color: #dcfce7;
+  color: #15803d;
+}
+
+/* ================================
+   PROGRESS SECTION
+================================ */
+.progress-section {
+  margin-top: 32px;
+}
+
+.progress {
+  width: 100%;
+  height: 10px;
+  background-color: #e5e7eb;
+  border-radius: 999px;
+  overflow: hidden;
+  margin-top: 8px;
+}
+
+#progress-bar {
+  height: 100%;
+  background-color: #16a34a;
+  width: 0;
+  transition: width 0.4s ease;
+}
+
+.progress-text {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #374151;
+}
+
+.course-footer {
+  margin-top: 32px;
+  padding-top: 16px;
+  border-top: 1px solid #e5e7eb;
+}
+
+.c-title {
+background: #1f2937;
+  color: #ffffff;
+  padding: 20px 28px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+/* ================================
+   RESPONSIVE
+================================ */
+@media (max-width: 100%) {
+  .course-item {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .course-meta {
+    align-items: flex-start;
+    text-align: left;
+  }
+}

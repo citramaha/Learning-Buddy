@@ -1,0 +1,161 @@
+/* =================================================
+   TITLE BOX
+   ================================================= */
+.result-title-box {
+  background: #1f2937;
+  color: #ffffff;
+  padding: 20px 28px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.result-title-box h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* =================================================
+   SUMMARY BOX
+   ================================================= */
+.result-summary-box {
+  background: #ffffff;
+  padding: 28px;
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(31, 41, 55, 0.08);
+  margin-bottom: 32px;
+}
+
+.score-value {
+  font-size: 34px;
+  font-weight: 800;
+  color: #1f2937;
+}
+
+.score-label {
+  font-size: 14px;
+  color: #6b7280;
+  margin-bottom: 12px;
+}
+
+.progress-wrap {
+  height: 8px;
+  background: #e5e7eb;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 16px;
+}
+
+.progress-bar {
+  height: 100%;
+  background: #22c55e;
+}
+
+.summary-text {
+  font-size: 14px;
+  color: #374151;
+  line-height: 1.7;
+}
+
+/* =================================================
+   SKILL LIST (VERTICAL)
+   ================================================= */
+.skill-container {
+  background: #ffffff;
+  padding: 24px;
+  border-radius: 14px;
+  margin-bottom: 32px;
+}
+
+.skill-container h4 {
+  margin-bottom: 16px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #1f2937;
+}
+
+.skill-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 14px;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.skill-name {
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.skill-score {
+  font-weight: 700;
+  color: #16a34a;
+}
+
+/* =================================================
+   CENTER BUTTON
+   ================================================= */
+.result-action-center {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+/* =================================================
+   DETAIL JAWABAN
+   ================================================= */
+.result-detail-container {
+  background: #ffffff;
+  padding: 28px;
+  border-radius: 14px;
+  border-top: 4px solid #1f2937;
+}
+
+.result-detail-container h4 {
+  margin-bottom: 16px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+/* =================================================
+   ANSWER LIST
+   ================================================= */
+.answer-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.answer-item {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 14px;
+}
+
+.answer-status {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.answer-status.correct {
+  color: #16a34a;
+}
+
+.answer-status.wrong {
+  color: #dc2626;
+}
+
+.question-text {
+  margin: 10px 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.answer-user,
+.answer-correct {
+  font-size: 13px;
+  color: #374151;
+}

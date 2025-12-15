@@ -1,0 +1,155 @@
+/* ===== PAGE BACKGROUND ===== */
+body {
+  background-color: #f2f2f2;
+}
+
+/* ===== LAYOUT ===== */
+.quiz-page {
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+/* ===== PANEL ===== */
+.quiz-page .panel {
+  background: #ffffff;
+  width: 100%;
+  max-width: 900px;
+  padding: 28px 32px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+/* ===== HEADER ===== */
+.quiz-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 22px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 12px;
+}
+
+.quiz-header h3 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #111;
+}
+
+/* ===== TIMER ===== */
+#quiz-timer {
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #2c3e50;
+  padding: 6px 14px;
+  border-radius: 20px;
+}
+
+/* ===== QUESTION CARD ===== */
+.question-card {
+  background: #fafafa;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 22px 24px;
+}
+
+/* ===== QUESTION META ===== */
+.question-card strong {
+  font-size: 14px;
+  color: #333;
+}
+
+.question-card small {
+  color: #777;
+}
+
+/* ===== QUESTION TEXT ===== */
+.q-desc {
+  font-size: 15px;
+  color: #222;
+  line-height: 1.6;
+  margin: 14px 0 18px;
+}
+
+/* ===== OPTIONS ===== */
+.options label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #fff;
+  transition: all 0.2s ease;
+  font-size: 14px;
+}
+
+.options input[type="radio"] {
+  accent-color: #2c3e50;
+  cursor: pointer;
+}
+
+/* hover option */
+.options label:hover {
+  background-color: #f0f4f8;
+  border-color: #2c3e50;
+}
+
+/* selected option */
+.options input[type="radio"]:checked + span,
+.options label:has(input[type="radio"]:checked) {
+  background-color: #eaf0f6;
+  border-color: #2c3e50;
+  font-weight: 500;
+}
+
+/* ===== NAV BUTTONS ===== */
+.question-card button {
+  height: 40px;
+  padding: 0 18px;
+  border-radius: 6px;
+  border: none;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+/* prev */
+#prev-btn {
+  background-color: #ccc;
+  color: #333;
+  margin-right: 8px;
+}
+
+#prev-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* next / finish */
+#next-btn,
+#finish-btn {
+  background-color: #2c3e50;
+  color: #fff;
+}
+
+#next-btn:hover,
+#finish-btn:hover {
+  background-color: #1f2d3a;
+}
+
+/* ===== PROGRESS ===== */
+.question-card small {
+  display: block;
+  margin-top: 10px;
+  color: #666;
+  font-size: 12px;
+}
+
+/* ===== FINISH STATE ===== */
+#finish-btn {
+  margin-top: 12px;
+}

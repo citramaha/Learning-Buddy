@@ -1,0 +1,251 @@
+.assessment-layout {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 24px;
+}
+
+.side-menu {
+  background: #fff;
+  border-radius: 16px;
+  margin-top: 11px;
+  padding: 20px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.04);
+}
+
+.side-menu ul {
+  list-style: none;
+}
+
+.side-menu li a {
+  display: block;
+  padding: 10px 12px;
+  border-radius: 10px;
+  color: #374151;
+}
+
+.side-menu li a.active,
+.side-menu li a:hover {
+  background: #eff6ff;
+  color: #2563eb;
+}
+
+/* ================================
+   THEME VARIABLES
+================================ */
+:root {
+  --primary: #1f2937;
+  --primary-soft: #374151;
+  --text-muted: #6b7280;
+  --border: #e5e7eb;
+
+
+  --accent: #2563eb;
+  --accent-hover: #1d4ed8;
+
+  --success: #15803d;
+  --success-bg: #f0fdf4;
+}
+
+/* ================================
+   PAGE BACKGROUND
+================================ */
+.assessment-landing {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: var(--bg-soft);
+}
+
+/* ================================
+   MAIN CONTAINER
+================================ */
+.assessment-panel {
+  width: 100%;
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 32px;
+  border: 1px solid var(--border);
+}
+
+/* ================================
+   HERO
+================================ */
+.assessment-hero {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.assessment-icon {
+  font-size: 42px;
+  margin-bottom: 8px;
+}
+
+.assessment-hero h3 {
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 6px;
+}
+
+.assessment-hero .subtitle {
+  color: var(--text-muted);
+  font-size: 15px;
+}
+
+/* ================================
+   STATUS BOX
+================================ */
+.assessment-status {
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid var(--border);
+  margin-bottom: 28px;
+}
+
+.assessment-status.loading {
+  color: var(--text-muted);
+  background-color: var(--bg-soft);
+}
+
+/* Empty */
+.status-empty strong {
+  display: block;
+  color: var(--primary);
+  margin-bottom: 6px;
+}
+
+.status-empty p {
+  color: var(--text-muted);
+  margin-bottom: 12px;
+}
+
+/* Done */
+.status-done strong {
+  color: var(--success);
+}
+
+.status-done p {
+  color: var(--primary);
+  margin: 4px 0;
+}
+
+.status-actions {
+  display: flex;
+  gap: 12px;
+  margin-top: 14px;
+}
+
+/* ================================
+   SECTIONS
+================================ */
+.assessment-section {
+  margin-bottom: 28px;
+}
+
+.assessment-section-title {
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 8px;
+}
+
+/* Text */
+.assessment-section p {
+  color: var(--primary-soft);
+  line-height: 1.6;
+}
+
+/* Lists */
+.assessment-list,
+.assessment-steps {
+  padding-left: 18px;
+  color: var(--primary-soft);
+}
+
+.assessment-list li,
+.assessment-steps li {
+  margin-bottom: 6px;
+}
+
+/* ================================
+   FOOTER NOTE
+================================ */
+.assessment-footer-note {
+  background-color: var(--bg-soft);
+  border-left: 4px solid var(--accent);
+  padding: 14px 18px;
+  border-radius: 8px;
+  margin-bottom: 28px;
+}
+
+.assessment-footer-note p {
+  color: var(--primary-soft);
+  font-size: 14px;
+}
+
+/* ================================
+   CTA
+================================ */
+.assessment-cta {
+  text-align: center;
+  padding-top: 16px;
+  border-top: 1px dashed var(--border);
+}
+
+.assessment-cta p {
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+/* ================================
+   BUTTONS (KONSISTEN)
+================================ */
+.button-primary {
+  background-color: var(--accent);
+  color: #ffffff;
+  border: none;
+  padding: 8px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.button-primary:hover {
+  background-color: var(--accent-hover);
+}
+
+.button-secondary {
+  background-color: var(--success);
+  color: #ffffff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.button-outline {
+  background: transparent;
+  border: 1px solid var(--border);
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.button-outline:hover {
+  border-color: var(--primary);
+}
+
+/* ================================
+   RESPONSIVE
+================================ */
+@media (max-width: 768px) {
+  .assessment-landing {
+    padding: 16px;
+  }
+
+  .assessment-panel {
+    padding: 20px;
+  }
+
+  .status-actions {
+    flex-direction: column;
+  }
+}

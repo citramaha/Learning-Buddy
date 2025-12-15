@@ -1,0 +1,61 @@
+#skill-widget-btn {
+  position: fixed;
+  bottom: 130px; /* chatbot top + gap */
+  right: 35px;
+  width: 60px;
+  height: 60px;
+  background: #ffffffc2;
+  color: white;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  box-shadow: 0 8px 20px rgba(0,0,0,.25);
+  z-index: 9999; /* lebih rendah dari chatbot */
+}
+
+
+#skill-widget-panel {
+  position: fixed;
+  bottom: 150px;
+  right: 100px;
+  width: 260px;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 14px;
+  box-shadow: 0 12px 30px rgba(0,0,0,.2);
+  z-index: 100000; /* di atas semua */
+}
+
+#skill-widget-panel.hidden {
+  display: none;
+}
+
+#skill-widget-panel h4 {
+  margin-bottom: 12px;
+  font-size: 14px;
+}
+
+.skill-item {
+  margin-bottom: 10px;
+}
+
+.skill-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+
+.skill-bar {
+  height: 6px;
+  background: #e5e7eb;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.skill-bar-fill {
+  height: 100%;
+  background: #22c55e;
+  border-radius: 6px;
+}

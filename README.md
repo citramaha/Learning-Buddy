@@ -14,8 +14,10 @@ menentukan learning path, course, dan tutorial sesuai minat dan kemampuan.
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
+frontend/  
+backend/  
 
 ---
 
@@ -23,5 +25,4 @@ menentukan learning path, course, dan tutorial sesuai minat dan kemampuan.
 
 ```bash
 pip install -r requirements.txt
-python -m pip install pandas
 uvicorn api:app --reload
